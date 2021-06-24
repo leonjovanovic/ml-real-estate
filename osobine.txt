@@ -1,0 +1,24 @@
+Osobine:
+
+1 cena 
+2 link
+3 tip nekretnine (stan ili kuća)
+https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/centar-sremska-kamenica/60b92225c6fd6e7e3e67ae08
+https://www.4zida.rs/prodaja/stanovi/novi-sad/oglas/telep/60ca18de450f8c1849395353
+https://www.4zida.rs/izdavanje/kuce/novi-sad/oglas/bulevar-oslobodjenja/5e41bcd3273171513405a779
+https://www.4zida.rs/izdavanje/stanovi/kragujevac/oglas/centar/605d9d840b393f75d470c617
+4 tip ponude (prodaja ili iznajmljivanje)
+5 lokacija1 - grad 
+6 lokacija2 - deo grada gde se lokacija nalazi
+
+7 kvadratura nekretnine - Površina
+8 godina izgradnje - Godina izgradnje
+9 površina zemljišta (samo za kuće) - Plac
+10 spratnost (ukupna i sprat na kojoj se nalazi, samo za stanove) - Spratnost
+11 uknjiženost (da/ne) - Uknjiženost
+12 tip grejanja - Grejanje
+13 ukupan broj soba - Broj soba
+14 ukupan broj kupatila (toaleta) - Unutrašnje prostorije regeks
+15 podaci o parkingu (da/ne) - Parking
+16 da li ima lift u zgradi - Lift
+17 da li ima terasu/lođu/balkon - Infrastruktura regeks

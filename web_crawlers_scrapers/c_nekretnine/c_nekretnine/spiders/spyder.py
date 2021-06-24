@@ -1,13 +1,16 @@
 import scrapy
 from protego import Protego
+import re
 
-all_urls = []
+all_urls = [
+    'https://www.nekretnine.rs/stambeni-objekti/kuce/lista/po-stranici/10/'
+]
 
 
 class Spider(scrapy.Spider):
     name = "nekretnine"
     start_urls = [
-        'https://www.nekretnine.rs/stambeni-objekti/stanovi/centar-kalca-4-soban-duplex-94m2-iii-iv-sprat-eg/NkhLK3OWMZg/'
+        'https://www.nekretnine.rs/stambeni-objekti/kuce/lista/po-stranici/10/'
     ]
 
     def parse(self, response):
@@ -24,27 +27,56 @@ class Spider(scrapy.Spider):
             oglas[2] = response.url.split('/')[4]
             oglas[3] = response.xpath('//h2[@class="detail-seo-subtitle"]/text()').get().split(",")[1].strip()
             oglas[4] = response.xpath('//h3[@class="stickyBox__Location"]/text()').get().split(",")[0].strip()
-            oglas[5] = response.xpath('//h3[@class="stickyBox__Location"]/text()').get().split(",")[1].strip()
-            # -------------------------------------------------------------------------
+            if len(response.xpath('//h3[@class="stickyBox__Location"]/text()').get().split(",")) > 1:
+                oglas[5] = response.xpath('//h3[@class="stickyBox__Location"]/text()').get().split(",")[1].strip()
+            # ----------------------------------------------------------------------------------------------------------
             labels = response.xpath('//div[@class="property__main-details"]//ul//li//span/span/text()').getall()
             values = response.xpath('//div[@class="property__main-details"]//ul//li//span//text()').getall()
-            del(values[0])
+            del (values[0])
             i = 0
             for _ in labels:
-                del(values[i])
+                del (values[i])
                 i += 1
             i = 0
             for _ in values:
                 values[i] = values[i].strip()
                 i += 1
-            print(labels)
-            print(values)
-            #for label in labels:
-
-            #labels = response.xpath('//div[@class="wrapper ng-star-inserted"]/.//div[@class="label"]/text()').getall()
-            #values = response.xpath('//div[@class="wrapper ng-star-inserted"]/.//div[@class="value"]/text()').getall()
-            #for label, value in zip(labels, values):
-            #    self.checkLabelValue(oglas, label[:-1], value)
+            for label, value in zip(labels, values):
+                self.checkLabelValue(oglas, label[:-1], value)
+            # ----------------------------------------------------------------------------------------------------------
+            # Godina izgradnje
+            # Broj kupatila
+            labels = response.xpath('//div[@class="property__amenities"]//ul//li/text()').getall()
+            values = response.xpath('//div[@class="property__amenities"]//ul//li//strong/text()').getall()
+            descr = response.xpath('//div[@class="cms-content-inner"]/text()').get()
+            if descr.strip() is None or descr.strip() == '':
+                descr = response.xpath('//div[@class="cms-content-inner"]//p/text()').getall()
+                descr = ''.join(descr)
+            descr_split = descr.split(" ")
+            i = 0
+            while i < len(labels):
+                labels[i] = re.sub(r"[\n\t\s]*", "", labels[i])
+                if labels[i] == '':
+                    del (labels[i])
+                else:
+                    i += 1
+            i = 0
+            for _ in values:
+                values[i] = values[i].strip()
+                i += 1
+            for label, value in zip(labels, values):
+                temp = self.checkBathroom(oglas, label[:-1], value, descr, descr_split)
+                if temp != 0:
+                    break
+            # Lift
+            for label in labels:
+                if "lift" in label or "Lift" in label:
+                    oglas[15] = "Da"
+                    break
+            for label in labels:
+                if "terasa" in label or "Terasa" in label or "Lođa" in label or "lođa" in label or "Balkon" in label or "balkon" in label:
+                    oglas[16] = "Da"
+                    break
             yield {
                 'Cena': oglas[0],
                 'Link': oglas[1],
@@ -65,49 +97,68 @@ class Spider(scrapy.Spider):
                 'Terasa': oglas[16]
             }
         # Find all links on that page
-        #for href in response.css('a::attr(href)'):
-        #    if href.get()[0:8] == '/prodaja' or href.get()[0:10] == '/izdavanje':
-        #        yield response.follow(href.get(), self.parse)
+        for a in response.css('a'):
+            flag = False
+            if 'class' not in a.attrib:
+                flag = True
+            else:
+                if a.attrib['class'] == "akla_a1_N7Mi3Qf" or a.attrib['class'] == "akla_a1_dNekDR2" or a.attrib['class'] == "pagination-arrow arrow-left" or a.attrib['class'] == "next-number" or a.attrib['class'] == "pagination-arrow arrow-right" or a.attrib['class'] == "d-block next-article-button m-auto" or a.attrib['class'] == "d-block placeholder-preview-box ratio-4-3" or a.attrib['class'] == "dropdown-item":
+                    flag = True
+            if 'href' in a.attrib and flag:
+                href = a.attrib['href']
+                if href[0:25] == '/stambeni-objekti/stanovi' and len(response.url.split('/')) < 12:
+                    yield response.follow(href, self.parse)
         # If we want specific link
         # pagination_links = response.css('li.next a')
         # yield from response.follow_all(anchors, callback=self.parse)
 
     def checkLabelValue(self, oglas, label, value):
-        if label == "Površina":
-            oglas[6] = value.split('m')[0]
-        elif label == "Godina izgradnje":
-            oglas[7] = value.split('.')[0]
-        elif label == "Plac":
+        if label == "Kvadratura":
+            oglas[6] = value.split(' m')[0]
+        elif label == "Površina zemljišta":
             oglas[8] = value
-        elif label == "Spratnost":
+        elif label == "Sprat":
             oglas[9] = value
-        elif label == "Uknjiženost":
+        elif label == "Uknjiženo":
             oglas[10] = value
         elif label == "Grejanje":
             oglas[11] = value
-        elif label == "Broj soba":
+        elif label == "Sobe":
             oglas[12] = value
-        elif label == "Unutrašnje prostorije":
-            s = 0
-            if 'kupatilo' in value:
-                s += 1
-            elif 'kupatila' in value:
-                for part in value.split(','):
-                    if 'kupatila' in part:
-                        temp = part.split('(')[1]
-                        s += int(temp[0:1])
-            if 'toaleti' in value:
-                for part in value.split(','):
-                    if 'toaleti' in part:
-                        temp = part.split('(')[1]
-                        s += int(temp[0:1])
-            elif 'toalet' in value:
-                s += 1
-            oglas[13] = s
         elif label == "Parking":
             oglas[14] = value
-        elif label == "Lift":
-            oglas[15] = value
-        elif label == "Infrastruktura":
-            if 'teras' in value or 'lo' in value:
-                oglas[16] = "terasa|lodja"
+
+    def checkBathroom(self, oglas, label, value, descr, descr_split):
+        if label == "Brojkupatila":
+            oglas[13] = value
+            return value
+        else:
+            s = 0
+            s += descr.count("kupatilo")
+            flag_toaleti = False
+            i = 0
+            for word in descr_split:
+                if ("kupatila" in word or "toaleti" in word) and i > 0:
+                    if "toaleti" in word and self.decodeNumber(descr_split[i - 1]) > 0:
+                        flag_toaleti = True
+                    s += self.decodeNumber(descr_split[i - 1])
+                i += 1
+            if not flag_toaleti:
+                s += descr.count("toalet")
+            oglas[13] = s
+            return s
+
+    def decodeNumber(self, n):
+        if n.isdigit():
+            return int(n)
+        if "dva" in n or "Dva" in n:
+            return 2
+        if "tri" in n or "Tri" in n:
+            return 3
+        if "etiri" in n or "etiri" in n:
+            return 4
+        if "pet" in n or "Pet" in n:
+            return 5
+        if "sest" in n or "Sest" in n or "šest" in n or "Šest" in n:
+            return 6
+        return 0
