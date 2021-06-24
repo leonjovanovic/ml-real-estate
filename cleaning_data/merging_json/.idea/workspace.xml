@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="922b2af9-770b-4202-bc60-0a2645886c7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../web_crawlers_scrapers/c_4zida/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web_crawlers_scrapers/c_4zida/houses - Copy.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../web_crawlers_scrapers/c_4zida/houses - Copy.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web_crawlers_scrapers/c_nekretnine/nekretnine.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web_crawlers_scrapers/c_nekretnine/nekretnine_stanovi.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../web_crawlers_scrapers/c_nekretnine/nekretnine_stanovi.json" afterDir="false" />
-    </list>
+    <list default="true" id="922b2af9-770b-4202-bc60-0a2645886c7f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +20,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cleaning_json" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,6 +31,7 @@
       <option name="presentableId" value="Default" />
       <updated>1624548745191</updated>
       <workItem from="1624548746352" duration="7000" />
+      <workItem from="1624550865950" duration="7000" />
     </task>
     <servers />
   </component>
