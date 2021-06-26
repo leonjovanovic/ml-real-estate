@@ -20,10 +20,18 @@ def cleanChars(r):
             r = r.replace("\u017d", "Z")
         if "\u017e" in r:
             r = r.replace("\u017e", "z")
-        if "\u0189" in r:
-            r = r.replace("\u0189", "Dj")
+        if "\u0110" in r:
+            r = r.replace("\u0110", "Dj")
         if "\u0111" in r:
             r = r.replace("\u0111", "dj")
+        if "\u00d0" in r:
+            r = r.replace("\u00d0", "Dj")
+        if "\u2013" in r:
+            r = r.replace("\u2013", "")
+        if "\u0430" in r:
+            r = r.replace("\u0430", "a")
+        if "\u00e1" in r:
+            r = r.replace("\u00e1", "a")
     return r
 
 def cleanPrice(r):
@@ -32,6 +40,8 @@ def cleanPrice(r):
     if ' ' in r:
         r = r.replace(" ", "")
     if not r.isdigit():
+        return None
+    if int(r) > 20000000:
         return None
     return int(r)
 
@@ -50,8 +60,32 @@ def cleanOfferType(r):
 def cleanLocation1(r):
     return cleanChars(r)
 
+def specialCaseLocation2(r):
+    if r is None:
+        return None
+    if r.split(" ")[0] == "Borivoja":
+        return "Borivoja Stanojevica"
+    elif r.split(" ")[0] == "PALILULA":
+        return "Palilula"
+    elif r.split(" ")[0] == "HITNO!":
+        return "Stara Pazova"
+    elif r.split(" ")[0] == "***LUX***":
+        return "Ruma"
+    elif '\u0408' in r:
+        return "Jevremova"
+    else:
+        return r.title()
+
 def cleanLocation2(r):
-    return cleanChars(r)
+    if r is not None and '\u0408' in r:
+        print(r)
+    r = cleanChars(r)
+    r = specialCaseLocation2(r)
+    if r is not None and '\u0408' in r:
+        print(r)
+    if r is not None and ',' in r:
+        return r.split(",")[0]
+    return r
 
 def cleanSquareFootage(r):
     if r.isdigit():
@@ -60,9 +94,12 @@ def cleanSquareFootage(r):
             return r * (-1)
         if r > 9000:
             return None
+        return r
     else:
         if 'ar' in r:
             return int(float(r.split(" ar")[0]) * 100)
+        if '.' in r:
+            return int(round(float(r)))
         return None
 
 def cleanYearBuilt(r):
@@ -137,12 +174,16 @@ def cleanBooked(r):
     r = cleanChars(r)
     if r == "Da" or r == "uknjizeno":
         return 1
+    elif r is None:
+        return None
     else:
         return 0
 
 def cleanHeating(r):
     if r is not None:
         r = cleanChars(r).lower()
+        if '-' in r:
+            return None
         if "centralno" in r:
             return 1
         else:
@@ -214,6 +255,8 @@ def cleanJSON(file):
             r["Terasa"] = cleanTerrace(r["Terasa"])
             del r["Spratnost"]
             r["Uknjizenost"] = r.pop("Uknji\u017eenost")
+            if r["Lokacija2"] is not None and '\u0408\u0435\u0432\u0440\u0435\u043c\u043e\u0432\u0430' in r["Lokacija2"]:
+                print(r["Lokacija2"])
     with open('cleaned.json', 'w') as output_file:
         output_file.write(
         '[' +
