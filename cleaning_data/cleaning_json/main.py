@@ -81,10 +81,57 @@ def cleanArea(r):
             return int(round(float(r.split(" m")[0])))
     return None
 
+def cleanFloor2(floor):
+    if 'suteren' in floor:
+        return floor.replace("suteren", "-1")
+    if 'podrum' in floor:
+        return floor.replace("podrum", "-1")
+    if 'nisko prizemlje' in floor:
+        return floor.replace("nisko prizemlje", "0")
+    if 'visoko prizemlje' in floor:
+        return floor.replace("visoko prizemlje", "0")
+    if 'prizemlje' in floor:
+        return floor.replace("prizemlje", "0")
+    if 'potkrovlje' in floor:
+        return floor.replace("potkrovlje", "max")
+    else:
+        return floor
 
-def cleanFloor(r):
-    pass
-
+def cleanFloor(floor):
+    if floor is not None:
+        floor = cleanFloor2(floor.lower())
+        curr = None
+        total = None
+        if ' / ' in floor:
+            curr = floor.split(' / ')[0]
+            total = floor.split(' / ')[1]
+        elif '/' in floor:
+            curr = floor.split('/')[0]
+            total = floor.split('/')[1].split(' ')[0]
+        elif '.' in floor:
+            curr = floor.split('.')[0]
+        else:
+            curr = floor
+        if curr.isdigit() or curr == '-1' or curr == '-2':
+            curr = int(curr)
+        if total is not None and total.isdigit():
+            total = int(total)
+        if curr == '1.5':
+            curr = 2
+        if curr == '-':
+            curr = None
+        if total == '-':
+            total = None
+        if total is None and curr == 'max':
+            return None, None
+        elif total is not None and curr == 'max':
+            return total, total
+        if curr is not None and curr > 45:
+            return None, None
+        if total is not None and curr is not None and curr > total:
+            return None, None
+        return curr, total
+    return None, None
 
 def cleanBooked(r):
     r = cleanChars(r)
@@ -93,10 +140,14 @@ def cleanBooked(r):
     else:
         return 0
 
-
 def cleanHeating(r):
-    pass
-
+    if r is not None:
+        r = cleanChars(r).lower()
+        if "centralno" in r:
+            return 1
+        else:
+            return 0
+    return None
 
 def cleanRoom(r):
     if r:
@@ -120,7 +171,6 @@ def cleanBathrooms(r):
             return int(round(float(r)))
     return None
 
-
 def cleanParking(r):
     if r:
         if r == "Ne":
@@ -136,13 +186,11 @@ def cleanElevator(r):
     else:
         return 0
 
-
 def cleanTerrace(r):
     if r:
         if "Da" in r or "terasa|lodja" in r:
             return 1
     return 0
-
 
 def cleanJSON(file):
     with open(file, 'r') as infile:
@@ -154,9 +202,9 @@ def cleanJSON(file):
             r["Lokacija1"] = cleanLocation1(r["Lokacija1"])
             r["Lokacija2"] = cleanLocation2(r["Lokacija2"])
             r["Kvadratura"] = cleanSquareFootage(r["Kvadratura"])
-            r["Godina izgradnje"] = cleanYearBuilt(r["Godina izgradnje"])
+            #r["Godina izgradnje"] = cleanYearBuilt(r["Godina izgradnje"])
             r["Povrsina zemljista"] = cleanArea(r["Povrsina zemljista"])
-            r["Spratnost"] = cleanFloor(r["Spratnost"])
+            r["Sprat"], r["Ukupna spratnost"] = cleanFloor(r["Spratnost"])
             r["Uknji\u017eenost"] = cleanBooked(r["Uknji\u017eenost"])
             r["Tip grejanja"] = cleanHeating(r["Tip grejanja"])
             r["Broj soba"] = cleanRoom(r["Broj soba"])
@@ -164,7 +212,8 @@ def cleanJSON(file):
             r["Parking"] = cleanParking(r["Parking"])
             r["Lift"] = cleanElevator(r["Lift"])
             r["Terasa"] = cleanTerrace(r["Terasa"])
-
+            del r["Spratnost"]
+            r["Uknjizenost"] = r.pop("Uknji\u017eenost")
     with open('cleaned.json', 'w') as output_file:
         output_file.write(
         '[' +
