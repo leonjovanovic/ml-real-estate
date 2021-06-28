@@ -1,0 +1,182 @@
+[
+	{
+		"Rang" : 1,
+		"Broj soba" : 24,
+		"Kvadratura(m2)" : 6500,
+		"Povrsina zemljista(m2)" : 10000000
+	},
+	{
+		"Rang" : 2,
+		"Broj soba" : 21,
+		"Kvadratura(m2)" : 4000,
+		"Povrsina zemljista(m2)" : 3265300
+	},
+	{
+		"Rang" : 3,
+		"Broj soba" : 20,
+		"Kvadratura(m2)" : 4000,
+		"Povrsina zemljista(m2)" : 3129000
+	},
+	{
+		"Rang" : 4,
+		"Broj soba" : 20,
+		"Kvadratura(m2)" : 3300,
+		"Povrsina zemljista(m2)" : 2220000
+	},
+	{
+		"Rang" : 5,
+		"Broj soba" : 20,
+		"Kvadratura(m2)" : 3300,
+		"Povrsina zemljista(m2)" : 2100000
+	},
+	{
+		"Rang" : 6,
+		"Broj soba" : 20,
+		"Kvadratura(m2)" : 3002,
+		"Povrsina zemljista(m2)" : 1652000
+	},
+	{
+		"Rang" : 7,
+		"Broj soba" : 20,
+		"Kvadratura(m2)" : 2400,
+		"Povrsina zemljista(m2)" : 1512200
+	},
+	{
+		"Rang" : 8,
+		"Broj soba" : 20,
+		"Kvadratura(m2)" : 1973,
+		"Povrsina zemljista(m2)" : 1500000
+	},
+	{
+		"Rang" : 9,
+		"Broj soba" : 20,
+		"Kvadratura(m2)" : 1966,
+		"Povrsina zemljista(m2)" : 1350000
+	},
+	{
+		"Rang" : 10,
+		"Broj soba" : 20,
+		"Kvadratura(m2)" : 1650,
+		"Povrsina zemljista(m2)" : 1300000
+	},
+	{
+		"Rang" : 11,
+		"Broj soba" : 20,
+		"Kvadratura(m2)" : 1643,
+		"Povrsina zemljista(m2)" : 1160000
+	},
+	{
+		"Rang" : 12,
+		"Broj soba" : 20,
+		"Kvadratura(m2)" : 1500,
+		"Povrsina zemljista(m2)" : 1156200
+	},
+	{
+		"Rang" : 13,
+		"Broj soba" : 20,
+		"Kvadratura(m2)" : 1200,
+		"Povrsina zemljista(m2)" : 1000000
+	},
+	{
+		"Rang" : 14,
+		"Broj soba" : 20,
+		"Kvadratura(m2)" : 1200,
+		"Povrsina zemljista(m2)" : 1000000
+	},
+	{
+		"Rang" : 15,
+		"Broj soba" : 19,
+		"Kvadratura(m2)" : 1080,
+		"Povrsina zemljista(m2)" : 1000000
+	},
+	{
+		"Rang" : 16,
+		"Broj soba" : 18,
+		"Kvadratura(m2)" : 1080,
+		"Povrsina zemljista(m2)" : 920000
+	},
+	{
+		"Rang" : 17,
+		"Broj soba" : 18,
+		"Kvadratura(m2)" : 1000,
+		"Povrsina zemljista(m2)" : 800000
+	},
+	{
+		"Rang" : 18,
+		"Broj soba" : 18,
+		"Kvadratura(m2)" : 970,
+		"Povrsina zemljista(m2)" : 750000
+	},
+	{
+		"Rang" : 19,
+		"Broj soba" : 18,
+		"Kvadratura(m2)" : 937,
+		"Povrsina zemljista(m2)" : 750000
+	},
+	{
+		"Rang" : 20,
+		"Broj soba" : 18,
+		"Kvadratura(m2)" : 832,
+		"Povrsina zemljista(m2)" : 750000
+	},
+	{
+		"Rang" : 21,
+		"Broj soba" : 17,
+		"Kvadratura(m2)" : 824,
+		"Povrsina zemljista(m2)" : 742300
+	},
+	{
+		"Rang" : 22,
+		"Broj soba" : 17,
+		"Kvadratura(m2)" : 782,
+		"Povrsina zemljista(m2)" : 600000
+	},
+	{
+		"Rang" : 23,
+		"Broj soba" : 17,
+		"Kvadratura(m2)" : 740,
+		"Povrsina zemljista(m2)" : 600000
+	},
+	{
+		"Rang" : 24,
+		"Broj soba" : 17,
+		"Kvadratura(m2)" : 700,
+		"Povrsina zemljista(m2)" : 588000
+	},
+	{
+		"Rang" : 25,
+		"Broj soba" : 16,
+		"Kvadratura(m2)" : 669,
+		"Povrsina zemljista(m2)" : 588000
+	},
+	{
+		"Rang" : 26,
+		"Broj soba" : 16,
+		"Kvadratura(m2)" : 658,
+		"Povrsina zemljista(m2)" : 580000
+	},
+	{
+		"Rang" : 27,
+		"Broj soba" : 16,
+		"Kvadratura(m2)" : 658,
+		"Povrsina zemljista(m2)" : 560000
+	},
+	{
+		"Rang" : 28,
+		"Broj soba" : 16,
+		"Kvadratura(m2)" : 650,
+		"Povrsina zemljista(m2)" : 548800
+	},
+	{
+		"Rang" : 29,
+		"Broj soba" : 16,
+		"Kvadratura(m2)" : 640,
+		"Povrsina zemljista(m2)" : 546400
+	},
+	{
+		"Rang" : 30,
+		"Broj soba" : 16,
+		"Kvadratura(m2)" : 640,
+		"Povrsina zemljista(m2)" : 483600
+	}
+]

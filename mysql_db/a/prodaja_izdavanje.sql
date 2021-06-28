@@ -1,0 +1,1 @@
+SELECT(SELECT COUNT(*) FROM ml_real_estate.real_estates WHERE tip_ponude=0) AS Prodaja, (SELECT COUNT(*) FROM ml_real_estate.real_estates WHERE tip_ponude=1) AS Izdavanje
