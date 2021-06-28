@@ -1,0 +1,24 @@
+[{
+    "Beograd-prodaja": 33074,
+    "Beograd-iznajmljivanje": 14777,
+    "Novi Sad-prodaja": 24708,
+    "Novi Sad-iznajmljivanje": 2881,
+    "Nis-prodaja": 5831,
+    "Nis-iznajmljivanje": 1583,
+    "Kragujevac-prodaja": 3177,
+    "Kragujevac-iznajmljivanje": 240,
+    "Jagodina-prodaja": 799,
+    "Jagodina-iznajmljivanje": 3
+}
+{
+    "Beograd-prodaja": 69.12,
+    "Beograd-iznajmljivanje": 30.88,
+    "Novi Sad-prodaja": 89.56,
+    "Novi Sad-iznajmljivanje": 10.44,
+    "Nis-prodaja": 78.65,
+    "Nis-iznajmljivanje": 21.35,
+    "Kragujevac-prodaja": 92.98,
+    "Kragujevac-iznajmljivanje": 7.02,
+    "Jagodina-prodaja": 99.63,
+    "Jagodina-iznajmljivanje": 0.37
+}]

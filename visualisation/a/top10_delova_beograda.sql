@@ -1,0 +1,1 @@
+SELECT CAST(lokacija2 AS char) as 'Uza lokacija', COUNT(*) as 'Broj nekretnina' FROM ml_real_estate.real_estates WHERE lokacija1='Beograd' GROUP BY lokacija2 order by COUNT(*) desc limit 10
