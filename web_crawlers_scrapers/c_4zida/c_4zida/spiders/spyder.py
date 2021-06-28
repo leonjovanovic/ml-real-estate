@@ -29,7 +29,8 @@ class Spider(scrapy.Spider):
             oglas[1] = response.url
             oglas[2] = response.url.split('/')[4]
             oglas[3] = response.url.split('/')[3]
-            oglas[4] = response.url.split('/')[5].replace('-', ' ').title()
+            temp = response.xpath('//h1[@class="location"]/text()').get().split(', ')
+            oglas[4] = temp[len(temp)-1].title()
             oglas[5] = response.xpath('//h1[@class="address"]/text()').get()
             # -------------------------------------------------------------------------
             labels = response.xpath('//div[@class="wrapper ng-star-inserted"]/.//div[@class="label"]/text()').getall()

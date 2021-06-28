@@ -1,4 +1,6 @@
 import json
+import matplotlib.pyplot as plt
+import numpy as np
 
 dict_json = {'<36': 0, '36-50': 0, '51-65': 0, '66-80': 0, '81-95': 0, '96-110': 0, '>110': 0}
 
@@ -37,5 +39,25 @@ def create_json(file):
             json.dumps(dict_json, indent=4) +
             ']\n')
 
+def plotting():
+    labels = ['<36', '36-50', '51-65', '66-80', '81-95', '96-110', '>110']
+    x = np.arange(len(labels))  # the label locations [0 1 2 3 4 5 6]
+    width = 0.75  # the width of the bars
+    values = [dict_json['<36'], dict_json['36-50'], dict_json['51-65'], dict_json['66-80'], dict_json['81-95'], dict_json['96-110'], dict_json['>110']]
+    fig, ax = plt.subplots()
+    rects1 = ax.bar(x, values, width)
+    # Add some text for labels, title and custom x-axis tick labels, etc.
+    ax.set_ylabel('Broj stanova')
+    ax.set_xlabel('Kvadratura')
+    ax.set_title('Stanovi po broju kvadrata')
+    ax.set_xticks(x)
+    ax.set_xticklabels(labels)
+    ax.bar_label(rects1, padding=3)
+    fig.tight_layout()
+    plt.show()
+
 
 create_json("../data_real_estates.json")
+
+plotting()
+
