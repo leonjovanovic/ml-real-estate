@@ -5,7 +5,7 @@ from geopy.distance import great_circle
 
 
 def createCoordsJSON(file):
-    AUTH_KEY = "AIzaSyBmlo6HJUsLuxFT2ufSsScl7NKsANrlKoU"
+    AUTH_KEY = "API_KEY"
     geolocator = GoogleV3(api_key=AUTH_KEY)
 
     dict_loc = {}
