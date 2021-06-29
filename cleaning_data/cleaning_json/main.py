@@ -77,12 +77,12 @@ def specialCaseLocation2(r):
         return r.title()
 
 def cleanLocation2(r):
-    if r is not None and '\u0408' in r:
-        print(r)
     r = cleanChars(r)
     r = specialCaseLocation2(r)
-    if r is not None and '\u0408' in r:
-        print(r)
+    if r is not None and r == '-':
+        return None
+    if r is not None and r.isdigit():
+        return None
     if r is not None and ',' in r:
         return r.split(",")[0]
     return r

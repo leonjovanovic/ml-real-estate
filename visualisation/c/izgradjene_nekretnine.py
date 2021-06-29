@@ -2,6 +2,8 @@
 # a obuhvatiti i sekcije za prodaju i za iznajmljivanje.
 
 import json
+import matplotlib.pyplot as plt
+import numpy as np
 
 dict_json = {'1951-1960': 0, '1961-1970': 0, '1971-1980': 0, '1981-1990': 0, '1991-2000': 0, '2001-2010': 0, '2011-2020': 0}
 
@@ -22,6 +24,29 @@ def updateDict(r):
     elif 2011 <= r <= 2020:
         dict_json['2011-2020'] += 1
 
+def plotting():
+    labels = ['1951-1960', '1961-1970', '1971-1980', '1981-1990', '1991-2000', '2001-2010', '2011-2020']
+    x = np.arange(len(labels))  # the label locations [0 1 2 3 4 5 6]
+    width = 0.75  # the width of the bars
+    values = [dict_json['1951-1960'], dict_json['1961-1970'], dict_json['1971-1980'], dict_json['1981-1990'], dict_json['1991-2000'], dict_json['2001-2010'], dict_json['2011-2020']]
+    fig, ax = plt.subplots()
+    rects1 = ax.bar(x, values, width)
+    i = 0
+    for r in rects1:
+        if i % 2 == 0:
+            r.set_color('c')
+        i += 1
+    # Add some text for labels, title and custom x-axis tick labels, etc.
+    ax.set_ylabel('Broj nekretnina')
+    ax.set_xlabel('Godine izgradnje')
+    ax.set_title('Nekretnine po godinama izgradnje')
+    ax.set_xticks(x)
+    ax.set_xticklabels(labels)
+    ax.bar_label(rects1, padding=1)
+    fig.tight_layout()
+    fig.autofmt_xdate()
+    plt.savefig('izgradjene_nekretnine.png')
+    plt.show()
 
 def create_json(file):
     with open(file, 'r') as infile:
@@ -40,3 +65,4 @@ def create_json(file):
 
 
 create_json("../data_real_estates.json")
+plotting()

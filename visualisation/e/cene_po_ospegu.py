@@ -6,6 +6,8 @@
 # ▪ 200 000 € ili više.
 
 import json
+import matplotlib.pyplot as plt
+import numpy as np
 
 dict_json = {'<50 000': 0, '50 000-99 999': 0, '100 000-149 999': 0, '150 000-199 999': 0, '>199 999': 0}
 dict_json_percentage = {'<50 000': 0, '50 000-99 999': 0, '100 000-149 999': 0, '150 000-199 999': 0, '>199 999': 0}
@@ -33,6 +35,19 @@ def updateDictPercentage():
     dict_json_percentage['150 000-199 999'] = round(100.00 * float(dict_json['150 000-199 999'] / sum),2)
     dict_json_percentage['>199 999'] = round(100.00 * float(dict_json['>199 999'] / sum),2)
 
+def plotting():
+    labels = ['<50 000', '50 000-99 999', '100 000-149 999', '150 000-199 999', '>199 999']
+    values = [dict_json['<50 000'], dict_json['50 000-99 999'], dict_json['100 000-149 999'], dict_json['150 000-199 999'], dict_json['>199 999']]
+    fig, ax = plt.subplots(figsize=(8, 6.5))
+    suma = sum(values)
+    ax.pie(values, labels=labels, explode=(0.01, 0.01, 0.01, 0.01, 0.01), autopct=lambda p: '{:.1f}%({:.0f})'.format(p, (p/100)*suma),
+            shadow=False, startangle=90, colors=['royalblue', 'deepskyblue', 'darkturquoise', 'cyan', 'tab:blue'])
+    ax.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
+    ax.set_title('Nekretnine po cenama')
+    plt.savefig('cene_po_opsegu.png')
+    plt.show()
+
+
 def create_json(file):
     with open(file, 'r') as infile:
         result = json.load(infile)
@@ -53,3 +68,4 @@ def create_json(file):
 
 
 create_json("../data_real_estates.json")
+plotting()

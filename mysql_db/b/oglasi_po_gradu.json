@@ -1,1454 +1,1458 @@
 [
 	{
-		"lokacija1" : Beograd,
-		"COUNT(*)" : 47851
+		"Grad" : Beograd,
+		"Broj oglasa" : 47751
 	},
 	{
-		"lokacija1" : Novi Sad,
-		"COUNT(*)" : 27589
+		"Grad" : Novi Sad,
+		"Broj oglasa" : 27580
 	},
 	{
-		"lokacija1" : Nis,
-		"COUNT(*)" : 7414
+		"Grad" : Nis,
+		"Broj oglasa" : 7421
 	},
 	{
-		"lokacija1" : Gradske Lokacije,
-		"COUNT(*)" : 4988
+		"Grad" : Kragujevac,
+		"Broj oglasa" : 3404
 	},
 	{
-		"lokacija1" : Kragujevac,
-		"COUNT(*)" : 3417
+		"Grad" : Subotica,
+		"Broj oglasa" : 1842
 	},
 	{
-		"lokacija1" : Jagodina,
-		"COUNT(*)" : 802
+		"Grad" : Zrenjanin,
+		"Broj oglasa" : 1426
 	},
 	{
-		"lokacija1" : Zlatibor,
-		"COUNT(*)" : 681
+		"Grad" : Jagodina,
+		"Broj oglasa" : 1104
 	},
 	{
-		"lokacija1" : Subotica,
-		"COUNT(*)" : 614
+		"Grad" : Zlatibor,
+		"Broj oglasa" : 1046
 	},
 	{
-		"lokacija1" : Zrenjanin,
-		"COUNT(*)" : 577
+		"Grad" : Vrnjacka Banja,
+		"Broj oglasa" : 812
 	},
 	{
-		"lokacija1" : Paracin,
-		"COUNT(*)" : 460
+		"Grad" : Paracin,
+		"Broj oglasa" : 683
 	},
 	{
-		"lokacija1" : Indjija,
-		"COUNT(*)" : 332
+		"Grad" : Pancevo,
+		"Broj oglasa" : 517
 	},
 	{
-		"lokacija1" : Vrnjacka Banja,
-		"COUNT(*)" : 331
+		"Grad" : Sombor,
+		"Broj oglasa" : 443
 	},
 	{
-		"lokacija1" : Cuprija,
-		"COUNT(*)" : 303
+		"Grad" : Indjija,
+		"Broj oglasa" : 331
 	},
 	{
-		"lokacija1" : Pancevo,
-		"COUNT(*)" : 294
+		"Grad" : Cuprija,
+		"Broj oglasa" : 309
 	},
 	{
-		"lokacija1" : Srbija,
-		"COUNT(*)" : 279
+		"Grad" : Krusevac,
+		"Broj oglasa" : 302
 	},
 	{
-		"lokacija1" : Sombor,
-		"COUNT(*)" : 248
+		"Grad" : Srbija,
+		"Broj oglasa" : 279
 	},
 	{
-		"lokacija1" : Stara Pazova,
-		"COUNT(*)" : 185
+		"Grad" : Kraljevo,
+		"Broj oglasa" : 247
 	},
 	{
-		"lokacija1" : Petrovaradin,
-		"COUNT(*)" : 178
+		"Grad" : Sabac,
+		"Broj oglasa" : 217
 	},
 	{
-		"lokacija1" : Sremska Kamenica,
-		"COUNT(*)" : 176
+		"Grad" : Stara Pazova,
+		"Broj oglasa" : 181
 	},
 	{
-		"lokacija1" : Ruma,
-		"COUNT(*)" : 156
+		"Grad" : Petrovaradin,
+		"Broj oglasa" : 178
 	},
 	{
-		"lokacija1" : Kopaonik,
-		"COUNT(*)" : 149
+		"Grad" : Sremska Kamenica,
+		"Broj oglasa" : 176
 	},
 	{
-		"lokacija1" : Krusevac,
-		"COUNT(*)" : 138
+		"Grad" : Zajecar,
+		"Broj oglasa" : 170
 	},
 	{
-		"lokacija1" : Beocin,
-		"COUNT(*)" : 119
+		"Grad" : Kopaonik,
+		"Broj oglasa" : 164
 	},
 	{
-		"lokacija1" : Irig,
-		"COUNT(*)" : 112
+		"Grad" : Ruma,
+		"Broj oglasa" : 155
 	},
 	{
-		"lokacija1" : Kraljevo,
-		"COUNT(*)" : 106
+		"Grad" : Kosovska Mitrovica,
+		"Broj oglasa" : 134
 	},
 	{
-		"lokacija1" : Podgorica,
-		"COUNT(*)" : 103
+		"Grad" : Beocin,
+		"Broj oglasa" : 120
 	},
 	{
-		"lokacija1" : Sabac,
-		"COUNT(*)" : 95
+		"Grad" : Smederevo,
+		"Broj oglasa" : 115
 	},
 	{
-		"lokacija1" : Prijepolje,
-		"COUNT(*)" : 91
+		"Grad" : Irig,
+		"Broj oglasa" : 115
 	},
 	{
-		"lokacija1" : Budva,
-		"COUNT(*)" : 86
+		"Grad" : Vranje,
+		"Broj oglasa" : 108
 	},
 	{
-		"lokacija1" : Svilajnac,
-		"COUNT(*)" : 84
+		"Grad" : Leskovac,
+		"Broj oglasa" : 108
 	},
 	{
-		"lokacija1" : Sremski Karlovci,
-		"COUNT(*)" : 82
+		"Grad" : Sremski Karlovci,
+		"Broj oglasa" : 107
 	},
 	{
-		"lokacija1" : Valjevo,
-		"COUNT(*)" : 76
+		"Grad" : Valjevo,
+		"Broj oglasa" : 105
 	},
 	{
-		"lokacija1" : Kovin,
-		"COUNT(*)" : 76
+		"Grad" : Podgorica,
+		"Broj oglasa" : 103
 	},
 	{
-		"lokacija1" : Zajecar,
-		"COUNT(*)" : 74
+		"Grad" : Prijepolje,
+		"Broj oglasa" : 98
 	},
 	{
-		"lokacija1" : Leskovac,
-		"COUNT(*)" : 72
+		"Grad" : Sremska Mitrovica,
+		"Broj oglasa" : 90
 	},
 	{
-		"lokacija1" : Veternik,
-		"COUNT(*)" : 67
+		"Grad" : Arandjelovac,
+		"Broj oglasa" : 89
 	},
 	{
-		"lokacija1" : Smederevska Palanka,
-		"COUNT(*)" : 67
+		"Grad" : Budva,
+		"Broj oglasa" : 86
 	},
 	{
-		"lokacija1" : Smederevo,
-		"COUNT(*)" : 66
+		"Grad" : Svilajnac,
+		"Broj oglasa" : 84
 	},
 	{
-		"lokacija1" : Vrbas,
-		"COUNT(*)" : 64
+		"Grad" : Sokobanja,
+		"Broj oglasa" : 78
 	},
 	{
-		"lokacija1" : Vranje,
-		"COUNT(*)" : 63
+		"Grad" : Kovin,
+		"Broj oglasa" : 75
 	},
 	{
-		"lokacija1" : Temerin,
-		"COUNT(*)" : 60
+		"Grad" : Cacak,
+		"Broj oglasa" : 70
 	},
 	{
-		"lokacija1" : Arandjelovac,
-		"COUNT(*)" : 59
+		"Grad" : Veternik,
+		"Broj oglasa" : 67
 	},
 	{
-		"lokacija1" : Sremska Mitrovica,
-		"COUNT(*)" : 54
+		"Grad" : Smederevska Palanka,
+		"Broj oglasa" : 67
 	},
 	{
-		"lokacija1" : Backa Palanka,
-		"COUNT(*)" : 54
+		"Grad" : Vrbas,
+		"Broj oglasa" : 63
 	},
 	{
-		"lokacija1" : Kovacica,
-		"COUNT(*)" : 53
+		"Grad" : Uzice,
+		"Broj oglasa" : 61
 	},
 	{
-		"lokacija1" : Ub,
-		"COUNT(*)" : 50
+		"Grad" : Temerin,
+		"Broj oglasa" : 61
 	},
 	{
-		"lokacija1" : Tivat,
-		"COUNT(*)" : 46
+		"Grad" : Loznica,
+		"Broj oglasa" : 56
 	},
 	{
-		"lokacija1" : Cacak,
-		"COUNT(*)" : 45
+		"Grad" : Backa Palanka,
+		"Broj oglasa" : 54
 	},
 	{
-		"lokacija1" : Srbobran,
-		"COUNT(*)" : 44
+		"Grad" : Negotin,
+		"Broj oglasa" : 54
 	},
 	{
-		"lokacija1" : Pecinci,
-		"COUNT(*)" : 42
+		"Grad" : Kovacica,
+		"Broj oglasa" : 52
 	},
 	{
-		"lokacija1" : Loznica,
-		"COUNT(*)" : 42
+		"Grad" : Tivat,
+		"Broj oglasa" : 46
 	},
 	{
-		"lokacija1" : Novi Banovci,
-		"COUNT(*)" : 36
+		"Grad" : Srbobran,
+		"Broj oglasa" : 44
 	},
 	{
-		"lokacija1" : Zabalj,
-		"COUNT(*)" : 36
+		"Grad" : Ub,
+		"Broj oglasa" : 44
 	},
 	{
-		"lokacija1" : Kikinda,
-		"COUNT(*)" : 35
+		"Grad" : Pecinci,
+		"Broj oglasa" : 42
 	},
 	{
-		"lokacija1" : Uzice,
-		"COUNT(*)" : 33
+		"Grad" : Aleksinac,
+		"Broj oglasa" : 41
 	},
 	{
-		"lokacija1" : Backa Topola,
-		"COUNT(*)" : 32
+		"Grad" : Vrsac,
+		"Broj oglasa" : 38
 	},
 	{
-		"lokacija1" : Titel,
-		"COUNT(*)" : 30
+		"Grad" : Zabalj,
+		"Broj oglasa" : 37
 	},
 	{
-		"lokacija1" : Sokobanja,
-		"COUNT(*)" : 29
+		"Grad" : Gornji Milanovac,
+		"Broj oglasa" : 37
 	},
 	{
-		"lokacija1" : Sid,
-		"COUNT(*)" : 29
+		"Grad" : Novi Banovci,
+		"Broj oglasa" : 36
 	},
 	{
-		"lokacija1" : Velika Plana,
-		"COUNT(*)" : 29
+		"Grad" : Kikinda,
+		"Broj oglasa" : 34
 	},
 	{
-		"lokacija1" : Topola,
-		"COUNT(*)" : 28
+		"Grad" : Trstenik,
+		"Broj oglasa" : 33
 	},
 	{
-		"lokacija1" : Veliko Gradiste,
-		"COUNT(*)" : 27
+		"Grad" : Pozarevac,
+		"Broj oglasa" : 32
 	},
 	{
-		"lokacija1" : Becej,
-		"COUNT(*)" : 27
+		"Grad" : Mionica,
+		"Broj oglasa" : 32
 	},
 	{
-		"lokacija1" : Gornji Milanovac,
-		"COUNT(*)" : 26
+		"Grad" : Titel,
+		"Broj oglasa" : 31
 	},
 	{
-		"lokacija1" : Negotin,
-		"COUNT(*)" : 26
+		"Grad" : Velika Plana,
+		"Broj oglasa" : 31
 	},
 	{
-		"lokacija1" : Trstenik,
-		"COUNT(*)" : 25
+		"Grad" : Sid,
+		"Broj oglasa" : 30
 	},
 	{
-		"lokacija1" : Aleksinac,
-		"COUNT(*)" : 24
+		"Grad" : Topola,
+		"Broj oglasa" : 30
 	},
 	{
-		"lokacija1" : Bajina Basta,
-		"COUNT(*)" : 24
+		"Grad" : Backa Topola,
+		"Broj oglasa" : 30
 	},
 	{
-		"lokacija1" : Bar,
-		"COUNT(*)" : 22
+		"Grad" : Apatin,
+		"Broj oglasa" : 28
 	},
 	{
-		"lokacija1" : Apatin,
-		"COUNT(*)" : 22
+		"Grad" : Veliko Gradiste,
+		"Broj oglasa" : 26
 	},
 	{
-		"lokacija1" : Vladimirci,
-		"COUNT(*)" : 22
+		"Grad" : Becej,
+		"Broj oglasa" : 26
 	},
 	{
-		"lokacija1" : Herceg Novi,
-		"COUNT(*)" : 21
+		"Grad" : Bajina Basta,
+		"Broj oglasa" : 24
 	},
 	{
-		"lokacija1" : Tara,
-		"COUNT(*)" : 21
+		"Grad" : Prokuplje,
+		"Broj oglasa" : 23
 	},
 	{
-		"lokacija1" : Kotor,
-		"COUNT(*)" : 20
+		"Grad" : Bar,
+		"Broj oglasa" : 22
 	},
 	{
-		"lokacija1" : Alibunar,
-		"COUNT(*)" : 20
+		"Grad" : Nova Varos,
+		"Broj oglasa" : 22
 	},
 	{
-		"lokacija1" : Vrsac,
-		"COUNT(*)" : 19
+		"Grad" : Herceg Novi,
+		"Broj oglasa" : 21
 	},
 	{
-		"lokacija1" : Nova Varos,
-		"COUNT(*)" : 19
+		"Grad" : Tara,
+		"Broj oglasa" : 21
 	},
 	{
-		"lokacija1" : Batocina,
-		"COUNT(*)" : 18
+		"Grad" : Kotor,
+		"Broj oglasa" : 20
 	},
 	{
-		"lokacija1" : Zitiste,
-		"COUNT(*)" : 18
+		"Grad" : Alibunar,
+		"Broj oglasa" : 20
 	},
 	{
-		"lokacija1" : Cajetina,
-		"COUNT(*)" : 18
+		"Grad" : Vladimirci,
+		"Broj oglasa" : 20
 	},
 	{
-		"lokacija1" : Knic,
-		"COUNT(*)" : 17
+		"Grad" : Batocina,
+		"Broj oglasa" : 19
 	},
 	{
-		"lokacija1" : Golubac,
-		"COUNT(*)" : 17
+		"Grad" : Pirot,
+		"Broj oglasa" : 17
 	},
 	{
-		"lokacija1" : Obrenovac,
-		"COUNT(*)" : 16
+		"Grad" : Knic,
+		"Broj oglasa" : 17
 	},
 	{
-		"lokacija1" : Secanj,
-		"COUNT(*)" : 16
+		"Grad" : Cajetina,
+		"Broj oglasa" : 17
 	},
 	{
-		"lokacija1" : Novi Knezevac,
-		"COUNT(*)" : 16
+		"Grad" : Novi Knezevac,
+		"Broj oglasa" : 17
 	},
 	{
-		"lokacija1" : Bogatic,
-		"COUNT(*)" : 15
+		"Grad" : Obrenovac,
+		"Broj oglasa" : 16
 	},
 	{
-		"lokacija1" : Vladicin Han,
-		"COUNT(*)" : 14
+		"Grad" : Zitiste,
+		"Broj oglasa" : 16
 	},
 	{
-		"lokacija1" : Bela Crkva,
-		"COUNT(*)" : 14
+		"Grad" : Golubac,
+		"Broj oglasa" : 16
 	},
 	{
-		"lokacija1" : Rekovac,
-		"COUNT(*)" : 13
+		"Grad" : Secanj,
+		"Broj oglasa" : 16
 	},
 	{
-		"lokacija1" : Backi Petrovac,
-		"COUNT(*)" : 13
+		"Grad" : Bogatic,
+		"Broj oglasa" : 15
 	},
 	{
-		"lokacija1" : Kac,
-		"COUNT(*)" : 12
+		"Grad" : Vladicin Han,
+		"Broj oglasa" : 14
 	},
 	{
-		"lokacija1" : Beska,
-		"COUNT(*)" : 12
+		"Grad" : Bela Crkva,
+		"Broj oglasa" : 14
 	},
 	{
-		"lokacija1" : Prokuplje,
-		"COUNT(*)" : 12
+		"Grad" : Rekovac,
+		"Broj oglasa" : 13
 	},
 	{
-		"lokacija1" : Fruska Gora,
-		"COUNT(*)" : 12
+		"Grad" : Knjazevac,
+		"Broj oglasa" : 13
 	},
 	{
-		"lokacija1" : Despotovac,
-		"COUNT(*)" : 11
+		"Grad" : Kac,
+		"Broj oglasa" : 12
 	},
 	{
-		"lokacija1" : Kanjiza,
-		"COUNT(*)" : 11
+		"Grad" : Beska,
+		"Broj oglasa" : 12
 	},
 	{
-		"lokacija1" : Pirot,
-		"COUNT(*)" : 10
+		"Grad" : Fruska Gora,
+		"Broj oglasa" : 12
 	},
 	{
-		"lokacija1" : Pozarevac,
-		"COUNT(*)" : 10
+		"Grad" : Kanjiza,
+		"Broj oglasa" : 11
 	},
 	{
-		"lokacija1" : Ljig,
-		"COUNT(*)" : 10
+		"Grad" : Pozega,
+		"Broj oglasa" : 11
 	},
 	{
-		"lokacija1" : Novi Becej,
-		"COUNT(*)" : 10
+		"Grad" : Novi Becej,
+		"Broj oglasa" : 11
 	},
 	{
-		"lokacija1" : Futog,
-		"COUNT(*)" : 9
+		"Grad" : Despotovac,
+		"Broj oglasa" : 10
 	},
 	{
-		"lokacija1" : Opovo,
-		"COUNT(*)" : 9
+		"Grad" : Backi Petrovac,
+		"Broj oglasa" : 10
 	},
 	{
-		"lokacija1" : Mladenovac (varos),
-		"COUNT(*)" : 9
+		"Grad" : Ljig,
+		"Broj oglasa" : 10
 	},
 	{
-		"lokacija1" : Rumenka,
-		"COUNT(*)" : 9
+		"Grad" : Kula,
+		"Broj oglasa" : 10
 	},
 	{
-		"lokacija1" : Mionica,
-		"COUNT(*)" : 9
+		"Grad" : Bor,
+		"Broj oglasa" : 10
 	},
 	{
-		"lokacija1" : Kula,
-		"COUNT(*)" : 9
+		"Grad" : Futog,
+		"Broj oglasa" : 9
 	},
 	{
-		"lokacija1" : Doljevac,
-		"COUNT(*)" : 9
+		"Grad" : Opovo,
+		"Broj oglasa" : 9
 	},
 	{
-		"lokacija1" : Nova Crnja,
-		"COUNT(*)" : 9
+		"Grad" : Mladenovac (varos),
+		"Broj oglasa" : 9
 	},
 	{
-		"lokacija1" : Odzaci,
-		"COUNT(*)" : 9
+		"Grad" : Rumenka,
+		"Broj oglasa" : 9
 	},
 	{
-		"lokacija1" : Mali Zvornik,
-		"COUNT(*)" : 8
+		"Grad" : Mali Zvornik,
+		"Broj oglasa" : 9
 	},
 	{
-		"lokacija1" : Bosna i Hercegovina,
-		"COUNT(*)" : 8
+		"Grad" : Doljevac,
+		"Broj oglasa" : 9
 	},
 	{
-		"lokacija1" : Knjazevac,
-		"COUNT(*)" : 8
+		"Grad" : Arilje,
+		"Broj oglasa" : 9
 	},
 	{
-		"lokacija1" : Majdanpek,
-		"COUNT(*)" : 8
+		"Grad" : Nova Crnja,
+		"Broj oglasa" : 9
 	},
 	{
-		"lokacija1" : Lapovo,
-		"COUNT(*)" : 8
+		"Grad" : Odzaci,
+		"Broj oglasa" : 9
 	},
 	{
-		"lokacija1" : Nova Pazova,
-		"COUNT(*)" : 7
+		"Grad" : Cicevac,
+		"Broj oglasa" : 8
 	},
 	{
-		"lokacija1" : Cicevac,
-		"COUNT(*)" : 7
+		"Grad" : Bujanovac,
+		"Broj oglasa" : 8
 	},
 	{
-		"lokacija1" : Varvarin,
-		"COUNT(*)" : 7
+		"Grad" : Bosna i Hercegovina,
+		"Broj oglasa" : 8
 	},
 	{
-		"lokacija1" : Vrdnik,
-		"COUNT(*)" : 7
+		"Grad" : Majdanpek,
+		"Broj oglasa" : 8
 	},
 	{
-		"lokacija1" : Bujanovac,
-		"COUNT(*)" : 7
+		"Grad" : Lapovo,
+		"Broj oglasa" : 8
 	},
 	{
-		"lokacija1" : Plandiste,
-		"COUNT(*)" : 7
+		"Grad" : Nova Pazova,
+		"Broj oglasa" : 7
 	},
 	{
-		"lokacija1" : Pozega,
-		"COUNT(*)" : 7
+		"Grad" : Varvarin,
+		"Broj oglasa" : 7
 	},
 	{
-		"lokacija1" : Merosina,
-		"COUNT(*)" : 7
+		"Grad" : Vrdnik,
+		"Broj oglasa" : 7
 	},
 	{
-		"lokacija1" : Koceljeva,
-		"COUNT(*)" : 7
+		"Grad" : Plandiste,
+		"Broj oglasa" : 7
 	},
 	{
-		"lokacija1" : Cortanovci,
-		"COUNT(*)" : 6
+		"Grad" : Petrovac na Mlavi,
+		"Broj oglasa" : 7
 	},
 	{
-		"lokacija1" : Becici,
-		"COUNT(*)" : 6
+		"Grad" : Kursumlija,
+		"Broj oglasa" : 7
 	},
 	{
-		"lokacija1" : Bac,
-		"COUNT(*)" : 6
+		"Grad" : Koceljeva,
+		"Broj oglasa" : 7
 	},
 	{
-		"lokacija1" : Raska,
-		"COUNT(*)" : 6
+		"Grad" : Cortanovci,
+		"Broj oglasa" : 6
 	},
 	{
-		"lokacija1" : Petrovac na Mlavi,
-		"COUNT(*)" : 6
+		"Grad" : Becici,
+		"Broj oglasa" : 6
 	},
 	{
-		"lokacija1" : Kursumlija,
-		"COUNT(*)" : 6
+		"Grad" : Bac,
+		"Broj oglasa" : 6
 	},
 	{
-		"lokacija1" : Lazarevac,
-		"COUNT(*)" : 5
+		"Grad" : Ljubovija,
+		"Broj oglasa" : 6
 	},
 	{
-		"lokacija1" : Kladovo,
-		"COUNT(*)" : 5
+		"Grad" : Raska,
+		"Broj oglasa" : 6
 	},
 	{
-		"lokacija1" : Divcibare,
-		"COUNT(*)" : 5
+		"Grad" : Priboj,
+		"Broj oglasa" : 6
 	},
 	{
-		"lokacija1" : Cerevic,
-		"COUNT(*)" : 5
+		"Grad" : Novi Pazar,
+		"Broj oglasa" : 6
 	},
 	{
-		"lokacija1" : Hrvatska,
-		"COUNT(*)" : 5
+		"Grad" : Vlasotince,
+		"Broj oglasa" : 6
 	},
 	{
-		"lokacija1" : Cenej,
-		"COUNT(*)" : 5
+		"Grad" : Merosina,
+		"Broj oglasa" : 6
 	},
 	{
-		"lokacija1" : Bor,
-		"COUNT(*)" : 5
+		"Grad" : Lazarevac,
+		"Broj oglasa" : 5
 	},
 	{
-		"lokacija1" : Ivanjica,
-		"COUNT(*)" : 5
+		"Grad" : Divcibare,
+		"Broj oglasa" : 5
 	},
 	{
-		"lokacija1" : Vlasotince,
-		"COUNT(*)" : 5
+		"Grad" : Cerevic,
+		"Broj oglasa" : 5
 	},
 	{
-		"lokacija1" : Ulcinj,
-		"COUNT(*)" : 4
+		"Grad" : Hrvatska,
+		"Broj oglasa" : 5
 	},
 	{
-		"lokacija1" : Sopot,
-		"COUNT(*)" : 4
+		"Grad" : Cenej,
+		"Broj oglasa" : 5
 	},
 	{
-		"lokacija1" : Palic,
-		"COUNT(*)" : 4
+		"Grad" : Raca,
+		"Broj oglasa" : 5
 	},
 	{
-		"lokacija1" : Krasici,
-		"COUNT(*)" : 4
+		"Grad" : Ulcinj,
+		"Broj oglasa" : 4
 	},
 	{
-		"lokacija1" : Novi Slankamen,
-		"COUNT(*)" : 4
+		"Grad" : Sopot,
+		"Broj oglasa" : 4
 	},
 	{
-		"lokacija1" : Stari Banovci,
-		"COUNT(*)" : 4
+		"Grad" : Kladovo,
+		"Broj oglasa" : 4
 	},
 	{
-		"lokacija1" : Krcedin,
-		"COUNT(*)" : 4
+		"Grad" : Palic,
+		"Broj oglasa" : 4
 	},
 	{
-		"lokacija1" : Coka,
-		"COUNT(*)" : 4
+		"Grad" : Krasici,
+		"Broj oglasa" : 4
 	},
 	{
-		"lokacija1" : Zabari,
-		"COUNT(*)" : 4
+		"Grad" : Novi Slankamen,
+		"Broj oglasa" : 4
 	},
 	{
-		"lokacija1" : Ljubovija,
-		"COUNT(*)" : 4
+		"Grad" : Stari Banovci,
+		"Broj oglasa" : 4
 	},
 	{
-		"lokacija1" : Boljevac,
-		"COUNT(*)" : 4
+		"Grad" : Krcedin,
+		"Broj oglasa" : 4
 	},
 	{
-		"lokacija1" : Priboj,
-		"COUNT(*)" : 4
+		"Grad" : Coka,
+		"Broj oglasa" : 4
 	},
 	{
-		"lokacija1" : Zlatar,
-		"COUNT(*)" : 4
+		"Grad" : Zabari,
+		"Broj oglasa" : 4
 	},
 	{
-		"lokacija1" : Lucani,
-		"COUNT(*)" : 4
+		"Grad" : Zlatar,
+		"Broj oglasa" : 4
 	},
 	{
-		"lokacija1" : Lajkovac,
-		"COUNT(*)" : 4
+		"Grad" : Ivanjica,
+		"Broj oglasa" : 4
 	},
 	{
-		"lokacija1" : Ledinci,
-		"COUNT(*)" : 3
+		"Grad" : Lucani,
+		"Broj oglasa" : 4
 	},
 	{
-		"lokacija1" : Katun Rezevici,
-		"COUNT(*)" : 3
+		"Grad" : Surdulica,
+		"Broj oglasa" : 4
 	},
 	{
-		"lokacija1" : Meljak,
-		"COUNT(*)" : 3
+		"Grad" : Sjenica,
+		"Broj oglasa" : 4
 	},
 	{
-		"lokacija1" : Ripanj,
-		"COUNT(*)" : 3
+		"Grad" : Ledinci,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Begec,
-		"COUNT(*)" : 3
+		"Grad" : Katun Rezevici,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Risan,
-		"COUNT(*)" : 3
+		"Grad" : Meljak,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Perast,
-		"COUNT(*)" : 3
+		"Grad" : Ripanj,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Starcevo,
-		"COUNT(*)" : 3
+		"Grad" : Begec,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Deliblato,
-		"COUNT(*)" : 3
+		"Grad" : Risan,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Belegis,
-		"COUNT(*)" : 3
+		"Grad" : Perast,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Trgoviste,
-		"COUNT(*)" : 3
+		"Grad" : Starcevo,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Arilje,
-		"COUNT(*)" : 3
+		"Grad" : Deliblato,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Medvedja,
-		"COUNT(*)" : 3
+		"Grad" : Belegis,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Orahovac,
-		"COUNT(*)" : 3
+		"Grad" : Trgoviste,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Blace,
-		"COUNT(*)" : 3
+		"Grad" : Boljevac,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Lebane,
-		"COUNT(*)" : 3
+		"Grad" : Svrljig,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Gadzin Han,
-		"COUNT(*)" : 3
+		"Grad" : Medvedja,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Blizikuce,
-		"COUNT(*)" : 2
+		"Grad" : Lebane,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Golubinje,
-		"COUNT(*)" : 2
+		"Grad" : Blace,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Sutomore,
-		"COUNT(*)" : 2
+		"Grad" : Orahovac,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Topola (varosica),
-		"COUNT(*)" : 2
+		"Grad" : Aleksandrovac,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Ritopek,
-		"COUNT(*)" : 2
+		"Grad" : Osecina,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Jarkovac,
-		"COUNT(*)" : 2
+		"Grad" : Gadzin Han,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Dobanovci,
-		"COUNT(*)" : 2
+		"Grad" : Lajkovac,
+		"Broj oglasa" : 3
 	},
 	{
-		"lokacija1" : Zvecka,
-		"COUNT(*)" : 2
+		"Grad" : Blizikuce,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Banja Vrujci,
-		"COUNT(*)" : 2
+		"Grad" : Golubinje,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : ,
-		"COUNT(*)" : 2
+		"Grad" : Sutomore,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Novo Selo,
-		"COUNT(*)" : 2
+		"Grad" : Topola (varosica),
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Donji Stoliv,
-		"COUNT(*)" : 2
+		"Grad" : Ritopek,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Jazak,
-		"COUNT(*)" : 2
+		"Grad" : Jarkovac,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Sveti Stefan,
-		"COUNT(*)" : 2
+		"Grad" : Dobanovci,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Bukovac,
-		"COUNT(*)" : 2
+		"Grad" : Zvecka,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Donji Orahovac,
-		"COUNT(*)" : 2
+		"Grad" : Banja Vrujci,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Takovo,
-		"COUNT(*)" : 2
+		"Grad" : ,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Jelasnica,
-		"COUNT(*)" : 2
+		"Grad" : Novo Selo,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Baosici,
-		"COUNT(*)" : 2
+		"Grad" : Donji Stoliv,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Ravno Selo,
-		"COUNT(*)" : 2
+		"Grad" : Jazak,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Jabucje,
-		"COUNT(*)" : 2
+		"Grad" : Sveti Stefan,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Bozdarevac,
-		"COUNT(*)" : 2
+		"Grad" : Bukovac,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Dobrota,
-		"COUNT(*)" : 2
+		"Grad" : Donji Orahovac,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Igalo,
-		"COUNT(*)" : 2
+		"Grad" : Takovo,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Visnjicevo,
-		"COUNT(*)" : 2
+		"Grad" : Jelasnica,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Banja Koviljaca,
-		"COUNT(*)" : 2
+		"Grad" : Baosici,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Surduk,
-		"COUNT(*)" : 2
+		"Grad" : Ravno Selo,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Rakovac,
-		"COUNT(*)" : 2
+		"Grad" : Senta,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Selo Kostolac,
-		"COUNT(*)" : 2
+		"Grad" : Jabucje,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Zabljak,
-		"COUNT(*)" : 2
+		"Grad" : Bozdarevac,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Ralja,
-		"COUNT(*)" : 2
+		"Grad" : Dobrota,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Niska Banja,
-		"COUNT(*)" : 2
+		"Grad" : Igalo,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Grocka,
-		"COUNT(*)" : 2
+		"Grad" : Visnjicevo,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Przno,
-		"COUNT(*)" : 2
+		"Grad" : Banja Koviljaca,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Donji Milanovac,
-		"COUNT(*)" : 2
+		"Grad" : Surduk,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Curug,
-		"COUNT(*)" : 2
+		"Grad" : Rakovac,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Mramorak,
-		"COUNT(*)" : 2
+		"Grad" : Selo Kostolac,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Skupljen,
-		"COUNT(*)" : 2
+		"Grad" : Zabljak,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Svrljig,
-		"COUNT(*)" : 2
+		"Grad" : Ralja,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Brzece,
-		"COUNT(*)" : 2
+		"Grad" : Niska Banja,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Kosovo Polje,
-		"COUNT(*)" : 2
+		"Grad" : Grocka,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Dragas,
-		"COUNT(*)" : 2
+		"Grad" : Przno,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Dimitrovgrad,
-		"COUNT(*)" : 2
+		"Grad" : Donji Milanovac,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Mali Idjos,
-		"COUNT(*)" : 2
+		"Grad" : Curug,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Osecina,
-		"COUNT(*)" : 2
+		"Grad" : Mramorak,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Krupanj,
-		"COUNT(*)" : 2
+		"Grad" : Skupljen,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Aleksandrovac,
-		"COUNT(*)" : 2
+		"Grad" : Brzece,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Kosjeric,
-		"COUNT(*)" : 2
+		"Grad" : Kosjeric,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Bojnik,
-		"COUNT(*)" : 2
+		"Grad" : Dimitrovgrad,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Backo Gradiste,
-		"COUNT(*)" : 1
+		"Grad" : Djakovica,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Supetar,
-		"COUNT(*)" : 1
+		"Grad" : Bojnik,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Lipova,
-		"COUNT(*)" : 1
+		"Grad" : Mali Idjos,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Medosevac,
-		"COUNT(*)" : 1
+		"Grad" : Dragas,
+		"Broj oglasa" : 2
 	},
 	{
-		"lokacija1" : Lazarica,
-		"COUNT(*)" : 1
+		"Grad" : Backo Gradiste,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Doroslovo,
-		"COUNT(*)" : 1
+		"Grad" : Supetar,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Crepaja,
-		"COUNT(*)" : 1
+		"Grad" : Lipova,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Dolovo,
-		"COUNT(*)" : 1
+		"Grad" : Medosevac,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Azanja,
-		"COUNT(*)" : 1
+		"Grad" : Lazarica,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Donja Raca,
-		"COUNT(*)" : 1
+		"Grad" : Doroslovo,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Lajkovac (varos),
-		"COUNT(*)" : 1
+		"Grad" : Crepaja,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Simanovci,
-		"COUNT(*)" : 1
+		"Grad" : Dolovo,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Rogaca,
-		"COUNT(*)" : 1
+		"Grad" : Azanja,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Kumbor,
-		"COUNT(*)" : 1
+		"Grad" : Donja Raca,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Konatice,
-		"COUNT(*)" : 1
+		"Grad" : Lajkovac (varos),
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Vlaska,
-		"COUNT(*)" : 1
+		"Grad" : Simanovci,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Danilovgrad,
-		"COUNT(*)" : 1
+		"Grad" : Rogaca,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Ljubinic,
-		"COUNT(*)" : 1
+		"Grad" : Kumbor,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Ecka,
-		"COUNT(*)" : 1
+		"Grad" : Konatice,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Kisac,
-		"COUNT(*)" : 1
+		"Grad" : Vlaska,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Becmen,
-		"COUNT(*)" : 1
+		"Grad" : Danilovgrad,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Stubline,
-		"COUNT(*)" : 1
+		"Grad" : Ljubinic,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Milesevo,
-		"COUNT(*)" : 1
+		"Grad" : Ecka,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Backi Monostor,
-		"COUNT(*)" : 1
+		"Grad" : Kisac,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Brodarevo,
-		"COUNT(*)" : 1
+		"Grad" : Becmen,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Vranovo,
-		"COUNT(*)" : 1
+		"Grad" : Stubline,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Trebinje,
-		"COUNT(*)" : 1
+		"Grad" : Milesevo,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Dec,
-		"COUNT(*)" : 1
+		"Grad" : Backi Monostor,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Ivanovo,
-		"COUNT(*)" : 1
+		"Grad" : Brodarevo,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Majur,
-		"COUNT(*)" : 1
+		"Grad" : Vranovo,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Rijeka Rezevici,
-		"COUNT(*)" : 1
+		"Grad" : Trebinje,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Bovan,
-		"COUNT(*)" : 1
+		"Grad" : Dec,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Stojnik,
-		"COUNT(*)" : 1
+		"Grad" : Ivanovo,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Crna Gora,
-		"COUNT(*)" : 1
+		"Grad" : Majur,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Osipaonica,
-		"COUNT(*)" : 1
+		"Grad" : Rijeka Rezevici,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Plijesevina,
-		"COUNT(*)" : 1
+		"Grad" : Bovan,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Vrsar,
-		"COUNT(*)" : 1
+		"Grad" : Stojnik,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Melenci,
-		"COUNT(*)" : 1
+		"Grad" : Crna Gora,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Senta,
-		"COUNT(*)" : 1
+		"Grad" : Osipaonica,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Guncati,
-		"COUNT(*)" : 1
+		"Grad" : Plijesevina,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Banatski Karlovac,
-		"COUNT(*)" : 1
+		"Grad" : Vrsar,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Centa,
-		"COUNT(*)" : 1
+		"Grad" : Melenci,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Susanj,
-		"COUNT(*)" : 1
+		"Grad" : Guncati,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Bosilegrad,
-		"COUNT(*)" : 1
+		"Grad" : Banatski Karlovac,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Bigova,
-		"COUNT(*)" : 1
+		"Grad" : Centa,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Ugrinovci,
-		"COUNT(*)" : 1
+		"Grad" : Susanj,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Bijela,
-		"COUNT(*)" : 1
+		"Grad" : Bosilegrad,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Crvenka,
-		"COUNT(*)" : 1
+		"Grad" : Bigova,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Markovici,
-		"COUNT(*)" : 1
+		"Grad" : Ugrinovci,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Sutorina,
-		"COUNT(*)" : 1
+		"Grad" : Bijela,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Velika Krsna,
-		"COUNT(*)" : 1
+		"Grad" : Crvenka,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Krimovica,
-		"COUNT(*)" : 1
+		"Grad" : Markovici,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Bacevac,
-		"COUNT(*)" : 1
+		"Grad" : Sutorina,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Baric,
-		"COUNT(*)" : 1
+		"Grad" : Velika Krsna,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Trupale,
-		"COUNT(*)" : 1
+		"Grad" : Krimovica,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Guca (varosica),
-		"COUNT(*)" : 1
+		"Grad" : Bacevac,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Ladjevci,
-		"COUNT(*)" : 1
+		"Grad" : Baric,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Kovilj,
-		"COUNT(*)" : 1
+		"Grad" : Trupale,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Lisovic,
-		"COUNT(*)" : 1
+		"Grad" : Guca (varosica),
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Vracevsnica,
-		"COUNT(*)" : 1
+		"Grad" : Ladjevci,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Niksic,
-		"COUNT(*)" : 1
+		"Grad" : Kovilj,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Vencane,
-		"COUNT(*)" : 1
+		"Grad" : Lisovic,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Ivanje,
-		"COUNT(*)" : 1
+		"Grad" : Vracevsnica,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Velika Mostanica,
-		"COUNT(*)" : 1
+		"Grad" : Niksic,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Lesnica,
-		"COUNT(*)" : 1
+		"Grad" : Vencane,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Brus,
-		"COUNT(*)" : 1
+		"Grad" : Ivanje,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Vrcin,
-		"COUNT(*)" : 1
+		"Grad" : Velika Mostanica,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Lipovica,
-		"COUNT(*)" : 1
+		"Grad" : Lesnica,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Zitkovac,
-		"COUNT(*)" : 1
+		"Grad" : Brus,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Misicevo,
-		"COUNT(*)" : 1
+		"Grad" : Vrcin,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Selevac,
-		"COUNT(*)" : 1
+		"Grad" : Lipovica,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Grcka,
-		"COUNT(*)" : 1
+		"Grad" : Zitkovac,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Mosorin,
-		"COUNT(*)" : 1
+		"Grad" : Misicevo,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Mali Pozarevac,
-		"COUNT(*)" : 1
+		"Grad" : Selevac,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Gaj,
-		"COUNT(*)" : 1
+		"Grad" : Grcka,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Bukovik,
-		"COUNT(*)" : 1
+		"Grad" : Mosorin,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Zalug,
-		"COUNT(*)" : 1
+		"Grad" : Mali Pozarevac,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Bogutovac,
-		"COUNT(*)" : 1
+		"Grad" : Gaj,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Kljajicevo,
-		"COUNT(*)" : 1
+		"Grad" : Bukovik,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Trbusac,
-		"COUNT(*)" : 1
+		"Grad" : Zalug,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Pljevlja,
-		"COUNT(*)" : 1
+		"Grad" : Bogutovac,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Banostor,
-		"COUNT(*)" : 1
+		"Grad" : Kljajicevo,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Bavaniste,
-		"COUNT(*)" : 1
+		"Grad" : Trbusac,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Krusedol Prnjavor,
-		"COUNT(*)" : 1
+		"Grad" : Pljevlja,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Krusedol Selo,
-		"COUNT(*)" : 1
+		"Grad" : Banostor,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Lacarak,
-		"COUNT(*)" : 1
+		"Grad" : Bavaniste,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Banatsko Novo Selo,
-		"COUNT(*)" : 1
+		"Grad" : Krusedol Prnjavor,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Nisevac,
-		"COUNT(*)" : 1
+		"Grad" : Krusedol Selo,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Osecina (selo),
-		"COUNT(*)" : 1
+		"Grad" : Lacarak,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Visegrad,
-		"COUNT(*)" : 1
+		"Grad" : Banatsko Novo Selo,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Rijeka Crnojevica,
-		"COUNT(*)" : 1
+		"Grad" : Nisevac,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Mramor,
-		"COUNT(*)" : 1
+		"Grad" : Osecina (selo),
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Tara (planina),
-		"COUNT(*)" : 1
+		"Grad" : Visegrad,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Utrg,
-		"COUNT(*)" : 1
+		"Grad" : Rijeka Crnojevica,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Sivac,
-		"COUNT(*)" : 1
+		"Grad" : Mramor,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Vojka,
-		"COUNT(*)" : 1
+		"Grad" : Tara (planina),
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Ribarska Banja,
-		"COUNT(*)" : 1
+		"Grad" : Utrg,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Boboviste,
-		"COUNT(*)" : 1
+		"Grad" : Sivac,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Nikinci,
-		"COUNT(*)" : 1
+		"Grad" : Vojka,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Koracica,
-		"COUNT(*)" : 1
+		"Grad" : Ribarska Banja,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Boljevci,
-		"COUNT(*)" : 1
+		"Grad" : Boboviste,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Pastric,
-		"COUNT(*)" : 1
+		"Grad" : Nikinci,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Belanovica,
-		"COUNT(*)" : 1
+		"Grad" : Koracica,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Stari Ledinci,
-		"COUNT(*)" : 1
+		"Grad" : Boljevci,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Zelenika,
-		"COUNT(*)" : 1
+		"Grad" : Pastric,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Ribnica,
-		"COUNT(*)" : 1
+		"Grad" : Belanovica,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Vodice,
-		"COUNT(*)" : 1
+		"Grad" : Stari Ledinci,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Sveta Nedelja,
-		"COUNT(*)" : 1
+		"Grad" : Zelenika,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Donje Vlase,
-		"COUNT(*)" : 1
+		"Grad" : Ribnica,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Aleksandrovo,
-		"COUNT(*)" : 1
+		"Grad" : Vodice,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Stubicke Toplice,
-		"COUNT(*)" : 1
+		"Grad" : Sveta Nedelja,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Kusici,
-		"COUNT(*)" : 1
+		"Grad" : Donje Vlase,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Popinci,
-		"COUNT(*)" : 1
+		"Grad" : Aleksandrovo,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Bolec,
-		"COUNT(*)" : 1
+		"Grad" : Stubicke Toplice,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Perlez,
-		"COUNT(*)" : 1
+		"Grad" : Kusici,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Kamenica,
-		"COUNT(*)" : 1
+		"Grad" : Popinci,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Jabuka,
-		"COUNT(*)" : 1
+		"Grad" : Bolec,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Sasinci,
-		"COUNT(*)" : 1
+		"Grad" : Perlez,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Botos,
-		"COUNT(*)" : 1
+		"Grad" : Kamenica,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Vrbovno,
-		"COUNT(*)" : 1
+		"Grad" : Jabuka,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Karlovcic,
-		"COUNT(*)" : 1
+		"Grad" : Sasinci,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Kukujevci,
-		"COUNT(*)" : 1
+		"Grad" : Botos,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Osijek,
-		"COUNT(*)" : 1
+		"Grad" : Vrbovno,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Kozjak,
-		"COUNT(*)" : 1
+		"Grad" : Karlovcic,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Dobra Voda,
-		"COUNT(*)" : 1
+		"Grad" : Kukujevci,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Perucac,
-		"COUNT(*)" : 1
+		"Grad" : Osijek,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Slovenija,
-		"COUNT(*)" : 1
+		"Grad" : Kozjak,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Golubinci,
-		"COUNT(*)" : 1
+		"Grad" : Dobra Voda,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Kosovska Mitrovica,
-		"COUNT(*)" : 1
+		"Grad" : Perucac,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Beljina,
-		"COUNT(*)" : 1
+		"Grad" : Slovenija,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Timar,
-		"COUNT(*)" : 1
+		"Grad" : Golubinci,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Carina,
-		"COUNT(*)" : 1
+		"Grad" : Beljina,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Radovici,
-		"COUNT(*)" : 1
+		"Grad" : Timar,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Petrovac na Moru,
-		"COUNT(*)" : 1
+		"Grad" : Carina,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Bosiljevo,
-		"COUNT(*)" : 1
+		"Grad" : Radovici,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Karadjordjevo,
-		"COUNT(*)" : 1
+		"Grad" : Petrovac na Moru,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Zitoradja,
-		"COUNT(*)" : 1
+		"Grad" : Bosiljevo,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Novi Pazar,
-		"COUNT(*)" : 1
+		"Grad" : Karadjordjevo,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Sjenica,
-		"COUNT(*)" : 1
+		"Grad" : Zitoradja,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Djakovica,
-		"COUNT(*)" : 1
+		"Grad" : Crna Trava,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Kucevo,
-		"COUNT(*)" : 1
+		"Grad" : Ada,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Surdulica,
-		"COUNT(*)" : 1
+		"Grad" : Malo Crnice,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Crna Trava,
-		"COUNT(*)" : 1
+		"Grad" : Kosovo Polje,
+		"Broj oglasa" : 1
 	},
 	{
-		"lokacija1" : Ada,
-		"COUNT(*)" : 1
+		"Grad" : Kucevo,
+		"Broj oglasa" : 1
+	},
+	{
+		"Grad" : Krupanj,
+		"Broj oglasa" : 1
 	}
 ]

@@ -1,6 +1,8 @@
 # Beograd, Novi Sad, Nis, Kragujevac, Jagodina
 
 import json
+import matplotlib.pyplot as plt
+import numpy as np
 
 dict_json = {'Beograd-prodaja': 0, 'Beograd-iznajmljivanje': 0,
              'Novi Sad-prodaja': 0, 'Novi Sad-iznajmljivanje': 0,
@@ -53,6 +55,25 @@ def updateDictPercentage():
     dict_json_percentage['Jagodina-prodaja'] = round(100.00 * float(dict_json['Jagodina-prodaja'] / (dict_json['Jagodina-prodaja'] + dict_json['Jagodina-iznajmljivanje'])),2)
     dict_json_percentage['Jagodina-iznajmljivanje'] = round(100.00 * float(dict_json['Jagodina-iznajmljivanje'] / (dict_json['Jagodina-prodaja'] + dict_json['Jagodina-iznajmljivanje'])),2)
 
+def plotting():
+    labels = 'Prodaja', 'Izdavanje'
+    fig, axs = plt.subplots(2, 3, figsize=(10, 9))
+    i = 0
+    for ax1 in axs:
+        for ax in ax1:
+            if i == 10:
+                ax.set_visible(False)
+                break
+            values = [tuple(dict_json.items())[i][1], tuple(dict_json.items())[i+1][1]]
+            suma = sum(values)
+            ax.pie(values, explode=(0, 0.075), labels=labels, autopct=lambda p: '{:.1f}%({:.0f})'.format(p, (p/100)*suma),
+                    shadow=True, startangle=90, colors=['royalblue', 'deepskyblue'])
+            ax.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
+            ax.set_title('Nekretnine - ' + str(tuple(dict_json.items())[i][0]).split('-')[0])
+            i += 2
+    plt.savefig('prodaja_iznajmljivanje.png')
+    plt.show()
+
 def create_json(file):
     with open(file, 'r') as infile:
         result = json.load(infile)
@@ -72,3 +93,5 @@ def create_json(file):
 
 
 create_json("../data_real_estates.json")
+
+plotting()

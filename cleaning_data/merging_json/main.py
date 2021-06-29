@@ -9,7 +9,7 @@ def merge_JsonFiles(filename):
             result.extend(json.load(infile))
             print(infile)
 
-    with open('merged.json', 'w') as output_file:
+    with open('houses.json', 'w') as output_file:
         output_file.write(
         '[' +
         ',\n'.join(json.dumps(i) for i in result) +

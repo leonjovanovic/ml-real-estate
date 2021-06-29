@@ -46,14 +46,20 @@ def plotting():
     values = [dict_json['<36'], dict_json['36-50'], dict_json['51-65'], dict_json['66-80'], dict_json['81-95'], dict_json['96-110'], dict_json['>110']]
     fig, ax = plt.subplots()
     rects1 = ax.bar(x, values, width)
+    i = 0
+    for r in rects1:
+        if i % 2 == 0:
+            r.set_color('c')
+        i += 1
     # Add some text for labels, title and custom x-axis tick labels, etc.
     ax.set_ylabel('Broj stanova')
     ax.set_xlabel('Kvadratura')
     ax.set_title('Stanovi po broju kvadrata')
     ax.set_xticks(x)
     ax.set_xticklabels(labels)
-    ax.bar_label(rects1, padding=3)
+    ax.bar_label(rects1, padding=1)
     fig.tight_layout()
+    plt.savefig('stanovi_po_kvadraturi.png')
     plt.show()
 
 
