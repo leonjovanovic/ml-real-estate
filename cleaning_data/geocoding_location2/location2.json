@@ -1,0 +1,10484 @@
+[
+	{
+		"lokacija" : "Savski Venac"
+	},
+	{
+		"lokacija" : "Kaludjerica"
+	},
+	{
+		"lokacija" : "Zvezdara"
+	},
+	{
+		"lokacija" : "Dedinje (25. Maj)"
+	},
+	{
+		"lokacija" : "Ledine"
+	},
+	{
+		"lokacija" : "Beli Potok"
+	},
+	{
+		"lokacija" : "Veliki Mokri Lug"
+	},
+	{
+		"lokacija" : "Batajnica"
+	},
+	{
+		"lokacija" : "Dedinje (Beli Dvor)"
+	},
+	{
+		"lokacija" : "Vracar (Centar)"
+	},
+	{
+		"lokacija" : "Jajinci"
+	},
+	{
+		"lokacija" : "Vozdovac"
+	},
+	{
+		"lokacija" : "Olimp"
+	},
+	{
+		"lokacija" : "Vracar (Hram)"
+	},
+	{
+		"lokacija" : "Uciteljsko Naselje"
+	},
+	{
+		"lokacija" : "Kalenic Pijaca"
+	},
+	{
+		"lokacija" : "Barajevo"
+	},
+	{
+		"lokacija" : "Crveni Krst"
+	},
+	{
+		"lokacija" : "Brace Jerkovic"
+	},
+	{
+		"lokacija" : "Lekino Brdo"
+	},
+	{
+		"lokacija" : "Trosarina"
+	},
+	{
+		"lokacija" : "Rospi Cuprija"
+	},
+	{
+		"lokacija" : "Palilula"
+	},
+	{
+		"lokacija" : "Visnjicka Banja"
+	},
+	{
+		"lokacija" : "Krnjaca"
+	},
+	{
+		"lokacija" : "Cubura"
+	},
+	{
+		"lokacija" : "Botanicka Basta"
+	},
+	{
+		"lokacija" : "Zemun (Centar)"
+	},
+	{
+		"lokacija" : "Neimar"
+	},
+	{
+		"lokacija" : "Zemun (Gornji Grad)"
+	},
+	{
+		"lokacija" : "Cvetanova Cuprija"
+	},
+	{
+		"lokacija" : "Zemun (Kalvarija)"
+	},
+	{
+		"lokacija" : "Petlovo Brdo"
+	},
+	{
+		"lokacija" : "Gundulicev Venac"
+	},
+	{
+		"lokacija" : "Grocka"
+	},
+	{
+		"lokacija" : "Medakovic I"
+	},
+	{
+		"lokacija" : "Zemun (Meandri)"
+	},
+	{
+		"lokacija" : "Senjak"
+	},
+	{
+		"lokacija" : "Borca Iii"
+	},
+	{
+		"lokacija" : null
+	},
+	{
+		"lokacija" : "Mirijevo I"
+	},
+	{
+		"lokacija" : "Kluz"
+	},
+	{
+		"lokacija" : "Gornji Dorcol"
+	},
+	{
+		"lokacija" : "Lion"
+	},
+	{
+		"lokacija" : "Zemun (Novi Grad)"
+	},
+	{
+		"lokacija" : "Borca I"
+	},
+	{
+		"lokacija" : "Autokomanda"
+	},
+	{
+		"lokacija" : "Mali Mokri Lug"
+	},
+	{
+		"lokacija" : "Skojevsko Naselje"
+	},
+	{
+		"lokacija" : "Ovca"
+	},
+	{
+		"lokacija" : "Dedinje (Rtv Pink)"
+	},
+	{
+		"lokacija" : "Golf Naselje"
+	},
+	{
+		"lokacija" : "Suncana Padina"
+	},
+	{
+		"lokacija" : "Centar (Uzi)"
+	},
+	{
+		"lokacija" : "Visnjica"
+	},
+	{
+		"lokacija" : "Topcider"
+	},
+	{
+		"lokacija" : "Banovo Brdo"
+	},
+	{
+		"lokacija" : "Sremcica"
+	},
+	{
+		"lokacija" : "Cukarica"
+	},
+	{
+		"lokacija" : "Filmski Grad"
+	},
+	{
+		"lokacija" : "Miljakovac I"
+	},
+	{
+		"lokacija" : "Miljakovac Iii"
+	},
+	{
+		"lokacija" : "Slavujev Venac"
+	},
+	{
+		"lokacija" : "Bezanijska Kosa I"
+	},
+	{
+		"lokacija" : "Zeleni Venac"
+	},
+	{
+		"lokacija" : "Banjica"
+	},
+	{
+		"lokacija" : "Galenika"
+	},
+	{
+		"lokacija" : "Bele Vode"
+	},
+	{
+		"lokacija" : "Farmaceutski Fakultet"
+	},
+	{
+		"lokacija" : "Lipovacka Suma"
+	},
+	{
+		"lokacija" : "Konjarnik"
+	},
+	{
+		"lokacija" : "Zemun (Cukovac)"
+	},
+	{
+		"lokacija" : "Dobanovci"
+	},
+	{
+		"lokacija" : "Dusanovac"
+	},
+	{
+		"lokacija" : "Denkova Basta"
+	},
+	{
+		"lokacija" : "Bulevar Kr. Aleksandra"
+	},
+	{
+		"lokacija" : "Surcin"
+	},
+	{
+		"lokacija" : "Glumcevo Brdo"
+	},
+	{
+		"lokacija" : "Kumodraz I"
+	},
+	{
+		"lokacija" : "Juzni Bulevar"
+	},
+	{
+		"lokacija" : "Stari Grad"
+	},
+	{
+		"lokacija" : "Retenzija"
+	},
+	{
+		"lokacija" : "Karaburma"
+	},
+	{
+		"lokacija" : "Altina"
+	},
+	{
+		"lokacija" : "Cvetkova Pijaca"
+	},
+	{
+		"lokacija" : "Avala"
+	},
+	{
+		"lokacija" : "Sopot"
+	},
+	{
+		"lokacija" : "Mackov Kamen"
+	},
+	{
+		"lokacija" : "Kumodraz Ii"
+	},
+	{
+		"lokacija" : "Zeleznik"
+	},
+	{
+		"lokacija" : "Skadarlija"
+	},
+	{
+		"lokacija" : "Knezevac"
+	},
+	{
+		"lokacija" : "Profesorska Kolonija"
+	},
+	{
+		"lokacija" : "Rakovica"
+	},
+	{
+		"lokacija" : "Djeram Pijaca"
+	},
+	{
+		"lokacija" : "Donji Dorcol"
+	},
+	{
+		"lokacija" : "Palilulska Pijaca"
+	},
+	{
+		"lokacija" : "Lipov Lad"
+	},
+	{
+		"lokacija" : "Ostruznica"
+	},
+	{
+		"lokacija" : "Plavi Horizonti"
+	},
+	{
+		"lokacija" : "Sumice"
+	},
+	{
+		"lokacija" : "Partizanov Stadion"
+	},
+	{
+		"lokacija" : "Resnik"
+	},
+	{
+		"lokacija" : "Medakovic Iii"
+	},
+	{
+		"lokacija" : "Zvezdin Stadion"
+	},
+	{
+		"lokacija" : "Zarkovo"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 49"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 17 (Staro Sajmiste)"
+	},
+	{
+		"lokacija" : "Cerak"
+	},
+	{
+		"lokacija" : "Rusanj"
+	},
+	{
+		"lokacija" : "Lestane"
+	},
+	{
+		"lokacija" : "Gradska Bolnica"
+	},
+	{
+		"lokacija" : "Kanarevo Brdo"
+	},
+	{
+		"lokacija" : "Radiofar"
+	},
+	{
+		"lokacija" : "Kotez"
+	},
+	{
+		"lokacija" : "Kopitareva Gradina"
+	},
+	{
+		"lokacija" : "Medak Padina"
+	},
+	{
+		"lokacija" : "Vidikovacka Padina"
+	},
+	{
+		"lokacija" : "Zemun (Save Kovacevica)"
+	},
+	{
+		"lokacija" : "Zemun (Gardos)"
+	},
+	{
+		"lokacija" : "Zeleno Brdo"
+	},
+	{
+		"lokacija" : "Dedinje (Sve Podlokacije)"
+	},
+	{
+		"lokacija" : "Vukov Spomenik"
+	},
+	{
+		"lokacija" : "Bajlonijeva Pijaca"
+	},
+	{
+		"lokacija" : "Vinca"
+	},
+	{
+		"lokacija" : "Sarajevska"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 35 (Sc 11. April)"
+	},
+	{
+		"lokacija" : "Tresnja"
+	},
+	{
+		"lokacija" : "Tosin Bunar"
+	},
+	{
+		"lokacija" : "Zemun Polje"
+	},
+	{
+		"lokacija" : "Zemun (Cara Dusana)"
+	},
+	{
+		"lokacija" : "Knez Mihajlova ( Centar )"
+	},
+	{
+		"lokacija" : "Novi Beograd"
+	},
+	{
+		"lokacija" : "Pregrevica"
+	},
+	{
+		"lokacija" : "Zvezdarska Suma"
+	},
+	{
+		"lokacija" : "Bezanijska Kosa Iii"
+	},
+	{
+		"lokacija" : "Jelovac"
+	},
+	{
+		"lokacija" : "Borca Ii"
+	},
+	{
+		"lokacija" : "Klinicki Centar"
+	},
+	{
+		"lokacija" : "Kosutnjak"
+	},
+	{
+		"lokacija" : "Autoput"
+	},
+	{
+		"lokacija" : "Hadzipopovac"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 11C (Stari Merkator)"
+	},
+	{
+		"lokacija" : "Obilicev Venac"
+	},
+	{
+		"lokacija" : "Bezanija"
+	},
+	{
+		"lokacija" : "Cukaricka Padina"
+	},
+	{
+		"lokacija" : "Cerak Vinogradi"
+	},
+	{
+		"lokacija" : "Padinska Skela"
+	},
+	{
+		"lokacija" : "Ibarska Magistrala"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 7 (Paviljoni)"
+	},
+	{
+		"lokacija" : "Zemun (Kej)"
+	},
+	{
+		"lokacija" : "Bogoslovija"
+	},
+	{
+		"lokacija" : "Veljko Vlahovic"
+	},
+	{
+		"lokacija" : "Labudovo Brdo"
+	},
+	{
+		"lokacija" : "Zemun (Marije Bursac)"
+	},
+	{
+		"lokacija" : "Kalemegdan"
+	},
+	{
+		"lokacija" : "Mirijevo Ii"
+	},
+	{
+		"lokacija" : "Bulbuder"
+	},
+	{
+		"lokacija" : "Torlak"
+	},
+	{
+		"lokacija" : "Lisicji Jarak"
+	},
+	{
+		"lokacija" : "Andricev Venac"
+	},
+	{
+		"lokacija" : "Trg Republike ( Centar )"
+	},
+	{
+		"lokacija" : "Zemun (Backa)"
+	},
+	{
+		"lokacija" : "Severni Bulevar"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 45 (Tc Enjub)"
+	},
+	{
+		"lokacija" : "Marinkova Bara"
+	},
+	{
+		"lokacija" : "Novo Groblje"
+	},
+	{
+		"lokacija" : "Tasmajdan"
+	},
+	{
+		"lokacija" : "Borca V"
+	},
+	{
+		"lokacija" : "Beograd Na Vodi"
+	},
+	{
+		"lokacija" : "Terazije ( Centar )"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 12 (Yubc)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 67"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 31 (Merkator)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 67A"
+	},
+	{
+		"lokacija" : "Cvetni Trg"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 63"
+	},
+	{
+		"lokacija" : "Medakovic Ii"
+	},
+	{
+		"lokacija" : "Vidikovac"
+	},
+	{
+		"lokacija" : "Postanska Stedionica"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 61"
+	},
+	{
+		"lokacija" : "Bezanijska Kosa Ii"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 11 (Hotel Jugoslavija)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 64"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 21 (10. Gimnazija)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 70 (Kineski Tc)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 1 (Fontana)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 72"
+	},
+	{
+		"lokacija" : "29. Novembra"
+	},
+	{
+		"lokacija" : "Mirijevo Iii"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 65"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 20 (Hotel Hayat)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 25 (Arena)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 60"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 19 (Sava Centar)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 33 (Genex Kula)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 62"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 44 (Piramida)"
+	},
+	{
+		"lokacija" : "Slavija"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 30 (B92)"
+	},
+	{
+		"lokacija" : "Beogradjanka ( Centar )"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 38 (Os Ratko Mitrovic)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 34 (Studentski Grad)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 22"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 37"
+	},
+	{
+		"lokacija" : "Savski Trg"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 28 (Potkovica)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 29"
+	},
+	{
+		"lokacija" : "Hala Pionir"
+	},
+	{
+		"lokacija" : "Palata Pravde"
+	},
+	{
+		"lokacija" : "Belvil"
+	},
+	{
+		"lokacija" : "Strahinjica Bana"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 11B"
+	},
+	{
+		"lokacija" : "Dunavski Kej"
+	},
+	{
+		"lokacija" : "Cvijiceva"
+	},
+	{
+		"lokacija" : "Julino Brdo"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 32 (Crkva Sv. Dimitrija)"
+	},
+	{
+		"lokacija" : "Kosancicev Venac"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 8A (Paviljoni)"
+	},
+	{
+		"lokacija" : "Sava Mala"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 9"
+	},
+	{
+		"lokacija" : "Politika ( Centar )"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 11A (Opstina Nbg)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 43 (Buvlja Pijaca)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 23"
+	},
+	{
+		"lokacija" : "Vojvode Vlahovica"
+	},
+	{
+		"lokacija" : "Zemun (Teleoptik)"
+	},
+	{
+		"lokacija" : "Vozdovac (Sve Podlokacije)"
+	},
+	{
+		"lokacija" : "Toplicin Venac"
+	},
+	{
+		"lokacija" : "Gradic Pejton"
+	},
+	{
+		"lokacija" : "Kneza Milosa ( Centar )"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 9A (Dom Zdravlja)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 19A"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 24 (Super Vero)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 60 (Airport City)"
+	},
+	{
+		"lokacija" : "Jabucki Rit"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 8 (Paviljoni)"
+	},
+	{
+		"lokacija" : "Studentski Trg ( Centar )"
+	},
+	{
+		"lokacija" : "Viline Vode"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 4 (Politehnicka Akademija)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 16 (Usce Soping Centar)"
+	},
+	{
+		"lokacija" : "Mirijevo Iv"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 10"
+	},
+	{
+		"lokacija" : "Borca Iv"
+	},
+	{
+		"lokacija" : "Zemun (Nova Galenika)"
+	},
+	{
+		"lokacija" : "Zira"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 70A"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 3"
+	},
+	{
+		"lokacija" : "Miljakovac Ii"
+	},
+	{
+		"lokacija" : "Stepa Stepanovic"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 2"
+	},
+	{
+		"lokacija" : "Ada Ciganlija"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 7A (Paviljoni)"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 71"
+	},
+	{
+		"lokacija" : "Institut Za Majku I Dete"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 8A"
+	},
+	{
+		"lokacija" : "Manjez"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 58"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 68"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 26"
+	},
+	{
+		"lokacija" : "Novi Beograd Blok 41A (Gtc)"
+	},
+	{
+		"lokacija" : "Zemun (Sve Podlokacije)"
+	},
+	{
+		"lokacija" : "Vidikovacki Venac"
+	},
+	{
+		"lokacija" : "Dorcol (Sve Podlokacije)"
+	},
+	{
+		"lokacija" : "Lisicji Potok"
+	},
+	{
+		"lokacija" : "Mirijevo (Sve Podlokacije)"
+	},
+	{
+		"lokacija" : "Karadjordjeva"
+	},
+	{
+		"lokacija" : "Paje Jovanovica"
+	},
+	{
+		"lokacija" : "Pante Sreckovica"
+	},
+	{
+		"lokacija" : "Knez Mihailova"
+	},
+	{
+		"lokacija" : "Generala Mihajla Nedeljkovica"
+	},
+	{
+		"lokacija" : "Kapetan Misina"
+	},
+	{
+		"lokacija" : "Mirijevo"
+	},
+	{
+		"lokacija" : "Pavla Vasica"
+	},
+	{
+		"lokacija" : "Cara Jovana Crnog"
+	},
+	{
+		"lokacija" : "Volgina"
+	},
+	{
+		"lokacija" : "Skolski Trg"
+	},
+	{
+		"lokacija" : "Lovranska"
+	},
+	{
+		"lokacija" : "Kralja Milana"
+	},
+	{
+		"lokacija" : "Otona Zupancica"
+	},
+	{
+		"lokacija" : "Spanskih Boraca"
+	},
+	{
+		"lokacija" : "Blok 45"
+	},
+	{
+		"lokacija" : "Maticanska"
+	},
+	{
+		"lokacija" : "Blok 64"
+	},
+	{
+		"lokacija" : "Dragoslava Djordjevica Gose"
+	},
+	{
+		"lokacija" : "Staro Mirijevo"
+	},
+	{
+		"lokacija" : "Jurija Gagarina"
+	},
+	{
+		"lokacija" : "Medakovic 3"
+	},
+	{
+		"lokacija" : "Dusana Popovica"
+	},
+	{
+		"lokacija" : "Bulevar Crvene Armije"
+	},
+	{
+		"lokacija" : "Gandijeva"
+	},
+	{
+		"lokacija" : "Dr Ivana Ribara"
+	},
+	{
+		"lokacija" : "Hilandarska"
+	},
+	{
+		"lokacija" : "Bulevar Mihajla Pupina"
+	},
+	{
+		"lokacija" : "Bulevar Kralja Aleksandra"
+	},
+	{
+		"lokacija" : "Losinjska"
+	},
+	{
+		"lokacija" : "Molerova"
+	},
+	{
+		"lokacija" : "Branka Krsmanovica"
+	},
+	{
+		"lokacija" : "Grge Andrijanovica Ulica 6"
+	},
+	{
+		"lokacija" : "Svetogorska"
+	},
+	{
+		"lokacija" : "Hram Svetog Save"
+	},
+	{
+		"lokacija" : "Matice Srpske"
+	},
+	{
+		"lokacija" : "Pavla Mincica"
+	},
+	{
+		"lokacija" : "Terazije"
+	},
+	{
+		"lokacija" : "Krunska"
+	},
+	{
+		"lokacija" : "Blok Braca Maric"
+	},
+	{
+		"lokacija" : "Decanska"
+	},
+	{
+		"lokacija" : "Brace Nedic"
+	},
+	{
+		"lokacija" : "Resavska"
+	},
+	{
+		"lokacija" : "Njegoseva"
+	},
+	{
+		"lokacija" : "Kumanovska"
+	},
+	{
+		"lokacija" : "Makedonska"
+	},
+	{
+		"lokacija" : "Crveni Krst Vracar"
+	},
+	{
+		"lokacija" : "Sumatovacka"
+	},
+	{
+		"lokacija" : "Hadzi Melentijeva"
+	},
+	{
+		"lokacija" : "Cara Dusana"
+	},
+	{
+		"lokacija" : "Kneginje Zorke"
+	},
+	{
+		"lokacija" : "Granicarska"
+	},
+	{
+		"lokacija" : "Sime Igumanova"
+	},
+	{
+		"lokacija" : "Rankeova"
+	},
+	{
+		"lokacija" : "Internacionalnih Brigada"
+	},
+	{
+		"lokacija" : "Pozarevacka"
+	},
+	{
+		"lokacija" : "Vracar (Kalenic)"
+	},
+	{
+		"lokacija" : "Cara Nikolaja"
+	},
+	{
+		"lokacija" : "Stojana Protica"
+	},
+	{
+		"lokacija" : "Patrijarha Varnave"
+	},
+	{
+		"lokacija" : "Brane Crncevica"
+	},
+	{
+		"lokacija" : "Hadzi Djerina"
+	},
+	{
+		"lokacija" : "Trnska"
+	},
+	{
+		"lokacija" : "Kursulina"
+	},
+	{
+		"lokacija" : "Kralja Milutina"
+	},
+	{
+		"lokacija" : "Kalenic"
+	},
+	{
+		"lokacija" : "Cara Nikolaja Drugog"
+	},
+	{
+		"lokacija" : "Cara Nikolaja Ii"
+	},
+	{
+		"lokacija" : "Skreliceva"
+	},
+	{
+		"lokacija" : "Milesevska"
+	},
+	{
+		"lokacija" : "Vukice Mitrovic"
+	},
+	{
+		"lokacija" : "Nevesinjska"
+	},
+	{
+		"lokacija" : "Kicevska"
+	},
+	{
+		"lokacija" : "Patrijarha Gavrila"
+	},
+	{
+		"lokacija" : "Niska"
+	},
+	{
+		"lokacija" : "Mutapova"
+	},
+	{
+		"lokacija" : "Grahovska"
+	},
+	{
+		"lokacija" : "Bircaninova"
+	},
+	{
+		"lokacija" : "Prote Mateje"
+	},
+	{
+		"lokacija" : "Hadzi Prodanova"
+	},
+	{
+		"lokacija" : "Smiljaniceva"
+	},
+	{
+		"lokacija" : "Tomasa Jeza"
+	},
+	{
+		"lokacija" : "Makenzijeva"
+	},
+	{
+		"lokacija" : "Alekse Nenadovica"
+	},
+	{
+		"lokacija" : "Svetog Save"
+	},
+	{
+		"lokacija" : "Maksima Gorkog"
+	},
+	{
+		"lokacija" : "Svetozara Markovica"
+	},
+	{
+		"lokacija" : "Cuburska"
+	},
+	{
+		"lokacija" : "Novopazarska"
+	},
+	{
+		"lokacija" : "Vilovskog"
+	},
+	{
+		"lokacija" : "Deligradska"
+	},
+	{
+		"lokacija" : "Loznicka"
+	},
+	{
+		"lokacija" : " Milesevska"
+	},
+	{
+		"lokacija" : "Vukcie Mitrovic"
+	},
+	{
+		"lokacija" : "Topolska"
+	},
+	{
+		"lokacija" : "Svetozara Markovic"
+	},
+	{
+		"lokacija" : "Dubljanska"
+	},
+	{
+		"lokacija" : "Misarska"
+	},
+	{
+		"lokacija" : "Beogradska"
+	},
+	{
+		"lokacija" : "Desanke Maksimovic"
+	},
+	{
+		"lokacija" : "Cernisevskog"
+	},
+	{
+		"lokacija" : "Sindjeliceva"
+	},
+	{
+		"lokacija" : "Koce Kapetana"
+	},
+	{
+		"lokacija" : "Prote Mateje Nenadovica"
+	},
+	{
+		"lokacija" : "Hadzi-Djerina "
+	},
+	{
+		"lokacija" : "Bulevar Oslobodjenja"
+	},
+	{
+		"lokacija" : "Vojvode Supljikca"
+	},
+	{
+		"lokacija" : "Radivoja Koraca"
+	},
+	{
+		"lokacija" : "Gajeva"
+	},
+	{
+		"lokacija" : "Dravska"
+	},
+	{
+		"lokacija" : "Vojislava Ilica"
+	},
+	{
+		"lokacija" : "Brace Radovanovic"
+	},
+	{
+		"lokacija" : "Cerska"
+	},
+	{
+		"lokacija" : "Kajmakcalanska"
+	},
+	{
+		"lokacija" : "Nemanjina"
+	},
+	{
+		"lokacija" : "Djordja Vajferta"
+	},
+	{
+		"lokacija" : "Brace Radovanovica"
+	},
+	{
+		"lokacija" : "Garibaldijeva"
+	},
+	{
+		"lokacija" : "Gospodara Vucica"
+	},
+	{
+		"lokacija" : "Golubacka"
+	},
+	{
+		"lokacija" : "Kneza Milosa"
+	},
+	{
+		"lokacija" : "Grocanska"
+	},
+	{
+		"lokacija" : "Kataniceva"
+	},
+	{
+		"lokacija" : "Baba Visnjina"
+	},
+	{
+		"lokacija" : "Branicevska"
+	},
+	{
+		"lokacija" : "Hadzi Milentijeva"
+	},
+	{
+		"lokacija" : "Lamartinova"
+	},
+	{
+		"lokacija" : "Bokeljska"
+	},
+	{
+		"lokacija" : "Nebojsina"
+	},
+	{
+		"lokacija" : "Kralja Milutina "
+	},
+	{
+		"lokacija" : "Mihaila Gavrilovica"
+	},
+	{
+		"lokacija" : "Golsvordijeva"
+	},
+	{
+		"lokacija" : "Radoslava Grujica"
+	},
+	{
+		"lokacija" : "Starca Vujadina"
+	},
+	{
+		"lokacija" : "Kapije Vracara"
+	},
+	{
+		"lokacija" : "Hadzi-Djerina"
+	},
+	{
+		"lokacija" : "Baba Visnjina "
+	},
+	{
+		"lokacija" : "Metohijska"
+	},
+	{
+		"lokacija" : "Grcica Milenka"
+	},
+	{
+		"lokacija" : "Pop Stojanova"
+	},
+	{
+		"lokacija" : "Bregalnicka "
+	},
+	{
+		"lokacija" : "Sredacka"
+	},
+	{
+		"lokacija" : "Hadzi-Melentijeva"
+	},
+	{
+		"lokacija" : "Avalska"
+	},
+	{
+		"lokacija" : "Macvanska"
+	},
+	{
+		"lokacija" : "Krusedolska"
+	},
+	{
+		"lokacija" : "Sazonova"
+	},
+	{
+		"lokacija" : "Nikolaja Hartviga"
+	},
+	{
+		"lokacija" : "Svetozara Gligorica"
+	},
+	{
+		"lokacija" : "Veljka Milicevica"
+	},
+	{
+		"lokacija" : "Danicareva"
+	},
+	{
+		"lokacija" : "Generala Horvatovica"
+	},
+	{
+		"lokacija" : "Hram"
+	},
+	{
+		"lokacija" : "Ivana Djaje"
+	},
+	{
+		"lokacija" : "Cara Nikolaja "
+	},
+	{
+		"lokacija" : "Kaleniceva"
+	},
+	{
+		"lokacija" : "Trunska"
+	},
+	{
+		"lokacija" : "Nikole Stefanovica"
+	},
+	{
+		"lokacija" : "Tamasa Jeza"
+	},
+	{
+		"lokacija" : "Hadzimelentijeva"
+	},
+	{
+		"lokacija" : "Skerliceva"
+	},
+	{
+		"lokacija" : "Mlade Bosne"
+	},
+	{
+		"lokacija" : "Maruliceva"
+	},
+	{
+		"lokacija" : "Bjelanoviceva"
+	},
+	{
+		"lokacija" : "Mihajla Gavrilovica"
+	},
+	{
+		"lokacija" : "Vardarska"
+	},
+	{
+		"lokacija" : "Mazuraniceva"
+	},
+	{
+		"lokacija" : "Nikolaja Krasnova"
+	},
+	{
+		"lokacija" : "Gastona Gravijea"
+	},
+	{
+		"lokacija" : "Dorcol"
+	},
+	{
+		"lokacija" : "Dunavska"
+	},
+	{
+		"lokacija" : "Sibinjanin Janka"
+	},
+	{
+		"lokacija" : "Takovska"
+	},
+	{
+		"lokacija" : "Dositejeva"
+	},
+	{
+		"lokacija" : "Kneginje Ljubice"
+	},
+	{
+		"lokacija" : "Knez Miletina"
+	},
+	{
+		"lokacija" : "Visokog Stevana"
+	},
+	{
+		"lokacija" : "Carigradska"
+	},
+	{
+		"lokacija" : "Tadeusa Koscuska"
+	},
+	{
+		"lokacija" : "Dubrovacka"
+	},
+	{
+		"lokacija" : "Gospodar Jovanova"
+	},
+	{
+		"lokacija" : "Venizelosova"
+	},
+	{
+		"lokacija" : "Skadarska"
+	},
+	{
+		"lokacija" : "Beograd Centar"
+	},
+	{
+		"lokacija" : "Djure Danicica"
+	},
+	{
+		"lokacija" : "Dunavska K District"
+	},
+	{
+		"lokacija" : "Dzordza Vasingtona"
+	},
+	{
+		"lokacija" : "Mike Alasa"
+	},
+	{
+		"lokacija" : "Skender Begova"
+	},
+	{
+		"lokacija" : "Zorza Klemansoa"
+	},
+	{
+		"lokacija" : "Skenderbegova"
+	},
+	{
+		"lokacija" : "Vojvode Dobrnjca"
+	},
+	{
+		"lokacija" : "Cara Urosa"
+	},
+	{
+		"lokacija" : "Kralja Petra"
+	},
+	{
+		"lokacija" : "Cubrina "
+	},
+	{
+		"lokacija" : "Safarikova"
+	},
+	{
+		"lokacija" : "Nusiceva"
+	},
+	{
+		"lokacija" : "Jelene Cetkovic"
+	},
+	{
+		"lokacija" : "Bulevar Despota Stefana"
+	},
+	{
+		"lokacija" : "Vlajkoviceva"
+	},
+	{
+		"lokacija" : "Palmoticeva"
+	},
+	{
+		"lokacija" : "Zorza Klemensoa"
+	},
+	{
+		"lokacija" : "Majke Jevrosime"
+	},
+	{
+		"lokacija" : "Simina"
+	},
+	{
+		"lokacija" : "Dalmatinska"
+	},
+	{
+		"lokacija" : "Cetinjska"
+	},
+	{
+		"lokacija" : "Kosovska"
+	},
+	{
+		"lokacija" : "Cubrina"
+	},
+	{
+		"lokacija" : "Zmaj Jovina"
+	},
+	{
+		"lokacija" : "Kolarceva"
+	},
+	{
+		"lokacija" : "Dobracina"
+	},
+	{
+		"lokacija" : "Brankova"
+	},
+	{
+		"lokacija" : "Skupstina"
+	},
+	{
+		"lokacija" : "Trg Republike"
+	},
+	{
+		"lokacija" : "Knez Mihajlova"
+	},
+	{
+		"lokacija" : "Vase Carapica"
+	},
+	{
+		"lokacija" : "Brace Jugovica"
+	},
+	{
+		"lokacija" : "Marsala Birjuzova"
+	},
+	{
+		"lokacija" : "Kosancice Venac"
+	},
+	{
+		"lokacija" : "Balkanska"
+	},
+	{
+		"lokacija" : "Djure Jaksica"
+	},
+	{
+		"lokacija" : "Zmaja Od Nocaja"
+	},
+	{
+		"lokacija" : "Pjarona De Mondezira (Tadeusa Koscuska)"
+	},
+	{
+		"lokacija" : "Cika Ljubina"
+	},
+	{
+		"lokacija" : "Brace Jugovic"
+	},
+	{
+		"lokacija" : "Studentski Trg"
+	},
+	{
+		"lokacija" : "Centar (Politika)"
+	},
+	{
+		"lokacija" : "Stanoja Glavasa"
+	},
+	{
+		"lokacija" : "Cara Lazara"
+	},
+	{
+		"lokacija" : "27. Marta"
+	},
+	{
+		"lokacija" : "Kondina"
+	},
+	{
+		"lokacija" : "Stevana Sremca"
+	},
+	{
+		"lokacija" : "Gospodar Jevremova"
+	},
+	{
+		"lokacija" : "Pjarona De Mondezira"
+	},
+	{
+		"lokacija" : "Ivan-Begova"
+	},
+	{
+		"lokacija" : "Tadeusa Koscuskog"
+	},
+	{
+		"lokacija" : "Pijarona De Mondezira"
+	},
+	{
+		"lokacija" : "Francuska"
+	},
+	{
+		"lokacija" : "Cara Dusana "
+	},
+	{
+		"lokacija" : "Pariska"
+	},
+	{
+		"lokacija" : "Sremska"
+	},
+	{
+		"lokacija" : "Drinciceva"
+	},
+	{
+		"lokacija" : "Jevrejska"
+	},
+	{
+		"lokacija" : "Central Garden"
+	},
+	{
+		"lokacija" : "Zetska"
+	},
+	{
+		"lokacija" : "Visnjiceva"
+	},
+	{
+		"lokacija" : "Marsaka Birjuzova"
+	},
+	{
+		"lokacija" : "Kraljice Natalije"
+	},
+	{
+		"lokacija" : "Admirala Geprata"
+	},
+	{
+		"lokacija" : "Gavrila Principa"
+	},
+	{
+		"lokacija" : "Majke Jevrosima"
+	},
+	{
+		"lokacija" : "Kneza Mihaila"
+	},
+	{
+		"lokacija" : " Majke Jevrosime"
+	},
+	{
+		"lokacija" : "Dragoslava Jovanovica"
+	},
+	{
+		"lokacija" : "Centar (Knez Mihailova - Okolina)"
+	},
+	{
+		"lokacija" : "Carice Milice"
+	},
+	{
+		"lokacija" : "27 Marta"
+	},
+	{
+		"lokacija" : "Caarice Milice"
+	},
+	{
+		"lokacija" : "Pop Lukina"
+	},
+	{
+		"lokacija" : "Djusina"
+	},
+	{
+		"lokacija" : "Zadarska"
+	},
+	{
+		"lokacija" : "Fruskogorska"
+	},
+	{
+		"lokacija" : "Kneza Sime Markovica"
+	},
+	{
+		"lokacija" : "Rige Od Fere"
+	},
+	{
+		"lokacija" : "Djordja Jovanovica"
+	},
+	{
+		"lokacija" : "Stojana Novakovica"
+	},
+	{
+		"lokacija" : "Despota Stefana"
+	},
+	{
+		"lokacija" : "Vuka Karadzica"
+	},
+	{
+		"lokacija" : "Jelisavete Nacic"
+	},
+	{
+		"lokacija" : "Kneginje Ljubice "
+	},
+	{
+		"lokacija" : "Mihizova"
+	},
+	{
+		"lokacija" : "G. Jovanova"
+	},
+	{
+		"lokacija" : "Budimska"
+	},
+	{
+		"lokacija" : "Solunska"
+	},
+	{
+		"lokacija" : "Venizelsova"
+	},
+	{
+		"lokacija" : "Panciceva"
+	},
+	{
+		"lokacija" : "K District"
+	},
+	{
+		"lokacija" : "Gracanicka"
+	},
+	{
+		"lokacija" : "Centar (Trg Republike)"
+	},
+	{
+		"lokacija" : "Ivankovacka"
+	},
+	{
+		"lokacija" : "Brace Grim"
+	},
+	{
+		"lokacija" : "27 Mart"
+	},
+	{
+		"lokacija" : "Svetozara Miletica"
+	},
+	{
+		"lokacija" : "Tadeusa Koscuska "
+	},
+	{
+		"lokacija" : "Mike Alasa "
+	},
+	{
+		"lokacija" : "Santiceva"
+	},
+	{
+		"lokacija" : "Santieva"
+	},
+	{
+		"lokacija" : "Komnen Barjaktara"
+	},
+	{
+		"lokacija" : "G.Jevremova"
+	},
+	{
+		"lokacija" : "Mice Popovica"
+	},
+	{
+		"lokacija" : "Tadusa Koscuskog"
+	},
+	{
+		"lokacija" : "Sajkaska"
+	},
+	{
+		"lokacija" : "Brace Baruh"
+	},
+	{
+		"lokacija" : "Sezanova"
+	},
+	{
+		"lokacija" : "Starca Vujadina 17"
+	},
+	{
+		"lokacija" : "Vojvode Petka"
+	},
+	{
+		"lokacija" : "Save Tekelije"
+	},
+	{
+		"lokacija" : "Gruzanska"
+	},
+	{
+		"lokacija" : "Bregalnicka"
+	},
+	{
+		"lokacija" : "Todora Od Stalaca"
+	},
+	{
+		"lokacija" : "Jovana Rajica"
+	},
+	{
+		"lokacija" : "Milana Kasanina"
+	},
+	{
+		"lokacija" : "Karadjordjeva "
+	},
+	{
+		"lokacija" : "Radnicka"
+	},
+	{
+		"lokacija" : "Gospodar-Jevremova"
+	},
+	{
+		"lokacija" : "Kornelija Stankovica"
+	},
+	{
+		"lokacija" : "Blok 62"
+	},
+	{
+		"lokacija" : "Koste Josipovica 3"
+	},
+	{
+		"lokacija" : "Ljermontova"
+	},
+	{
+		"lokacija" : "Pravni Fakultet - Vracar"
+	},
+	{
+		"lokacija" : "Krunska X"
+	},
+	{
+		"lokacija" : "Vojvode Stepe"
+	},
+	{
+		"lokacija" : "Tetovska"
+	},
+	{
+		"lokacija" : "Vracar"
+	},
+	{
+		"lokacija" : "Konjuh Planina"
+	},
+	{
+		"lokacija" : "Dimitrija Marinkovica"
+	},
+	{
+		"lokacija" : "Brace Kovac"
+	},
+	{
+		"lokacija" : "Rada Neimara"
+	},
+	{
+		"lokacija" : "Pravni Fakultet"
+	},
+	{
+		"lokacija" : "Pakracka"
+	},
+	{
+		"lokacija" : "Slavka Curuvije"
+	},
+	{
+		"lokacija" : "Jovana Bijelica"
+	},
+	{
+		"lokacija" : "Rastka Petrovic"
+	},
+	{
+		"lokacija" : "Diane Budisavljevic"
+	},
+	{
+		"lokacija" : "Djuriceva"
+	},
+	{
+		"lokacija" : "Djakovacka"
+	},
+	{
+		"lokacija" : "Marka Oreskovica"
+	},
+	{
+		"lokacija" : "Djeram"
+	},
+	{
+		"lokacija" : "Dimitrija Tucovica"
+	},
+	{
+		"lokacija" : "Omladinska"
+	},
+	{
+		"lokacija" : "Jevrema Grujica"
+	},
+	{
+		"lokacija" : "Vojvode Bogdana"
+	},
+	{
+		"lokacija" : "Vojvode Savatija"
+	},
+	{
+		"lokacija" : "Djuke Dinic"
+	},
+	{
+		"lokacija" : "Mehmeda Sokolovica"
+	},
+	{
+		"lokacija" : "Zahumska"
+	},
+	{
+		"lokacija" : "Topovske Supe"
+	},
+	{
+		"lokacija" : "Cirila I Metodija"
+	},
+	{
+		"lokacija" : "Dobropoljska"
+	},
+	{
+		"lokacija" : "Bulbulder"
+	},
+	{
+		"lokacija" : "Svetog Nikole"
+	},
+	{
+		"lokacija" : "Cegarska"
+	},
+	{
+		"lokacija" : "Vojvode Brane"
+	},
+	{
+		"lokacija" : "Admirala Vukovica"
+	},
+	{
+		"lokacija" : "Vojvode Supljicka"
+	},
+	{
+		"lokacija" : "Drzizeva"
+	},
+	{
+		"lokacija" : "Celopecka"
+	},
+	{
+		"lokacija" : "Ruzveltova"
+	},
+	{
+		"lokacija" : "Drziceva"
+	},
+	{
+		"lokacija" : "Vladetina"
+	},
+	{
+		"lokacija" : "Jovana Cirilova"
+	},
+	{
+		"lokacija" : "Mitropolita Mraovica"
+	},
+	{
+		"lokacija" : "Stjepana Ljubise"
+	},
+	{
+		"lokacija" : "Lazareviceva"
+	},
+	{
+		"lokacija" : "Stjepana Ljubise "
+	},
+	{
+		"lokacija" : "Albanske Spomenice"
+	},
+	{
+		"lokacija" : "Banjska"
+	},
+	{
+		"lokacija" : "Koste Tausanovica"
+	},
+	{
+		"lokacija" : "Humska"
+	},
+	{
+		"lokacija" : "Trise Kaclerovic"
+	},
+	{
+		"lokacija" : "Ljutice Bogdana"
+	},
+	{
+		"lokacija" : "Milovana Marinkovica"
+	},
+	{
+		"lokacija" : "Veljka Dugosevica"
+	},
+	{
+		"lokacija" : "Kraljice Marije"
+	},
+	{
+		"lokacija" : "Stanka Vraza"
+	},
+	{
+		"lokacija" : "Koste Novakovic"
+	},
+	{
+		"lokacija" : "Milete Jaksica"
+	},
+	{
+		"lokacija" : "Silvija Kranjcevica"
+	},
+	{
+		"lokacija" : "Jove Ilica"
+	},
+	{
+		"lokacija" : "Ljubicka"
+	},
+	{
+		"lokacija" : "Rajka Mitica"
+	},
+	{
+		"lokacija" : "Kumodraska"
+	},
+	{
+		"lokacija" : "21. Divizije"
+	},
+	{
+		"lokacija" : "Mariborska"
+	},
+	{
+		"lokacija" : "21Divizije"
+	},
+	{
+		"lokacija" : "Ucitelja Milosa Jankovica"
+	},
+	{
+		"lokacija" : "Zvecanska"
+	},
+	{
+		"lokacija" : "Marka Miljanova"
+	},
+	{
+		"lokacija" : "Pukovnika Purica"
+	},
+	{
+		"lokacija" : "Milutina Uskokovica"
+	},
+	{
+		"lokacija" : "Vranjska"
+	},
+	{
+		"lokacija" : "Suboticka"
+	},
+	{
+		"lokacija" : "Milosa Zecevica"
+	},
+	{
+		"lokacija" : "Ulcinjska"
+	},
+	{
+		"lokacija" : "Hektoroviceva"
+	},
+	{
+		"lokacija" : "Radoja Domanovica"
+	},
+	{
+		"lokacija" : "Milana Rakica"
+	},
+	{
+		"lokacija" : "Nerodimska"
+	},
+	{
+		"lokacija" : "Presevska"
+	},
+	{
+		"lokacija" : "Zivojina Zujovica"
+	},
+	{
+		"lokacija" : "Bulevar Kralja Aleksandra "
+	},
+	{
+		"lokacija" : "Ljubljanska"
+	},
+	{
+		"lokacija" : "Dimitrija Katica"
+	},
+	{
+		"lokacija" : "Zvezdara (Gradska Bolnica)"
+	},
+	{
+		"lokacija" : "Cingrijina"
+	},
+	{
+		"lokacija" : "Milana Grola"
+	},
+	{
+		"lokacija" : "Djevdjelijska"
+	},
+	{
+		"lokacija" : "Trajka Stamenkovica"
+	},
+	{
+		"lokacija" : "Mite Rakica"
+	},
+	{
+		"lokacija" : "Gvozdiceva"
+	},
+	{
+		"lokacija" : "Ravanicka"
+	},
+	{
+		"lokacija" : "Koste Jovanovica"
+	},
+	{
+		"lokacija" : "Trise Keclerovica"
+	},
+	{
+		"lokacija" : "Dimitrija Tucovica "
+	},
+	{
+		"lokacija" : "Kraljice Katarine"
+	},
+	{
+		"lokacija" : "Bulevar Milutina Milankovica"
+	},
+	{
+		"lokacija" : "Mileva Maric Ajnstajn"
+	},
+	{
+		"lokacija" : "Luja Adamica"
+	},
+	{
+		"lokacija" : "Dr.Ivana Ribara"
+	},
+	{
+		"lokacija" : "Bogdana Bogdanovica"
+	},
+	{
+		"lokacija" : "Blok 11C - Stari Merkator"
+	},
+	{
+		"lokacija" : "Tresnjinog Cveta"
+	},
+	{
+		"lokacija" : "Mihajla Pupina"
+	},
+	{
+		"lokacija" : "Aleksinackih Rudara"
+	},
+	{
+		"lokacija" : "Blok 11A"
+	},
+	{
+		"lokacija" : "Samacka"
+	},
+	{
+		"lokacija" : "Zagorska"
+	},
+	{
+		"lokacija" : "Zaplanjska"
+	},
+	{
+		"lokacija" : "A Blok - Blok 67A"
+	},
+	{
+		"lokacija" : "Rade Koncar"
+	},
+	{
+		"lokacija" : "Ustanicka"
+	},
+	{
+		"lokacija" : "Meandri"
+	},
+	{
+		"lokacija" : "Urosa Martinovica"
+	},
+	{
+		"lokacija" : "Bulevar Nikole Tesle (Beogradski Put "
+	},
+	{
+		"lokacija" : "Sumadijska"
+	},
+	{
+		"lokacija" : "Todora Dukina"
+	},
+	{
+		"lokacija" : "Zadrugarska"
+	},
+	{
+		"lokacija" : "Gornji Grad"
+	},
+	{
+		"lokacija" : "Trscanska"
+	},
+	{
+		"lokacija" : "Zeleznicka"
+	},
+	{
+		"lokacija" : "Dr Petra Markovica"
+	},
+	{
+		"lokacija" : "Hercegovacka"
+	},
+	{
+		"lokacija" : "Karla Soprona"
+	},
+	{
+		"lokacija" : "Dobanovacka"
+	},
+	{
+		"lokacija" : "Vladimira Nikolica"
+	},
+	{
+		"lokacija" : "Branka Pesica"
+	},
+	{
+		"lokacija" : "Milana Uzelca"
+	},
+	{
+		"lokacija" : "Sava Kovacevic"
+	},
+	{
+		"lokacija" : "Silerova"
+	},
+	{
+		"lokacija" : "Ugrinovacka"
+	},
+	{
+		"lokacija" : "Slavonska"
+	},
+	{
+		"lokacija" : "Crnogorska"
+	},
+	{
+		"lokacija" : "Prizrenska"
+	},
+	{
+		"lokacija" : "Gornjogradska"
+	},
+	{
+		"lokacija" : "Kordunaska"
+	},
+	{
+		"lokacija" : "Strumicka"
+	},
+	{
+		"lokacija" : "Petrovaradinska"
+	},
+	{
+		"lokacija" : "Matavuljeva"
+	},
+	{
+		"lokacija" : "Rade Koncara"
+	},
+	{
+		"lokacija" : "Dragana Rakica"
+	},
+	{
+		"lokacija" : "A Blok"
+	},
+	{
+		"lokacija" : "Bulevar Arsenija Carnojevica"
+	},
+	{
+		"lokacija" : "Muhar"
+	},
+	{
+		"lokacija" : "Vojvode Prijezde"
+	},
+	{
+		"lokacija" : "Djordja Kratovca"
+	},
+	{
+		"lokacija" : "Veselina Maslese"
+	},
+	{
+		"lokacija" : "Miklosiceva"
+	},
+	{
+		"lokacija" : "Krusevacka"
+	},
+	{
+		"lokacija" : "Inzenjera Atanackovica"
+	},
+	{
+		"lokacija" : "Rada Koncara"
+	},
+	{
+		"lokacija" : "Jurija Gagarina "
+	},
+	{
+		"lokacija" : "Pecska"
+	},
+	{
+		"lokacija" : "Donji Grad"
+	},
+	{
+		"lokacija" : "Dvadestetdrugog Oktobra"
+	},
+	{
+		"lokacija" : "Bezanijska"
+	},
+	{
+		"lokacija" : "Dr Milosa Radojcica"
+	},
+	{
+		"lokacija" : "Petra Kocica"
+	},
+	{
+		"lokacija" : "Gunduliceva"
+	},
+	{
+		"lokacija" : "Madlenijanum"
+	},
+	{
+		"lokacija" : "Hotel Yu"
+	},
+	{
+		"lokacija" : "Filipa Visnjica"
+	},
+	{
+		"lokacija" : "Vladimira Gortana"
+	},
+	{
+		"lokacija" : "Dr.Petra Markovica"
+	},
+	{
+		"lokacija" : "Kej Oslobodjenja"
+	},
+	{
+		"lokacija" : "Glavna"
+	},
+	{
+		"lokacija" : "Zemun - Centar"
+	},
+	{
+		"lokacija" : "Nikolaja Ostrovskog"
+	},
+	{
+		"lokacija" : "Novogradska"
+	},
+	{
+		"lokacija" : "Petra Zrinjskog"
+	},
+	{
+		"lokacija" : "Karadjordjev Trg"
+	},
+	{
+		"lokacija" : "22. Oktobra"
+	},
+	{
+		"lokacija" : "Prve Pruge"
+	},
+	{
+		"lokacija" : "Vladimira Tomanovica"
+	},
+	{
+		"lokacija" : "Zivka Davidovica"
+	},
+	{
+		"lokacija" : "Vrtlarska"
+	},
+	{
+		"lokacija" : "Pavla Popovica"
+	},
+	{
+		"lokacija" : "22 Oktobra"
+	},
+	{
+		"lokacija" : "Prvomajska"
+	},
+	{
+		"lokacija" : "Backa"
+	},
+	{
+		"lokacija" : "Krizaniceva"
+	},
+	{
+		"lokacija" : "Keltska"
+	},
+	{
+		"lokacija" : "Vojvode Milenka"
+	},
+	{
+		"lokacija" : "Knreza Milosa"
+	},
+	{
+		"lokacija" : "Kneza Milosa Residence"
+	},
+	{
+		"lokacija" : "Merosinska"
+	},
+	{
+		"lokacija" : "Rudo"
+	},
+	{
+		"lokacija" : "Zapadno Seliste"
+	},
+	{
+		"lokacija" : "Milica Rakica"
+	},
+	{
+		"lokacija" : "Glasinacka"
+	},
+	{
+		"lokacija" : "Svetozara Corovica"
+	},
+	{
+		"lokacija" : "Mojkovacka"
+	},
+	{
+		"lokacija" : "Dr Dragoslava Popovica"
+	},
+	{
+		"lokacija" : "Milana Tankosica"
+	},
+	{
+		"lokacija" : "Kneza Viseslava"
+	},
+	{
+		"lokacija" : "Dragoslava Popovica"
+	},
+	{
+		"lokacija" : "Kneza Danila"
+	},
+	{
+		"lokacija" : "Primorska"
+	},
+	{
+		"lokacija" : "Zdravka Celara"
+	},
+	{
+		"lokacija" : "Nikodima Milasa"
+	},
+	{
+		"lokacija" : "Ljubomira Stojanovica"
+	},
+	{
+		"lokacija" : "Ljube Didica"
+	},
+	{
+		"lokacija" : "Knez Danila"
+	},
+	{
+		"lokacija" : "Kod Tc Zira"
+	},
+	{
+		"lokacija" : "Poenkareova"
+	},
+	{
+		"lokacija" : "Knez Danilova"
+	},
+	{
+		"lokacija" : "Jase Prodanovica"
+	},
+	{
+		"lokacija" : "Mirocka"
+	},
+	{
+		"lokacija" : "Smederevska"
+	},
+	{
+		"lokacija" : "Jovana Avakumovica"
+	},
+	{
+		"lokacija" : "Bistricka"
+	},
+	{
+		"lokacija" : "Cvijiceva "
+	},
+	{
+		"lokacija" : "Ilije Garasanina"
+	},
+	{
+		"lokacija" : "Draze Pavlovica"
+	},
+	{
+		"lokacija" : "Vatroslava Lisinskog"
+	},
+	{
+		"lokacija" : "Kopernikova"
+	},
+	{
+		"lokacija" : "Dragoslava Srejovica "
+	},
+	{
+		"lokacija" : "Dragoslava Srejovica"
+	},
+	{
+		"lokacija" : "Milice Jankovic"
+	},
+	{
+		"lokacija" : "Bata Lakina"
+	},
+	{
+		"lokacija" : "Srneticka"
+	},
+	{
+		"lokacija" : "Jelenka Mihajlovica"
+	},
+	{
+		"lokacija" : "Pere Cetkovica"
+	},
+	{
+		"lokacija" : "Vojvode Micka Krstica"
+	},
+	{
+		"lokacija" : "Dimitrija Popovica"
+	},
+	{
+		"lokacija" : "Marijane Gregoran"
+	},
+	{
+		"lokacija" : "Arcibalda Rajsa"
+	},
+	{
+		"lokacija" : "Marsala Tita"
+	},
+	{
+		"lokacija" : "Patrisa Lumumbe"
+	},
+	{
+		"lokacija" : "Pabla Nerude"
+	},
+	{
+		"lokacija" : "Dr Drage Ljocic"
+	},
+	{
+		"lokacija" : "Generala Aracica"
+	},
+	{
+		"lokacija" : "Cika Mise Djurica"
+	},
+	{
+		"lokacija" : "Ratka Mitrovica"
+	},
+	{
+		"lokacija" : "Stara Karaburma"
+	},
+	{
+		"lokacija" : "Danteova"
+	},
+	{
+		"lokacija" : "Dusana Vasiljeva"
+	},
+	{
+		"lokacija" : "Dr Djordja Joanovica"
+	},
+	{
+		"lokacija" : "Stevana Dukica"
+	},
+	{
+		"lokacija" : "Mirijevski Bulevar"
+	},
+	{
+		"lokacija" : "Stanoja Glavosa"
+	},
+	{
+		"lokacija" : "Karnegijeva"
+	},
+	{
+		"lokacija" : "Bogdana Tirnanca"
+	},
+	{
+		"lokacija" : "Palmira Toljatija"
+	},
+	{
+		"lokacija" : "Kadinjaca"
+	},
+	{
+		"lokacija" : "Bulevar Marsala Tolbuhina"
+	},
+	{
+		"lokacija" : "Partizanske Vode"
+	},
+	{
+		"lokacija" : "Dr Agostina Neta"
+	},
+	{
+		"lokacija" : "Savska"
+	},
+	{
+		"lokacija" : "Zagradje"
+	},
+	{
+		"lokacija" : "Kapetana Milosa Zunjica"
+	},
+	{
+		"lokacija" : "Dr Aleksandra Kostica"
+	},
+	{
+		"lokacija" : "Jovanke Radakovic"
+	},
+	{
+		"lokacija" : "Blok 21"
+	},
+	{
+		"lokacija" : "Niksicka"
+	},
+	{
+		"lokacija" : "Konstantina Filozofa"
+	},
+	{
+		"lokacija" : "Visegradska"
+	},
+	{
+		"lokacija" : "Kostolacka"
+	},
+	{
+		"lokacija" : "Milosa Pocerca"
+	},
+	{
+		"lokacija" : "Bilecka"
+	},
+	{
+		"lokacija" : "Ljubinke Bobic"
+	},
+	{
+		"lokacija" : "Bulevar Zorana Djindjica"
+	},
+	{
+		"lokacija" : "Stevana Jakovljevica"
+	},
+	{
+		"lokacija" : "Saobracajni Fakultet"
+	},
+	{
+		"lokacija" : "Vitanovacka"
+	},
+	{
+		"lokacija" : "Blok 1 - Fontana"
+	},
+	{
+		"lokacija" : "Bastovanska"
+	},
+	{
+		"lokacija" : "Jovanicka"
+	},
+	{
+		"lokacija" : "Miloja Pavlovica"
+	},
+	{
+		"lokacija" : "Pariske Komune"
+	},
+	{
+		"lokacija" : "Gostivarska"
+	},
+	{
+		"lokacija" : "Bulevar Vudroa Vilsona"
+	},
+	{
+		"lokacija" : "Narodnih Heroja"
+	},
+	{
+		"lokacija" : "Generala Ljubomira Milica"
+	},
+	{
+		"lokacija" : "Vista"
+	},
+	{
+		"lokacija" : "Magnolia"
+	},
+	{
+		"lokacija" : "Hercegovacka Kula A"
+	},
+	{
+		"lokacija" : "Sarmantan"
+	},
+	{
+		"lokacija" : "Belgrade Waterfront - Vista"
+	},
+	{
+		"lokacija" : "Hercegovacka / Residence"
+	},
+	{
+		"lokacija" : "Bw - Parkview"
+	},
+	{
+		"lokacija" : "Narodnih Herojs"
+	},
+	{
+		"lokacija" : "Hercegovacka Vista"
+	},
+	{
+		"lokacija" : "Kula Vista"
+	},
+	{
+		"lokacija" : "Parkview"
+	},
+	{
+		"lokacija" : "Bulevar Vudro Vilson"
+	},
+	{
+		"lokacija" : "Studentska"
+	},
+	{
+		"lokacija" : "Otona Zupancica X"
+	},
+	{
+		"lokacija" : "Svetozara Radica"
+	},
+	{
+		"lokacija" : "Belgrade Waterfront-Magnolia"
+	},
+	{
+		"lokacija" : "Arcadia"
+	},
+	{
+		"lokacija" : "Bulevar Jna"
+	},
+	{
+		"lokacija" : "Sumadijske Divizije"
+	},
+	{
+		"lokacija" : "Milisava Djurovica"
+	},
+	{
+		"lokacija" : "Generala Stefanika"
+	},
+	{
+		"lokacija" : "Generala Vladimira Kondica"
+	},
+	{
+		"lokacija" : "Durmitorska"
+	},
+	{
+		"lokacija" : "Pukovnika Petra Misica"
+	},
+	{
+		"lokacija" : "Boze Jankovic"
+	},
+	{
+		"lokacija" : "Vojvode Stepe X"
+	},
+	{
+		"lokacija" : "Pazinska"
+	},
+	{
+		"lokacija" : "Bul. Peka Dapcevica"
+	},
+	{
+		"lokacija" : "Jovana Popovica"
+	},
+	{
+		"lokacija" : "Vozdovacka Crkva"
+	},
+	{
+		"lokacija" : "Sanska"
+	},
+	{
+		"lokacija" : "Vojvode Stepe "
+	},
+	{
+		"lokacija" : "Hercegovacka "
+	},
+	{
+		"lokacija" : "Bulevar Vudroa Vilsona "
+	},
+	{
+		"lokacija" : "Porodice Trajkovic"
+	},
+	{
+		"lokacija" : "Uciteljice Leontine Kraus"
+	},
+	{
+		"lokacija" : "Paunova"
+	},
+	{
+		"lokacija" : "Stan Na Dan Banjica-Beograd"
+	},
+	{
+		"lokacija" : "Crnotravska"
+	},
+	{
+		"lokacija" : "Partizanske Avijacije"
+	},
+	{
+		"lokacija" : "Pedje Milosavljevica"
+	},
+	{
+		"lokacija" : "Pedje Milosavljevica "
+	},
+	{
+		"lokacija" : "Nede Spasojevic"
+	},
+	{
+		"lokacija" : "Plitvicka"
+	},
+	{
+		"lokacija" : "Hanibala Lucica"
+	},
+	{
+		"lokacija" : "Krupanjska"
+	},
+	{
+		"lokacija" : "Dedinje"
+	},
+	{
+		"lokacija" : "Bulevar Kneza Aleksandra Karadjordjevica"
+	},
+	{
+		"lokacija" : "Valterova"
+	},
+	{
+		"lokacija" : "Blok 33 - Geneks"
+	},
+	{
+		"lokacija" : "Bore Prodanovica"
+	},
+	{
+		"lokacija" : "Koste Novakovica"
+	},
+	{
+		"lokacija" : "Brace Nedica"
+	},
+	{
+		"lokacija" : "Mrakovicka "
+	},
+	{
+		"lokacija" : "Josifa Marinkovica"
+	},
+	{
+		"lokacija" : "Tadije Sondermajera"
+	},
+	{
+		"lokacija" : "Politika"
+	},
+	{
+		"lokacija" : "Bulevar Kneza Aleksandra"
+	},
+	{
+		"lokacija" : "Blok 65"
+	},
+	{
+		"lokacija" : "Wellport-Tadije Sondermajera"
+	},
+	{
+		"lokacija" : "Tadije Sodermajera"
+	},
+	{
+		"lokacija" : "Delta City"
+	},
+	{
+		"lokacija" : "Omladinskih Brigada"
+	},
+	{
+		"lokacija" : "Blok 12 - Yubc"
+	},
+	{
+		"lokacija" : "Diplomatska Kolonija"
+	},
+	{
+		"lokacija" : "Generala Rasica"
+	},
+	{
+		"lokacija" : "Velisava Vulovica"
+	},
+	{
+		"lokacija" : "Heroja Milana Tepica"
+	},
+	{
+		"lokacija" : "Pink"
+	},
+	{
+		"lokacija" : "Bulevar Umetnosti"
+	},
+	{
+		"lokacija" : "Puskinova"
+	},
+	{
+		"lokacija" : "Colak Antina"
+	},
+	{
+		"lokacija" : "Zavise Crnog"
+	},
+	{
+		"lokacija" : "Neznanog Junaka"
+	},
+	{
+		"lokacija" : "Flore Sends"
+	},
+	{
+		"lokacija" : "Perside Milenkovic"
+	},
+	{
+		"lokacija" : "Antifasisticke Borbe"
+	},
+	{
+		"lokacija" : "Banjickih Zrtava"
+	},
+	{
+		"lokacija" : "Milovana Glisic"
+	},
+	{
+		"lokacija" : "Milovana Glisica"
+	},
+	{
+		"lokacija" : "Bul. Zorana Djindjica"
+	},
+	{
+		"lokacija" : "Arena"
+	},
+	{
+		"lokacija" : "Bulevar Arsenija Carnojievica"
+	},
+	{
+		"lokacija" : "Sanje Zivanovica"
+	},
+	{
+		"lokacija" : "Blok 29"
+	},
+	{
+		"lokacija" : "Kacanskog"
+	},
+	{
+		"lokacija" : "Veljka Lukica Kurjaka"
+	},
+	{
+		"lokacija" : "Isb Senjak"
+	},
+	{
+		"lokacija" : "Milutina Milankovica"
+	},
+	{
+		"lokacija" : "Blok 25 - Arena"
+	},
+	{
+		"lokacija" : "Blok 22"
+	},
+	{
+		"lokacija" : "(Super Vero)-Spanskih Boraca"
+	},
+	{
+		"lokacija" : "Antifaisticke Borbe"
+	},
+	{
+		"lokacija" : "Veljka Lukica-Kurjaka"
+	},
+	{
+		"lokacija" : "Teodora Drajzera"
+	},
+	{
+		"lokacija" : "Mihaila Avramovica"
+	},
+	{
+		"lokacija" : "Arena-Spanskih Boraca"
+	},
+	{
+		"lokacija" : "Blok 28"
+	},
+	{
+		"lokacija" : "Miloja Djaka"
+	},
+	{
+		"lokacija" : "Milentija Popovica"
+	},
+	{
+		"lokacija" : "Blok 19 Sava Centar"
+	},
+	{
+		"lokacija" : "Boska Petrovica"
+	},
+	{
+		"lokacija" : "Blok 23"
+	},
+	{
+		"lokacija" : "Bulevar Vojvode Putnika"
+	},
+	{
+		"lokacija" : "Blok 24"
+	},
+	{
+		"lokacija" : "(Super Vero)-Arena"
+	},
+	{
+		"lokacija" : "Spanskih Boraca (Vero)"
+	},
+	{
+		"lokacija" : "Proleterskih Solidarnosti"
+	},
+	{
+		"lokacija" : "Buleavar Arsenija Carnojevica"
+	},
+	{
+		"lokacija" : "Stipska"
+	},
+	{
+		"lokacija" : "Kozjacka"
+	},
+	{
+		"lokacija" : "Augusta Cesarca"
+	},
+	{
+		"lokacija" : "Zmaj Ognjena Vuka"
+	},
+	{
+		"lokacija" : "Senjacka"
+	},
+	{
+		"lokacija" : "Petra Mrkonjica"
+	},
+	{
+		"lokacija" : "Kablarska"
+	},
+	{
+		"lokacija" : "Ruska"
+	},
+	{
+		"lokacija" : "Vladete Kovacevica"
+	},
+	{
+		"lokacija" : "Vojislava Vuckovica"
+	},
+	{
+		"lokacija" : "Univerzitetcko Naselje"
+	},
+	{
+		"lokacija" : "Blok 31 - Opstina"
+	},
+	{
+		"lokacija" : "Vase Pelagica"
+	},
+	{
+		"lokacija" : "Sitnicka"
+	},
+	{
+		"lokacija" : "Domentijanova"
+	},
+	{
+		"lokacija" : "Brzakova "
+	},
+	{
+		"lokacija" : "Milovana Milovanovica "
+	},
+	{
+		"lokacija" : "Andre Nikolica"
+	},
+	{
+		"lokacija" : "Francuska Skola"
+	},
+	{
+		"lokacija" : "Oblakovska"
+	},
+	{
+		"lokacija" : "Dr Milutina Ivkovica"
+	},
+	{
+		"lokacija" : "Bulevar Mihaila Pupina"
+	},
+	{
+		"lokacija" : "Stjepana Filipovica"
+	},
+	{
+		"lokacija" : "Pajsijeva"
+	},
+	{
+		"lokacija" : "Risanska"
+	},
+	{
+		"lokacija" : "Kronstatska"
+	},
+	{
+		"lokacija" : "Savamala"
+	},
+	{
+		"lokacija" : "Lomina"
+	},
+	{
+		"lokacija" : "Kraljevica Marka"
+	},
+	{
+		"lokacija" : "Kraljice Natalije "
+	},
+	{
+		"lokacija" : "Dobrinjska"
+	},
+	{
+		"lokacija" : "Brankovazeleni Venac"
+	},
+	{
+		"lokacija" : "Ibs Senjak"
+	},
+	{
+		"lokacija" : "Zanke Stokic"
+	},
+	{
+		"lokacija" : "Drvarska"
+	},
+	{
+		"lokacija" : "Svetog Nauma"
+	},
+	{
+		"lokacija" : "Centar"
+	},
+	{
+		"lokacija" : "Bogoljuba Cukica"
+	},
+	{
+		"lokacija" : "Vajara Djoke Jovanovica"
+	},
+	{
+		"lokacija" : "Zarka Vukovica Pucara"
+	},
+	{
+		"lokacija" : "Centar (London)"
+	},
+	{
+		"lokacija" : "Nedeljka Cabrinovica"
+	},
+	{
+		"lokacija" : "Dr Vojislava Stojanovica"
+	},
+	{
+		"lokacija" : "Pozeska"
+	},
+	{
+		"lokacija" : "Ratka Sarica"
+	},
+	{
+		"lokacija" : "Dedinjska"
+	},
+	{
+		"lokacija" : "Visnjicki Venac"
+	},
+	{
+		"lokacija" : "Slobodana Jovanovica"
+	},
+	{
+		"lokacija" : "Sunnyville - Mirka Milojkovica"
+	},
+	{
+		"lokacija" : "Sarajevska X"
+	},
+	{
+		"lokacija" : "Kanadska"
+	},
+	{
+		"lokacija" : "Dragana Lukica"
+	},
+	{
+		"lokacija" : "Sestara Jankovic"
+	},
+	{
+		"lokacija" : "Vespucijeva"
+	},
+	{
+		"lokacija" : "Square 43"
+	},
+	{
+		"lokacija" : "Baje Pivljanina"
+	},
+	{
+		"lokacija" : "Bacvarska"
+	},
+	{
+		"lokacija" : "Zivorada Djukica"
+	},
+	{
+		"lokacija" : "Studentski Grad"
+	},
+	{
+		"lokacija" : "Blok 19A"
+	},
+	{
+		"lokacija" : "Labska"
+	},
+	{
+		"lokacija" : "Blok 34"
+	},
+	{
+		"lokacija" : "Vladimira Popovica"
+	},
+	{
+		"lokacija" : "M. Popovica"
+	},
+	{
+		"lokacija" : "Fontana-Pariske Komune"
+	},
+	{
+		"lokacija" : "Hajduk-Veljkov Venac"
+	},
+	{
+		"lokacija" : "Hadzi Melentijeva "
+	},
+	{
+		"lokacija" : "Durmitorska "
+	},
+	{
+		"lokacija" : "Ksantija"
+	},
+	{
+		"lokacija" : "Tuluz Loteka "
+	},
+	{
+		"lokacija" : "Tuluz Lotreka "
+	},
+	{
+		"lokacija" : "Rabina Alkalaja"
+	},
+	{
+		"lokacija" : "Pivljanina Baja"
+	},
+	{
+		"lokacija" : "Brace Todorovic"
+	},
+	{
+		"lokacija" : "Kisela Voda"
+	},
+	{
+		"lokacija" : "Dr Velizara Kosanovica"
+	},
+	{
+		"lokacija" : "Kozarceva"
+	},
+	{
+		"lokacija" : "Belokranjska"
+	},
+	{
+		"lokacija" : "Gusinjska"
+	},
+	{
+		"lokacija" : "Mis Irbijeve"
+	},
+	{
+		"lokacija" : "Raljska"
+	},
+	{
+		"lokacija" : "Kaciceva"
+	},
+	{
+		"lokacija" : "Luneta Milovanovica"
+	},
+	{
+		"lokacija" : "Podujevska"
+	},
+	{
+		"lokacija" : "Velizara Kosanovica"
+	},
+	{
+		"lokacija" : "Vojvode Bojovica"
+	},
+	{
+		"lokacija" : "Zidarska"
+	},
+	{
+		"lokacija" : "10 Avijaticara"
+	},
+	{
+		"lokacija" : "Slobodana Lale Berberskog"
+	},
+	{
+		"lokacija" : "Danice Markovic"
+	},
+	{
+		"lokacija" : "Majke Kujundzic"
+	},
+	{
+		"lokacija" : "Ustanicka "
+	},
+	{
+		"lokacija" : "Mihaila Todorovica "
+	},
+	{
+		"lokacija" : "Ljube Davidovica"
+	},
+	{
+		"lokacija" : "Teodosijeva "
+	},
+	{
+		"lokacija" : "Slobodanke Danke Savic"
+	},
+	{
+		"lokacija" : "Lipovacka"
+	},
+	{
+		"lokacija" : "Hajduk Stankova"
+	},
+	{
+		"lokacija" : "Olge Jovanovic"
+	},
+	{
+		"lokacija" : "Bircaninova "
+	},
+	{
+		"lokacija" : "Vojislava Stojanovica"
+	},
+	{
+		"lokacija" : "Vladimira Gacinovica"
+	},
+	{
+		"lokacija" : "Resevska"
+	},
+	{
+		"lokacija" : "Aleksandra Kostica"
+	},
+	{
+		"lokacija" : "Blok 38"
+	},
+	{
+		"lokacija" : "Kosolacka"
+	},
+	{
+		"lokacija" : "Fon - Vozdovac"
+	},
+	{
+		"lokacija" : "Bose Milicevica"
+	},
+	{
+		"lokacija" : "Milenka Vesnica"
+	},
+	{
+		"lokacija" : "Susedgradska"
+	},
+	{
+		"lokacija" : "Uzicka"
+	},
+	{
+		"lokacija" : "Kragujevackih Djaka"
+	},
+	{
+		"lokacija" : "Miodraga Ibrovca"
+	},
+	{
+		"lokacija" : "Kosotolacka"
+	},
+	{
+		"lokacija" : "Svetozara Radojcica  X"
+	},
+	{
+		"lokacija" : "Kod Francuske Skole"
+	},
+	{
+		"lokacija" : "Brace Srnic"
+	},
+	{
+		"lokacija" : "Borislava Blagojevica"
+	},
+	{
+		"lokacija" : "Prvoboraca"
+	},
+	{
+		"lokacija" : "Pilota Mihaila Petrovica"
+	},
+	{
+		"lokacija" : "Svetozara Radojcica"
+	},
+	{
+		"lokacija" : "Vladimira Rolovica"
+	},
+	{
+		"lokacija" : "Dusana Vlajica"
+	},
+	{
+		"lokacija" : "Radovana Milosevica"
+	},
+	{
+		"lokacija" : "Vencacka"
+	},
+	{
+		"lokacija" : "Zmajevacka"
+	},
+	{
+		"lokacija" : "Brace Vuckovic"
+	},
+	{
+		"lokacija" : "Leposave Vujosevic"
+	},
+	{
+		"lokacija" : "Momcila Cedica"
+	},
+	{
+		"lokacija" : "Bogdana Velasevica"
+	},
+	{
+		"lokacija" : "Omladinskih Brigada West"
+	},
+	{
+		"lokacija" : "West 65-Tadije Sondermajera"
+	},
+	{
+		"lokacija" : "Jovana Marinovica"
+	},
+	{
+		"lokacija" : "Maglajska"
+	},
+	{
+		"lokacija" : "Milana Blagojevica Spanca"
+	},
+	{
+		"lokacija" : "West 65"
+	},
+	{
+		"lokacija" : "(Belvil)-Djordja Stanojevica"
+	},
+	{
+		"lokacija" : "Cipikova"
+	},
+	{
+		"lokacija" : "Zemun"
+	},
+	{
+		"lokacija" : "Brace Miladinov"
+	},
+	{
+		"lokacija" : "Miodraga Petrovica Ckalje"
+	},
+	{
+		"lokacija" : "Danijelova"
+	},
+	{
+		"lokacija" : "Banjalucka"
+	},
+	{
+		"lokacija" : "Gorana Kovacica"
+	},
+	{
+		"lokacija" : "Dusana Dude Timotijevica"
+	},
+	{
+		"lokacija" : "Milice Rakic"
+	},
+	{
+		"lokacija" : "Ranka Tajsica"
+	},
+	{
+		"lokacija" : "Lazara Savatica"
+	},
+	{
+		"lokacija" : "Vojislava Nanovica"
+	},
+	{
+		"lokacija" : "Bacvanska"
+	},
+	{
+		"lokacija" : "Borca"
+	},
+	{
+		"lokacija" : "Vuka Mandusica"
+	},
+	{
+		"lokacija" : "Zrenjaninski Put 122"
+	},
+	{
+		"lokacija" : "Bratstva I Jedinstva"
+	},
+	{
+		"lokacija" : "Ratnih Vojnih Invalida"
+	},
+	{
+		"lokacija" : "Losinska"
+	},
+	{
+		"lokacija" : "Bojanska"
+	},
+	{
+		"lokacija" : "Blok 67 - Belville"
+	},
+	{
+		"lokacija" : "Mileve Maric Ajnstajn"
+	},
+	{
+		"lokacija" : "Dragice Koncar"
+	},
+	{
+		"lokacija" : "Raska"
+	},
+	{
+		"lokacija" : "Tirsova"
+	},
+	{
+		"lokacija" : "Vojvode Toze"
+	},
+	{
+		"lokacija" : "Blok 9A"
+	},
+	{
+		"lokacija" : "Vrbnicka"
+	},
+	{
+		"lokacija" : "Rakovica - Centar"
+	},
+	{
+		"lokacija" : "Tose Jovanovica"
+	},
+	{
+		"lokacija" : "Blok 9"
+	},
+	{
+		"lokacija" : "Blagoja Parovica"
+	},
+	{
+		"lokacija" : "Blok 63"
+	},
+	{
+		"lokacija" : "Savski Blokovi"
+	},
+	{
+		"lokacija" : "Blok 44 Tc Piramida"
+	},
+	{
+		"lokacija" : "Borska"
+	},
+	{
+		"lokacija" : "Trepcanska"
+	},
+	{
+		"lokacija" : "Dusana Vukasovica"
+	},
+	{
+		"lokacija" : "Jug Bogdanova"
+	},
+	{
+		"lokacija" : "Milovana Milovanovica"
+	},
+	{
+		"lokacija" : "Nehruova"
+	},
+	{
+		"lokacija" : "Aleksandra Glisica"
+	},
+	{
+		"lokacija" : "Beogradjanka"
+	},
+	{
+		"lokacija" : "Trebinjska"
+	},
+	{
+		"lokacija" : "Ivana Ribara"
+	},
+	{
+		"lokacija" : "Vojvodjanska"
+	},
+	{
+		"lokacija" : "Blok 61"
+	},
+	{
+		"lokacija" : "Slavka Rodica"
+	},
+	{
+		"lokacija" : "Mladena Mitrica"
+	},
+	{
+		"lokacija" : "Luke Vojvodica"
+	},
+	{
+		"lokacija" : "Miljakovac"
+	},
+	{
+		"lokacija" : "Vukasoviceva"
+	},
+	{
+		"lokacija" : "Ilije Calica"
+	},
+	{
+		"lokacija" : "Bulevar Oslobodjenja "
+	},
+	{
+		"lokacija" : "Posavskih Partizana"
+	},
+	{
+		"lokacija" : "Bose Milicevic"
+	},
+	{
+		"lokacija" : "Teodora Mirijevskog"
+	},
+	{
+		"lokacija" : "Miroslava Krleze"
+	},
+	{
+		"lokacija" : "Blok 70"
+	},
+	{
+		"lokacija" : "Grge Andrijanovic"
+	},
+	{
+		"lokacija" : "Mirka Banjevica"
+	},
+	{
+		"lokacija" : "Nikole Doksata"
+	},
+	{
+		"lokacija" : "Partizanski Blok 1"
+	},
+	{
+		"lokacija" : "Prva Sutjeska"
+	},
+	{
+		"lokacija" : "Oplenacka"
+	},
+	{
+		"lokacija" : "Porucnika Spasica I Masare "
+	},
+	{
+		"lokacija" : "Ranka Miljica"
+	},
+	{
+		"lokacija" : "Sretena Mladenovica Mike"
+	},
+	{
+		"lokacija" : "Gocka"
+	},
+	{
+		"lokacija" : "Porucnika Spasica I Masare"
+	},
+	{
+		"lokacija" : "Karposeva"
+	},
+	{
+		"lokacija" : "Karadjordjev Park"
+	},
+	{
+		"lokacija" : "Pcinjska"
+	},
+	{
+		"lokacija" : "Pasmanska"
+	},
+	{
+		"lokacija" : "Brace Korac"
+	},
+	{
+		"lokacija" : "Kolasinska"
+	},
+	{
+		"lokacija" : "Vojacka"
+	},
+	{
+		"lokacija" : "Kralja Vladislava"
+	},
+	{
+		"lokacija" : "Debarska"
+	},
+	{
+		"lokacija" : "Zmajeva Kolonija"
+	},
+	{
+		"lokacija" : "Blok 30"
+	},
+	{
+		"lokacija" : "Dobanovacki Put"
+	},
+	{
+		"lokacija" : "Novi Grad"
+	},
+	{
+		"lokacija" : "Stojana Decermica"
+	},
+	{
+		"lokacija" : "Ugrinovacki Put 22. Deo"
+	},
+	{
+		"lokacija" : "Kneza Danila Central Gaarden"
+	},
+	{
+		"lokacija" : "Ratarski Put"
+	},
+	{
+		"lokacija" : "Emilije Jaksic "
+	},
+	{
+		"lokacija" : "Dalmatinska Central Garden"
+	},
+	{
+		"lokacija" : "Kranjska"
+	},
+	{
+		"lokacija" : "Borhesova"
+	},
+	{
+		"lokacija" : "Stevana Djurdjevica Trosarinca"
+	},
+	{
+		"lokacija" : "Mira Popare"
+	},
+	{
+		"lokacija" : "Vodovodska "
+	},
+	{
+		"lokacija" : "Beogradskog Bataljona"
+	},
+	{
+		"lokacija" : "Udbinska"
+	},
+	{
+		"lokacija" : "Jana Kolara"
+	},
+	{
+		"lokacija" : "Rupcine"
+	},
+	{
+		"lokacija" : "Steve Zigona "
+	},
+	{
+		"lokacija" : "Knjeginje Zorke"
+	},
+	{
+		"lokacija" : "Ljubise Miodragovica"
+	},
+	{
+		"lokacija" : "Milana Stanivukovica"
+	},
+	{
+		"lokacija" : "Nodilova"
+	},
+	{
+		"lokacija" : "Podavalska"
+	},
+	{
+		"lokacija" : "Rableova"
+	},
+	{
+		"lokacija" : "Desanke Maksimovic-Krunska"
+	},
+	{
+		"lokacija" : "Krunski Venac"
+	},
+	{
+		"lokacija" : "Ljeska"
+	},
+	{
+		"lokacija" : "Izvorska"
+	},
+	{
+		"lokacija" : "Zrmanjska"
+	},
+	{
+		"lokacija" : "Ivice Devcica"
+	},
+	{
+		"lokacija" : "Ljudevita Posavskog"
+	},
+	{
+		"lokacija" : "Pirotska"
+	},
+	{
+		"lokacija" : "Trise Kaclerovica"
+	},
+	{
+		"lokacija" : "Geteova"
+	},
+	{
+		"lokacija" : "Zemunski Kej"
+	},
+	{
+		"lokacija" : "Velisava  Vulovica"
+	},
+	{
+		"lokacija" : "Osjecka"
+	},
+	{
+		"lokacija" : "Aleksandra Stambolijskog"
+	},
+	{
+		"lokacija" : "Beli Dvor"
+	},
+	{
+		"lokacija" : "Malog Radojice"
+	},
+	{
+		"lokacija" : "Prilaz"
+	},
+	{
+		"lokacija" : "Gardoska"
+	},
+	{
+		"lokacija" : "Milke Lukic"
+	},
+	{
+		"lokacija" : "Cukovac"
+	},
+	{
+		"lokacija" : "Nikolaja Saltikova"
+	},
+	{
+		"lokacija" : "Mestroviceva"
+	},
+	{
+		"lokacija" : "Brace Jerkovic 2"
+	},
+	{
+		"lokacija" : "Zaplanjska 84"
+	},
+	{
+		"lokacija" : "Piva Karamatijevica"
+	},
+	{
+		"lokacija" : "Zemunska"
+	},
+	{
+		"lokacija" : "Kumodraz"
+	},
+	{
+		"lokacija" : "Vojvode Misica"
+	},
+	{
+		"lokacija" : "Murmanska"
+	},
+	{
+		"lokacija" : "17. Oktobra"
+	},
+	{
+		"lokacija" : "Srzenticeva "
+	},
+	{
+		"lokacija" : "Tikveska"
+	},
+	{
+		"lokacija" : "Bulevar Peke Dapcevica"
+	},
+	{
+		"lokacija" : "Nikole Marakovica"
+	},
+	{
+		"lokacija" : "Vjekoslava Kovaca"
+	},
+	{
+		"lokacija" : "Deskaseva"
+	},
+	{
+		"lokacija" : "Bezanijska Kosa"
+	},
+	{
+		"lokacija" : "Ismeta Mujezinovica"
+	},
+	{
+		"lokacija" : "Marka Celebonovica"
+	},
+	{
+		"lokacija" : "Sestara Vukovic"
+	},
+	{
+		"lokacija" : "Stojana Aralice"
+	},
+	{
+		"lokacija" : "Joze Scurle"
+	},
+	{
+		"lokacija" : "Marka Pola"
+	},
+	{
+		"lokacija" : "Pere Segedinca"
+	},
+	{
+		"lokacija" : "Bezanijskih Ilegalaca"
+	},
+	{
+		"lokacija" : "Nedeljka Gvozdenovic"
+	},
+	{
+		"lokacija" : "Bul.Kralja Aleksandra"
+	},
+	{
+		"lokacija" : "Koste Abrasevica"
+	},
+	{
+		"lokacija" : "Kulina Bana"
+	},
+	{
+		"lokacija" : "Bulevar Oslobodenja"
+	},
+	{
+		"lokacija" : "Misirbijeve"
+	},
+	{
+		"lokacija" : "Vozdove Kapije"
+	},
+	{
+		"lokacija" : "Otokara Kersovanija"
+	},
+	{
+		"lokacija" : "Ljube Cupe"
+	},
+	{
+		"lokacija" : "Miljana Miljanica"
+	},
+	{
+		"lokacija" : "Ljuba Vuckovica"
+	},
+	{
+		"lokacija" : "Vojvode Stepe 242"
+	},
+	{
+		"lokacija" : "Pukovnika Pejovica"
+	},
+	{
+		"lokacija" : "Polita Desancica"
+	},
+	{
+		"lokacija" : "Ljube Vuckovica"
+	},
+	{
+		"lokacija" : "Sergija Nikolica"
+	},
+	{
+		"lokacija" : "Miodraga Ibrovca   X"
+	},
+	{
+		"lokacija" : "Kapetana Zavisica"
+	},
+	{
+		"lokacija" : "Peke Dapcevica"
+	},
+	{
+		"lokacija" : "Djure Madjercica"
+	},
+	{
+		"lokacija" : "Hrizantema"
+	},
+	{
+		"lokacija" : "Jovana Ristica"
+	},
+	{
+		"lokacija" : "Mostarska Petlja"
+	},
+	{
+		"lokacija" : "Bulear Mihaijla Pupina"
+	},
+	{
+		"lokacija" : "Kraljevacka"
+	},
+	{
+		"lokacija" : "Dusana Jovanovica"
+	},
+	{
+		"lokacija" : "Pupinova"
+	},
+	{
+		"lokacija" : "Gradiste"
+	},
+	{
+		"lokacija" : "Mirijevski Venac"
+	},
+	{
+		"lokacija" : "Franca Jankea"
+	},
+	{
+		"lokacija" : "Vjekoslava Africa"
+	},
+	{
+		"lokacija" : "Steve Zigona"
+	},
+	{
+		"lokacija" : "Aleksandra Belica"
+	},
+	{
+		"lokacija" : "21. Blok"
+	},
+	{
+		"lokacija" : "Maticanska A"
+	},
+	{
+		"lokacija" : "Bul Zorana Djindjica"
+	},
+	{
+		"lokacija" : "Dobanovacki Put "
+	},
+	{
+		"lokacija" : "Senjska"
+	},
+	{
+		"lokacija" : "Mile Dimic"
+	},
+	{
+		"lokacija" : "Blok 70A"
+	},
+	{
+		"lokacija" : "Agostina Neta"
+	},
+	{
+		"lokacija" : "Limska"
+	},
+	{
+		"lokacija" : "Boze Jankovica"
+	},
+	{
+		"lokacija" : "Borisavljeviceva"
+	},
+	{
+		"lokacija" : "Sime Lozanica "
+	},
+	{
+		"lokacija" : "Blok 72"
+	},
+	{
+		"lokacija" : "Miliceva"
+	},
+	{
+		"lokacija" : "Vitezova Karadjordjeve Zvezde"
+	},
+	{
+		"lokacija" : "Radmile Savicevic"
+	},
+	{
+		"lokacija" : "Davorina Jenka"
+	},
+	{
+		"lokacija" : "Rastka Petrovica"
+	},
+	{
+		"lokacija" : "Medakoviceva"
+	},
+	{
+		"lokacija" : "Valjevska"
+	},
+	{
+		"lokacija" : "Medakovic 2"
+	},
+	{
+		"lokacija" : "Radovana Simica Cige"
+	},
+	{
+		"lokacija" : "Radovana Simica-Cige"
+	},
+	{
+		"lokacija" : "Praska"
+	},
+	{
+		"lokacija" : "Jovana Deretica"
+	},
+	{
+		"lokacija" : "Pastroviceva"
+	},
+	{
+		"lokacija" : "Blok 37"
+	},
+	{
+		"lokacija" : "Sandzacka"
+	},
+	{
+		"lokacija" : "Jablanicka "
+	},
+	{
+		"lokacija" : "Dzona Kenedija"
+	},
+	{
+		"lokacija" : "Klare Cetkin X"
+	},
+	{
+		"lokacija" : "Gramsijeva"
+	},
+	{
+		"lokacija" : "Bulevar Nikole Tesle"
+	},
+	{
+		"lokacija" : "Klare Cetkin"
+	},
+	{
+		"lokacija" : "Jube Vuckovica "
+	},
+	{
+		"lokacija" : "Blok 11"
+	},
+	{
+		"lokacija" : "Vinogradski Venac"
+	},
+	{
+		"lokacija" : "Rudi Cajeveca"
+	},
+	{
+		"lokacija" : "Zicka"
+	},
+	{
+		"lokacija" : "Danila Kisa-Vojislava  Ilica"
+	},
+	{
+		"lokacija" : "Tome Maksimovica"
+	},
+	{
+		"lokacija" : "Ilije Stojadinovica"
+	},
+	{
+		"lokacija" : "Medakovic Padina "
+	},
+	{
+		"lokacija" : "Vidovdanska"
+	},
+	{
+		"lokacija" : "Marsala Tolbuhina"
+	},
+	{
+		"lokacija" : "Vojina Djurasinovica"
+	},
+	{
+		"lokacija" : "Pere Veljkovica"
+	},
+	{
+		"lokacija" : "Aleksandra Dubceka"
+	},
+	{
+		"lokacija" : "(A Blok)-Urosa Martinovica"
+	},
+	{
+		"lokacija" : "Branka Popovica"
+	},
+	{
+		"lokacija" : "Nedeljka Gvozdenovica"
+	},
+	{
+		"lokacija" : "Golf 8"
+	},
+	{
+		"lokacija" : "Mite Ruzica"
+	},
+	{
+		"lokacija" : "Sremskih Odreda"
+	},
+	{
+		"lokacija" : "Supilova"
+	},
+	{
+		"lokacija" : "Blok 8 - Paviljoni"
+	},
+	{
+		"lokacija" : "Blok 7 - Paviljoni"
+	},
+	{
+		"lokacija" : "Sestara Milovanovic"
+	},
+	{
+		"lokacija" : "Jasenicka"
+	},
+	{
+		"lokacija" : "Pustorecka"
+	},
+	{
+		"lokacija" : "Nikolaja Gogolja"
+	},
+	{
+		"lokacija" : "Blok 32"
+	},
+	{
+		"lokacija" : "Ugrinovci"
+	},
+	{
+		"lokacija" : "Savada-Urosa Martinovica"
+	},
+	{
+		"lokacija" : "Avijaticarski Trg"
+	},
+	{
+		"lokacija" : "Vatroslava Jagica"
+	},
+	{
+		"lokacija" : "Jedrenska"
+	},
+	{
+		"lokacija" : "Pregrevica "
+	},
+	{
+		"lokacija" : "Djuke Dinica"
+	},
+	{
+		"lokacija" : "Husinskih Rudara "
+	},
+	{
+		"lokacija" : "Rtanjska"
+	},
+	{
+		"lokacija" : "Varovnicka"
+	},
+	{
+		"lokacija" : "Sportski Centar Vracar (Sc Vracar)"
+	},
+	{
+		"lokacija" : "Koste Vojinovica"
+	},
+	{
+		"lokacija" : "Tolstojeva"
+	},
+	{
+		"lokacija" : "Bulevar Kralja Aleksandra Karadjordjevica"
+	},
+	{
+		"lokacija" : "Pivljanina Baje"
+	},
+	{
+		"lokacija" : "Tuzlanska J"
+	},
+	{
+		"lokacija" : "Sestara Strajin"
+	},
+	{
+		"lokacija" : "Vojni Put"
+	},
+	{
+		"lokacija" : "Bulevar Vuldroa Vilsona"
+	},
+	{
+		"lokacija" : "Mice Radakovica"
+	},
+	{
+		"lokacija" : "Podgoricka"
+	},
+	{
+		"lokacija" : "Nenznanog Junaka"
+	},
+	{
+		"lokacija" : "Patrijarha Gavrila "
+	},
+	{
+		"lokacija" : "Krfska"
+	},
+	{
+		"lokacija" : "Krivosijska"
+	},
+	{
+		"lokacija" : "Slobodana Djurica"
+	},
+	{
+		"lokacija" : "Mokroluska"
+	},
+	{
+		"lokacija" : "Medakovic"
+	},
+	{
+		"lokacija" : "Brane Cosica"
+	},
+	{
+		"lokacija" : "Rastislava Marica"
+	},
+	{
+		"lokacija" : "Vladimira Vasica"
+	},
+	{
+		"lokacija" : "Brace Jerkovica"
+	},
+	{
+		"lokacija" : "Sutjeska Ulica 8."
+	},
+	{
+		"lokacija" : "Kajuhova"
+	},
+	{
+		"lokacija" : "Joce Jovanovica"
+	},
+	{
+		"lokacija" : "Danila Bojovica"
+	},
+	{
+		"lokacija" : "Ustanicka (Sumice)"
+	},
+	{
+		"lokacija" : "Varvarinska"
+	},
+	{
+		"lokacija" : "Deli Radivoja"
+	},
+	{
+		"lokacija" : "Desanke Maksimovic   X"
+	},
+	{
+		"lokacija" : "Blok 71"
+	},
+	{
+		"lokacija" : "Blok 2"
+	},
+	{
+		"lokacija" : "Beogradskog Bataljona "
+	},
+	{
+		"lokacija" : "Nikole Cupica"
+	},
+	{
+		"lokacija" : "Dusana Radovica"
+	},
+	{
+		"lokacija" : "Mitrovdanska"
+	},
+	{
+		"lokacija" : "Mahmuta Ibrahimpasica "
+	},
+	{
+		"lokacija" : "Jurija Gararina"
+	},
+	{
+		"lokacija" : "Ugrinovacki Put"
+	},
+	{
+		"lokacija" : "Vladislava Bajcevica"
+	},
+	{
+		"lokacija" : "Trg Nikole Pasica"
+	},
+	{
+		"lokacija" : "Mihaila Bulgakova"
+	},
+	{
+		"lokacija" : "Dragoljuba Ristica"
+	},
+	{
+		"lokacija" : "Zlatiborska"
+	},
+	{
+		"lokacija" : "Hazarska"
+	},
+	{
+		"lokacija" : "Avrama Petronijevica"
+	},
+	{
+		"lokacija" : "Narodnog Fronta"
+	},
+	{
+		"lokacija" : "Nikole Vulica"
+	},
+	{
+		"lokacija" : "Grge Andrijanovica"
+	},
+	{
+		"lokacija" : "Karla Lukaca "
+	},
+	{
+		"lokacija" : "Sokolska"
+	},
+	{
+		"lokacija" : "Lesce"
+	},
+	{
+		"lokacija" : "Lovacka"
+	},
+	{
+		"lokacija" : "Djordja Stanojevica"
+	},
+	{
+		"lokacija" : "Bokeljska "
+	},
+	{
+		"lokacija" : "(Belvil)-Jurija Gagarina"
+	},
+	{
+		"lokacija" : "Vrnjacka"
+	},
+	{
+		"lokacija" : "Sunnyville"
+	},
+	{
+		"lokacija" : "Bulevar Mihaila Pupina "
+	},
+	{
+		"lokacija" : "(Belvil)- Jurija Gagarina"
+	},
+	{
+		"lokacija" : "Veselina Cajkanovica"
+	},
+	{
+		"lokacija" : "Jubice Di Sorno"
+	},
+	{
+		"lokacija" : "Jovana Bijelica "
+	},
+	{
+		"lokacija" : "Budmanijeva"
+	},
+	{
+		"lokacija" : "Voje Veljkovica"
+	},
+	{
+		"lokacija" : "Ruze Jovanovic"
+	},
+	{
+		"lokacija" : "Katarine Milovuk"
+	},
+	{
+		"lokacija" : "Odeska"
+	},
+	{
+		"lokacija" : "Donska"
+	},
+	{
+		"lokacija" : "Tribalska"
+	},
+	{
+		"lokacija" : "A(Blok)-Jurija Gragarina"
+	},
+	{
+		"lokacija" : "Slobodana Principa"
+	},
+	{
+		"lokacija" : "Velizara Kosanovica "
+	},
+	{
+		"lokacija" : "Goce Delceva"
+	},
+	{
+		"lokacija" : "Cumiceva"
+	},
+	{
+		"lokacija" : "Hadzi Mustafina"
+	},
+	{
+		"lokacija" : "Sejkina"
+	},
+	{
+		"lokacija" : "Ugrinovacki Put 4.Deo"
+	},
+	{
+		"lokacija" : "Nikole Djurkovica"
+	},
+	{
+		"lokacija" : "Svetozara  Miletica"
+	},
+	{
+		"lokacija" : "Hajduk Stojka"
+	},
+	{
+		"lokacija" : "Svetozara Radojicica"
+	},
+	{
+		"lokacija" : "Josanicka"
+	},
+	{
+		"lokacija" : "Beranska"
+	},
+	{
+		"lokacija" : "Sloga"
+	},
+	{
+		"lokacija" : "Jurija Gagrina"
+	},
+	{
+		"lokacija" : "Kalemarska"
+	},
+	{
+		"lokacija" : "Gledicka"
+	},
+	{
+		"lokacija" : "Mokranjceva"
+	},
+	{
+		"lokacija" : "Voje Radica"
+	},
+	{
+		"lokacija" : "Makarijeva"
+	},
+	{
+		"lokacija" : "Djordja Andrejevica Kuna"
+	},
+	{
+		"lokacija" : "Generala Anrija"
+	},
+	{
+		"lokacija" : "Ane Dobes "
+	},
+	{
+		"lokacija" : "Mitropolita Pavla Nenadovica"
+	},
+	{
+		"lokacija" : "Save Jovanovica"
+	},
+	{
+		"lokacija" : "Orahovacka"
+	},
+	{
+		"lokacija" : "Jasmina"
+	},
+	{
+		"lokacija" : "Gunjak"
+	},
+	{
+		"lokacija" : "Cvetna"
+	},
+	{
+		"lokacija" : "Zemljoradnicka"
+	},
+	{
+		"lokacija" : "Kosovskih Bozura"
+	},
+	{
+		"lokacija" : "Umetnicka"
+	},
+	{
+		"lokacija" : "Banjica 2"
+	},
+	{
+		"lokacija" : "Djprdja Stanojevica"
+	},
+	{
+		"lokacija" : "(A Blok)-Jurija Gagarina"
+	},
+	{
+		"lokacija" : "Milivoja Zivanovica"
+	},
+	{
+		"lokacija" : "Bul. Jna"
+	},
+	{
+		"lokacija" : "Liksuri"
+	},
+	{
+		"lokacija" : "Milutina Miljkovica"
+	},
+	{
+		"lokacija" : "Stojana Ljubica"
+	},
+	{
+		"lokacija" : "Slobodana Jovica"
+	},
+	{
+		"lokacija" : "Olimpska"
+	},
+	{
+		"lokacija" : "Dugo Polje"
+	},
+	{
+		"lokacija" : "Janka Jankovica"
+	},
+	{
+		"lokacija" : "Drenovska"
+	},
+	{
+		"lokacija" : "Josipa Slavenskog"
+	},
+	{
+		"lokacija" : "Save Jovanovica "
+	},
+	{
+		"lokacija" : "Ivanke Muacevic"
+	},
+	{
+		"lokacija" : "Radovana Cosica"
+	},
+	{
+		"lokacija" : "Kmeta Todorovica"
+	},
+	{
+		"lokacija" : "Pavla Labata"
+	},
+	{
+		"lokacija" : "Perice Ivanovica"
+	},
+	{
+		"lokacija" : "Milutina Miljkovica (Milice Ribnikar)"
+	},
+	{
+		"lokacija" : "Vukasina Antica"
+	},
+	{
+		"lokacija" : "Ruza"
+	},
+	{
+		"lokacija" : "Kruzna"
+	},
+	{
+		"lokacija" : "Jovana Todorovica"
+	},
+	{
+		"lokacija" : "Gornja"
+	},
+	{
+		"lokacija" : "Milice Ribnikar"
+	},
+	{
+		"lokacija" : "Lipovacki Put"
+	},
+	{
+		"lokacija" : "Okolina Vitanovacke"
+	},
+	{
+		"lokacija" : "Put Za Markovice"
+	},
+	{
+		"lokacija" : "Put Za Avalu"
+	},
+	{
+		"lokacija" : "Svemira Jovanovica"
+	},
+	{
+		"lokacija" : "Arandjelovacka"
+	},
+	{
+		"lokacija" : "Djoke Krstica"
+	},
+	{
+		"lokacija" : "Put Za Koloniju"
+	},
+	{
+		"lokacija" : "Kirila Savica"
+	},
+	{
+		"lokacija" : "Bakiceva"
+	},
+	{
+		"lokacija" : "Orahova"
+	},
+	{
+		"lokacija" : "Milovana Jankovica"
+	},
+	{
+		"lokacija" : "Tomazeova"
+	},
+	{
+		"lokacija" : "Dukljaninova"
+	},
+	{
+		"lokacija" : "Vojvode Skopljanca"
+	},
+	{
+		"lokacija" : "Djakona Avakuma"
+	},
+	{
+		"lokacija" : "Put Za Lipe"
+	},
+	{
+		"lokacija" : "Banjicki Breg (Bulevar Oslobodjenja)"
+	},
+	{
+		"lokacija" : "Srednji Prnjavor"
+	},
+	{
+		"lokacija" : "Fricka Loha"
+	},
+	{
+		"lokacija" : "Bulevar Patrijarha Germana"
+	},
+	{
+		"lokacija" : "Rebeke Vest"
+	},
+	{
+		"lokacija" : "Dragise Vitosevica"
+	},
+	{
+		"lokacija" : "General Zdanova"
+	},
+	{
+		"lokacija" : "Kruzni Put"
+	},
+	{
+		"lokacija" : "Ribnicka"
+	},
+	{
+		"lokacija" : "Jaroslava Cernog"
+	},
+	{
+		"lokacija" : "Lustricka"
+	},
+	{
+		"lokacija" : "Poljarska"
+	},
+	{
+		"lokacija" : "Jovana Soldatovica"
+	},
+	{
+		"lokacija" : "Dolska"
+	},
+	{
+		"lokacija" : "Ozrenska"
+	},
+	{
+		"lokacija" : "Patrijarha Germana"
+	},
+	{
+		"lokacija" : "Saveza Boraca"
+	},
+	{
+		"lokacija" : "Lipovicki Put"
+	},
+	{
+		"lokacija" : "Nova 18."
+	},
+	{
+		"lokacija" : "Vidska"
+	},
+	{
+		"lokacija" : "Jase Ignjatovica"
+	},
+	{
+		"lokacija" : "Kragujevacki Put"
+	},
+	{
+		"lokacija" : "Kolubarska"
+	},
+	{
+		"lokacija" : "Vandjela Tome"
+	},
+	{
+		"lokacija" : "Vojvode Petra Dobrnjca"
+	},
+	{
+		"lokacija" : "Put Za Pavicevac"
+	},
+	{
+		"lokacija" : "Bulevar Jna (Rakovica Selo)"
+	},
+	{
+		"lokacija" : "Kralja Vladimira"
+	},
+	{
+		"lokacija" : "Mosorska"
+	},
+	{
+		"lokacija" : "Gornji Vozdovac"
+	},
+	{
+		"lokacija" : "Jasmin"
+	},
+	{
+		"lokacija" : "Torlacki Vis"
+	},
+	{
+		"lokacija" : "Svetozara Zorica"
+	},
+	{
+		"lokacija" : "Podravska"
+	},
+	{
+		"lokacija" : "Topola"
+	},
+	{
+		"lokacija" : "Pekacka"
+	},
+	{
+		"lokacija" : "Vinarska"
+	},
+	{
+		"lokacija" : "Put Za Tresnju"
+	},
+	{
+		"lokacija" : "Ripanj"
+	},
+	{
+		"lokacija" : "Zuce"
+	},
+	{
+		"lokacija" : "Put Za Skadrice"
+	},
+	{
+		"lokacija" : "Milovana Saranovica"
+	},
+	{
+		"lokacija" : "Andre Stevanovica"
+	},
+	{
+		"lokacija" : "Dukatska"
+	},
+	{
+		"lokacija" : "Nova 10"
+	},
+	{
+		"lokacija" : "Pilota Rajka Cvetica"
+	},
+	{
+		"lokacija" : "Lazara Avramovica"
+	},
+	{
+		"lokacija" : "Zivka Gavrilovica"
+	},
+	{
+		"lokacija" : "Put Za Bosnjake"
+	},
+	{
+		"lokacija" : "Mihaila Djurica"
+	},
+	{
+		"lokacija" : "Nataije Cvetkovic"
+	},
+	{
+		"lokacija" : "Petra Gvojica"
+	},
+	{
+		"lokacija" : "Tabanovacka"
+	},
+	{
+		"lokacija" : "Leonarda Da Vincija"
+	},
+	{
+		"lokacija" : "Zupana Tihomira"
+	},
+	{
+		"lokacija" : "Kralja Ostoje"
+	},
+	{
+		"lokacija" : "Javorska"
+	},
+	{
+		"lokacija" : "Joakima Rakovca"
+	},
+	{
+		"lokacija" : "Kragujevacki Put "
+	},
+	{
+		"lokacija" : "Kumodraska 76D"
+	},
+	{
+		"lokacija" : "Grbaljska"
+	},
+	{
+		"lokacija" : "Klinska"
+	},
+	{
+		"lokacija" : "Brdjanska"
+	},
+	{
+		"lokacija" : "Jovana Milovanovic"
+	},
+	{
+		"lokacija" : "Dinarska"
+	},
+	{
+		"lokacija" : "Dimitrija Davidovica"
+	},
+	{
+		"lokacija" : "Dojranska"
+	},
+	{
+		"lokacija" : "K Distrikt Dunavska"
+	},
+	{
+		"lokacija" : "Nabokovljeva"
+	},
+	{
+		"lokacija" : "Mikenska"
+	},
+	{
+		"lokacija" : "Bajdina"
+	},
+	{
+		"lokacija" : "29 Novembra 14 B"
+	},
+	{
+		"lokacija" : "Dvadeseti Oktobar"
+	},
+	{
+		"lokacija" : "Kremanska"
+	},
+	{
+		"lokacija" : "Pesterska"
+	},
+	{
+		"lokacija" : "Ive Marinkovica"
+	},
+	{
+		"lokacija" : "Rada Kondica"
+	},
+	{
+		"lokacija" : "Janka Popovica"
+	},
+	{
+		"lokacija" : "Kritska"
+	},
+	{
+		"lokacija" : "Gorenjska"
+	},
+	{
+		"lokacija" : "Dusana Srezojevica"
+	},
+	{
+		"lokacija" : "Ratka Pavlovica"
+	},
+	{
+		"lokacija" : "Ladno Brdo"
+	},
+	{
+		"lokacija" : "Jovijanova"
+	},
+	{
+		"lokacija" : "Vladimira Corovica"
+	},
+	{
+		"lokacija" : "Vladimira Petkovica"
+	},
+	{
+		"lokacija" : "Livadska"
+	},
+	{
+		"lokacija" : "Nikole Grulovica"
+	},
+	{
+		"lokacija" : "Partizanska"
+	},
+	{
+		"lokacija" : "Porucnika Spasica I Masere"
+	},
+	{
+		"lokacija" : "Bohinjska"
+	},
+	{
+		"lokacija" : "Hajduk Stanka"
+	},
+	{
+		"lokacija" : "Dolenjska"
+	},
+	{
+		"lokacija" : "Petra Skundrica"
+	},
+	{
+		"lokacija" : "Pljevaljska"
+	},
+	{
+		"lokacija" : "Stari Vinogradi"
+	},
+	{
+		"lokacija" : "Slobodana Vitanovica"
+	},
+	{
+		"lokacija" : "Delovi"
+	},
+	{
+		"lokacija" : "Frana Levstika"
+	},
+	{
+		"lokacija" : "Miljakovacki Vinogradi"
+	},
+	{
+		"lokacija" : "Bulevar Patrijarha Pavla"
+	},
+	{
+		"lokacija" : "Dr Nedeljka Ercegovca"
+	},
+	{
+		"lokacija" : "Zeleznicka "
+	},
+	{
+		"lokacija" : "Svetotrojcina"
+	},
+	{
+		"lokacija" : "Mica Radakovica"
+	},
+	{
+		"lokacija" : "Krajiska"
+	},
+	{
+		"lokacija" : "Kolonija Zmaj"
+	},
+	{
+		"lokacija" : "Lazara Mamuzica"
+	},
+	{
+		"lokacija" : "Sibenicka"
+	},
+	{
+		"lokacija" : "Majora Zorana Radosavljevica"
+	},
+	{
+		"lokacija" : "Divcibarska"
+	},
+	{
+		"lokacija" : "Surcinska"
+	},
+	{
+		"lokacija" : "Vaska Pope"
+	},
+	{
+		"lokacija" : "Zarka Obreskog"
+	},
+	{
+		"lokacija" : "Palackova "
+	},
+	{
+		"lokacija" : "Temisvarska"
+	},
+	{
+		"lokacija" : "Aleksandra Tirnanica Tirketa"
+	},
+	{
+		"lokacija" : "Milutina Ivkovica"
+	},
+	{
+		"lokacija" : "Luzicka"
+	},
+	{
+		"lokacija" : "Vajara Djoke Jovanovica 17"
+	},
+	{
+		"lokacija" : "Aleksandra Tirnanica"
+	},
+	{
+		"lokacija" : "Ruziceva"
+	},
+	{
+		"lokacija" : "Vucintrnska"
+	},
+	{
+		"lokacija" : "Serdar Jola "
+	},
+	{
+		"lokacija" : "Dijane Budisavljevic"
+	},
+	{
+		"lokacija" : "Bosutska"
+	},
+	{
+		"lokacija" : "Zvezdarska"
+	},
+	{
+		"lokacija" : "Kladovska"
+	},
+	{
+		"lokacija" : "Milanke Kljajic"
+	},
+	{
+		"lokacija" : "Aleksandra Bugarskog"
+	},
+	{
+		"lokacija" : "Ivana V. Lalica"
+	},
+	{
+		"lokacija" : "Dundjerska"
+	},
+	{
+		"lokacija" : "Vlastimira Pavlovica Carevca"
+	},
+	{
+		"lokacija" : "Pirandelova"
+	},
+	{
+		"lokacija" : "Ladne Vode"
+	},
+	{
+		"lokacija" : "Koste Stojanovica"
+	},
+	{
+		"lokacija" : "Bul. Despota Stefana"
+	},
+	{
+		"lokacija" : "Kapetan Misina "
+	},
+	{
+		"lokacija" : "Petra Lekovica"
+	},
+	{
+		"lokacija" : "Zimonjiceva"
+	},
+	{
+		"lokacija" : "Osijecka"
+	},
+	{
+		"lokacija" : "Buda Tomovica"
+	},
+	{
+		"lokacija" : "Zarkovacka"
+	},
+	{
+		"lokacija" : "Porodice Starcevic"
+	},
+	{
+		"lokacija" : "Sofije Jovanovic"
+	},
+	{
+		"lokacija" : "Lole Ribara"
+	},
+	{
+		"lokacija" : "Porodice Markovic"
+	},
+	{
+		"lokacija" : "Vodovodska 2. Deo"
+	},
+	{
+		"lokacija" : "Nebojse Markovica"
+	},
+	{
+		"lokacija" : "Zeleznicki Put"
+	},
+	{
+		"lokacija" : "Porodice Rankovic"
+	},
+	{
+		"lokacija" : "Vodovodska"
+	},
+	{
+		"lokacija" : "Marka Koncara Bure"
+	},
+	{
+		"lokacija" : "Belog Krina"
+	},
+	{
+		"lokacija" : "Porodice Zivkovic"
+	},
+	{
+		"lokacija" : "Doktora Branka I Jelene"
+	},
+	{
+		"lokacija" : "Porodice Praizovic"
+	},
+	{
+		"lokacija" : "Zikice Jovanovica Spanca"
+	},
+	{
+		"lokacija" : "Radoja Prvulovica"
+	},
+	{
+		"lokacija" : "Sumske Ekonomije"
+	},
+	{
+		"lokacija" : "Jeliciceva"
+	},
+	{
+		"lokacija" : "Petra Drapsina"
+	},
+	{
+		"lokacija" : "Dvorzakova"
+	},
+	{
+		"lokacija" : "Porodice Nesic"
+	},
+	{
+		"lokacija" : "Prote Milorada Pavlovica"
+	},
+	{
+		"lokacija" : "Kapetana Deroka"
+	},
+	{
+		"lokacija" : "Stublinska"
+	},
+	{
+		"lokacija" : "Brusnicka"
+	},
+	{
+		"lokacija" : "Mirkoviceva"
+	},
+	{
+		"lokacija" : "Tesarska"
+	},
+	{
+		"lokacija" : "Porodice Petrovic"
+	},
+	{
+		"lokacija" : "Simicev Puteljak"
+	},
+	{
+		"lokacija" : "Mihajla Valtrovica"
+	},
+	{
+		"lokacija" : "Vaznesenjska"
+	},
+	{
+		"lokacija" : "Bobovacka"
+	},
+	{
+		"lokacija" : "Ilije Vukicevica"
+	},
+	{
+		"lokacija" : "Porodice Miljkovic"
+	},
+	{
+		"lokacija" : "Hitrih Kosaca"
+	},
+	{
+		"lokacija" : "Miloja Zakica"
+	},
+	{
+		"lokacija" : "Vodovodska 2.Deo"
+	},
+	{
+		"lokacija" : "Oslobodjenja Peti Deo"
+	},
+	{
+		"lokacija" : "Dobrivoja Jovanovica"
+	},
+	{
+		"lokacija" : "Bitoljska"
+	},
+	{
+		"lokacija" : "Zelenceva"
+	},
+	{
+		"lokacija" : "Mirkoviceva 4.Deo"
+	},
+	{
+		"lokacija" : "Veljka Petrovica"
+	},
+	{
+		"lokacija" : "Stojana Matica"
+	},
+	{
+		"lokacija" : "Radoja Markovica"
+	},
+	{
+		"lokacija" : "Oslobodjenja"
+	},
+	{
+		"lokacija" : "Mijatovih Njiva"
+	},
+	{
+		"lokacija" : "Dusana Vlaica"
+	},
+	{
+		"lokacija" : "Stari Cerak"
+	},
+	{
+		"lokacija" : "Beogradska 1. Deo"
+	},
+	{
+		"lokacija" : "Umka"
+	},
+	{
+		"lokacija" : "Mihaila Gajica Kale"
+	},
+	{
+		"lokacija" : "Bore Radojevica"
+	},
+	{
+		"lokacija" : "Svete Milutinovica"
+	},
+	{
+		"lokacija" : "Doljanska"
+	},
+	{
+		"lokacija" : "Granicka"
+	},
+	{
+		"lokacija" : "Vodovodska Ii Deo"
+	},
+	{
+		"lokacija" : "Jablanicka"
+	},
+	{
+		"lokacija" : "Goricka"
+	},
+	{
+		"lokacija" : "Bobana Tomovica"
+	},
+	{
+		"lokacija" : "Proleterska"
+	},
+	{
+		"lokacija" : "Djordja Ognjanovica"
+	},
+	{
+		"lokacija" : "Kopaonicka"
+	},
+	{
+		"lokacija" : "Porodice Miljkovic 2A"
+	},
+	{
+		"lokacija" : "Gradine I"
+	},
+	{
+		"lokacija" : "Ranka Marinkovica"
+	},
+	{
+		"lokacija" : "Trebeska"
+	},
+	{
+		"lokacija" : "13. Septembra"
+	},
+	{
+		"lokacija" : "Branka Radicevica"
+	},
+	{
+		"lokacija" : "Milovana Niciforovica"
+	},
+	{
+		"lokacija" : "Kadinjacka"
+	},
+	{
+		"lokacija" : "Dragomira Stanojlovica"
+	},
+	{
+		"lokacija" : "Zdravka Jovanovica"
+	},
+	{
+		"lokacija" : "Ivana Blagojevica"
+	},
+	{
+		"lokacija" : "Torbanovacka"
+	},
+	{
+		"lokacija" : "Vinodolska"
+	},
+	{
+		"lokacija" : "Mirka Postica"
+	},
+	{
+		"lokacija" : "Rajka Od Rasine"
+	},
+	{
+		"lokacija" : "Zarka Vukovica-Pucara"
+	},
+	{
+		"lokacija" : "Jastrebovljeva"
+	},
+	{
+		"lokacija" : "Zlatnih Rukoveti"
+	},
+	{
+		"lokacija" : "13.Septembra"
+	},
+	{
+		"lokacija" : "Caslava Veljica"
+	},
+	{
+		"lokacija" : "Miluna Vidica"
+	},
+	{
+		"lokacija" : "Ilije Milicevica"
+	},
+	{
+		"lokacija" : "Velika Mostanica"
+	},
+	{
+		"lokacija" : "Jevrema Nesica"
+	},
+	{
+		"lokacija" : "Slavonskih Brigada"
+	},
+	{
+		"lokacija" : "Ada Ciganlija "
+	},
+	{
+		"lokacija" : "Osogovska"
+	},
+	{
+		"lokacija" : "Kapetana Popovica"
+	},
+	{
+		"lokacija" : "Ickova"
+	},
+	{
+		"lokacija" : "Orfelinova"
+	},
+	{
+		"lokacija" : "Milovana Niciforovica "
+	},
+	{
+		"lokacija" : "Dusana Kostica"
+	},
+	{
+		"lokacija" : "Vila Kosmaj - Najam Na Dan"
+	},
+	{
+		"lokacija" : "Cara Nikolaja Ll"
+	},
+	{
+		"lokacija" : "Jase Prodanovic"
+	},
+	{
+		"lokacija" : "Ibarski Put"
+	},
+	{
+		"lokacija" : "Visnjicka"
+	},
+	{
+		"lokacija" : "Jojkicev Dunavac"
+	},
+	{
+		"lokacija" : "Slobodana Principa Selje"
+	},
+	{
+		"lokacija" : "Obrenovac"
+	},
+	{
+		"lokacija" : "Bulevar Marsala Tolbuhina (Goce Delceva)"
+	},
+	{
+		"lokacija" : "Gruje Miskovica"
+	},
+	{
+		"lokacija" : "Sebes-Borcanski"
+	},
+	{
+		"lokacija" : "Vajara Zivojina Lukica"
+	},
+	{
+		"lokacija" : "Slanacki Put"
+	},
+	{
+		"lokacija" : "Veliko Selo"
+	},
+	{
+		"lokacija" : "Anice Savic Rebac"
+	},
+	{
+		"lokacija" : "Zivka Davidovica Trosarinca"
+	},
+	{
+		"lokacija" : "Julije Delere"
+	},
+	{
+		"lokacija" : "Skela"
+	},
+	{
+		"lokacija" : "Vikendica Forest Kosmaj"
+	},
+	{
+		"lokacija" : "Bozdarevac"
+	},
+	{
+		"lokacija" : "Savska "
+	},
+	{
+		"lokacija" : "Kosmajskih Partizana"
+	},
+	{
+		"lokacija" : "Ibarska "
+	},
+	{
+		"lokacija" : "Vojvode Hrvoja"
+	},
+	{
+		"lokacija" : "Majevicka "
+	},
+	{
+		"lokacija" : "Pante Tutundzica"
+	},
+	{
+		"lokacija" : "Marije Bursac"
+	},
+	{
+		"lokacija" : "Zeke Buljubase"
+	},
+	{
+		"lokacija" : "Ane Dobes"
+	},
+	{
+		"lokacija" : "Univerzijade"
+	},
+	{
+		"lokacija" : "Vladimira Pogacica"
+	},
+	{
+		"lokacija" : "Brane Petrovica"
+	},
+	{
+		"lokacija" : "Vinogradska"
+	},
+	{
+		"lokacija" : "Sidska"
+	},
+	{
+		"lokacija" : "Vojvode Blazete"
+	},
+	{
+		"lokacija" : "Dr Teodora Borockog"
+	},
+	{
+		"lokacija" : "Bunarska"
+	},
+	{
+		"lokacija" : "Mala Mostanica"
+	},
+	{
+		"lokacija" : "Kosmajskih Brigada"
+	},
+	{
+		"lokacija" : "Djurinci"
+	},
+	{
+		"lokacija" : "Mije Aleksica"
+	},
+	{
+		"lokacija" : "Vojni Put 1."
+	},
+	{
+		"lokacija" : "Pavla Vujisica "
+	},
+	{
+		"lokacija" : "Ugrinovacki Put 7.Deo"
+	},
+	{
+		"lokacija" : "Milisava Gorunovica"
+	},
+	{
+		"lokacija" : "Pukovnicka"
+	},
+	{
+		"lokacija" : "Sevina"
+	},
+	{
+		"lokacija" : "Vucinac"
+	},
+	{
+		"lokacija" : "Ikarbus Nova 2."
+	},
+	{
+		"lokacija" : "Ikarbus 3 Nova"
+	},
+	{
+		"lokacija" : "Slovenska"
+	},
+	{
+		"lokacija" : "Jovana Boskovica"
+	},
+	{
+		"lokacija" : "Elija Fincija"
+	},
+	{
+		"lokacija" : "Nikinacka"
+	},
+	{
+		"lokacija" : "Vojni Put 2."
+	},
+	{
+		"lokacija" : "Tomice Popovic "
+	},
+	{
+		"lokacija" : "Akrobate Aleksica"
+	},
+	{
+		"lokacija" : "Drinska"
+	},
+	{
+		"lokacija" : "Igmanska"
+	},
+	{
+		"lokacija" : "Jaksiceva"
+	},
+	{
+		"lokacija" : "Zeleznicka Kolonija"
+	},
+	{
+		"lokacija" : "Vojni Put Blok 2"
+	},
+	{
+		"lokacija" : "Pavla Vujisica"
+	},
+	{
+		"lokacija" : "Ugrinovacki Put 39. Deo"
+	},
+	{
+		"lokacija" : "Zire Adamovica"
+	},
+	{
+		"lokacija" : "Uginovacki Put 10 Deo"
+	},
+	{
+		"lokacija" : "Ugrinovacki Put 10. Deo"
+	},
+	{
+		"lokacija" : "Alaska"
+	},
+	{
+		"lokacija" : "Momcila Radivojevica"
+	},
+	{
+		"lokacija" : "Amadova"
+	},
+	{
+		"lokacija" : "Dijega Rivere"
+	},
+	{
+		"lokacija" : "Joza Laurencica"
+	},
+	{
+		"lokacija" : "Svetosavska"
+	},
+	{
+		"lokacija" : "Barajevska"
+	},
+	{
+		"lokacija" : "Ugrinovacki Put  39.Deo"
+	},
+	{
+		"lokacija" : "Vojni Put 2 Deo"
+	},
+	{
+		"lokacija" : "Banatska"
+	},
+	{
+		"lokacija" : "Prizrenska "
+	},
+	{
+		"lokacija" : "Stara Lipovica"
+	},
+	{
+		"lokacija" : "Banijska"
+	},
+	{
+		"lokacija" : "Zaduzbinska"
+	},
+	{
+		"lokacija" : "Bosanska"
+	},
+	{
+		"lokacija" : "Karlovacka"
+	},
+	{
+		"lokacija" : "Svetotrojicina"
+	},
+	{
+		"lokacija" : "Srednjokrajska"
+	},
+	{
+		"lokacija" : "Grobljanska"
+	},
+	{
+		"lokacija" : "Vukova"
+	},
+	{
+		"lokacija" : "Banjicka"
+	},
+	{
+		"lokacija" : "Klaonicka"
+	},
+	{
+		"lokacija" : "Gardos"
+	},
+	{
+		"lokacija" : "Oracka"
+	},
+	{
+		"lokacija" : "Radoja Dakica"
+	},
+	{
+		"lokacija" : "Preradoviceva"
+	},
+	{
+		"lokacija" : "Centar Zemuna"
+	},
+	{
+		"lokacija" : "Lagumska"
+	},
+	{
+		"lokacija" : "Lipa"
+	},
+	{
+		"lokacija" : "Avalski Put"
+	},
+	{
+		"lokacija" : "Bregovita"
+	},
+	{
+		"lokacija" : "Dr Milivoja Babica"
+	},
+	{
+		"lokacija" : "Vrcin"
+	},
+	{
+		"lokacija" : "Mali Kamen"
+	},
+	{
+		"lokacija" : "Milete Cerovca"
+	},
+	{
+		"lokacija" : "Kamendolska"
+	},
+	{
+		"lokacija" : "Prvog Maja"
+	},
+	{
+		"lokacija" : "Kalvarija"
+	},
+	{
+		"lokacija" : "Save Kovacevica"
+	},
+	{
+		"lokacija" : "Bolec Hajduk Stanka"
+	},
+	{
+		"lokacija" : "Bul. Revolucije"
+	},
+	{
+		"lokacija" : "Grmecka"
+	},
+	{
+		"lokacija" : "Crveni Breg "
+	},
+	{
+		"lokacija" : "Mali Prokop"
+	},
+	{
+		"lokacija" : "Palih Boraca  A"
+	},
+	{
+		"lokacija" : "Rodoljuba Colakovica"
+	},
+	{
+		"lokacija" : "Janka Gagica"
+	},
+	{
+		"lokacija" : "Vojvode Stepe Stepanovica"
+	},
+	{
+		"lokacija" : "Dunavski Venac"
+	},
+	{
+		"lokacija" : "Mali Dubocaj"
+	},
+	{
+		"lokacija" : "Zlatni Breg"
+	},
+	{
+		"lokacija" : "Dragoljuba Stojanovica"
+	},
+	{
+		"lokacija" : "Nikole Pasica"
+	},
+	{
+		"lokacija" : "Branka Copica"
+	},
+	{
+		"lokacija" : "Save Kovacevica (Kaludjerica)"
+	},
+	{
+		"lokacija" : "Glavni Put"
+	},
+	{
+		"lokacija" : "22. Decembra"
+	},
+	{
+		"lokacija" : "Bore Petrovica"
+	},
+	{
+		"lokacija" : "Bolec"
+	},
+	{
+		"lokacija" : "Brace Stamenkovic"
+	},
+	{
+		"lokacija" : "Srpskih Vladara"
+	},
+	{
+		"lokacija" : "Zikice Spanca"
+	},
+	{
+		"lokacija" : "Mirijevska"
+	},
+	{
+		"lokacija" : "Zivka Kazandzica"
+	},
+	{
+		"lokacija" : "Zivka Kazancica"
+	},
+	{
+		"lokacija" : "Gige Ignjata"
+	},
+	{
+		"lokacija" : "Djerdapska"
+	},
+	{
+		"lokacija" : "Kod Poste"
+	},
+	{
+		"lokacija" : "Ive Andrica"
+	},
+	{
+		"lokacija" : "6. Licke Divizije (Bolec)"
+	},
+	{
+		"lokacija" : "Ulica Jna"
+	},
+	{
+		"lokacija" : "Smederevski Put"
+	},
+	{
+		"lokacija" : "Djure Djakovica"
+	},
+	{
+		"lokacija" : "Livadice"
+	},
+	{
+		"lokacija" : "Grcko Srpskog Prijateljstva"
+	},
+	{
+		"lokacija" : "Franca Preserna"
+	},
+	{
+		"lokacija" : "Branislava Nusica"
+	},
+	{
+		"lokacija" : "8.Marta"
+	},
+	{
+		"lokacija" : "Srpsko Grckog Prijateljstva"
+	},
+	{
+		"lokacija" : "1. Maja"
+	},
+	{
+		"lokacija" : "Begaljnica"
+	},
+	{
+		"lokacija" : "Marsala Tita 17"
+	},
+	{
+		"lokacija" : "Dragise Spasojevica"
+	},
+	{
+		"lokacija" : "Zivorada Jakovljevica"
+	},
+	{
+		"lokacija" : "Ritopek"
+	},
+	{
+		"lokacija" : "Hajducke Vode "
+	},
+	{
+		"lokacija" : "Pudarci"
+	},
+	{
+		"lokacija" : "Veliki Prokop"
+	},
+	{
+		"lokacija" : "Brestovik"
+	},
+	{
+		"lokacija" : "Lestane Novo Naselje"
+	},
+	{
+		"lokacija" : "Velebitska"
+	},
+	{
+		"lokacija" : "Srpsko-Grckog Prijateljstva"
+	},
+	{
+		"lokacija" : "Kod Crkve"
+	},
+	{
+		"lokacija" : "7. Jula"
+	},
+	{
+		"lokacija" : "Tase Zivancevica"
+	},
+	{
+		"lokacija" : "Vikentija Rakica"
+	},
+	{
+		"lokacija" : "Teodora Hercla"
+	},
+	{
+		"lokacija" : "Jumbina"
+	},
+	{
+		"lokacija" : "Zaklopaca"
+	},
+	{
+		"lokacija" : "Kasapovacka"
+	},
+	{
+		"lokacija" : "Nikole Pasica "
+	},
+	{
+		"lokacija" : "Novembra"
+	},
+	{
+		"lokacija" : "Put Za Bolec"
+	},
+	{
+		"lokacija" : "Ikarbus Nova 3."
+	},
+	{
+		"lokacija" : "Sestara Bukumirovic"
+	},
+	{
+		"lokacija" : "Iliciceva"
+	},
+	{
+		"lokacija" : "Mladena Stojanovica"
+	},
+	{
+		"lokacija" : "Vojislava Jovanovica Maramba"
+	},
+	{
+		"lokacija" : "Vlaska"
+	},
+	{
+		"lokacija" : "Petra Antonijevica Base"
+	},
+	{
+		"lokacija" : "Lazarevac"
+	},
+	{
+		"lokacija" : "Cede Polkica"
+	},
+	{
+		"lokacija" : "Dusana Radovica 4"
+	},
+	{
+		"lokacija" : "Ohridska"
+	},
+	{
+		"lokacija" : "Dudovica"
+	},
+	{
+		"lokacija" : "Drinke Pavlovic"
+	},
+	{
+		"lokacija" : "Isidore Sekulic"
+	},
+	{
+		"lokacija" : "Vrbovacka"
+	},
+	{
+		"lokacija" : "Nikolaja Velimirovica"
+	},
+	{
+		"lokacija" : "Cede Polkica 2A"
+	},
+	{
+		"lokacija" : "Ibarska Magistrala Lazarevac"
+	},
+	{
+		"lokacija" : "Niska (Severna Magistrala)"
+	},
+	{
+		"lokacija" : "Stefana Nemanje "
+	},
+	{
+		"lokacija" : "Put Za Zakinac"
+	},
+	{
+		"lokacija" : "Kamenicka"
+	},
+	{
+		"lokacija" : "Sedam Sekretara Skoja"
+	},
+	{
+		"lokacija" : "Vrbovno Lazarevac"
+	},
+	{
+		"lokacija" : "7. Oktobra"
+	},
+	{
+		"lokacija" : "7. Oktobar"
+	},
+	{
+		"lokacija" : "Zupanjac"
+	},
+	{
+		"lokacija" : "7 Oktobra"
+	},
+	{
+		"lokacija" : "Sopic"
+	},
+	{
+		"lokacija" : "Kosmajska "
+	},
+	{
+		"lokacija" : "Dusana Petrovica-Saneta"
+	},
+	{
+		"lokacija" : "Veliki Crljeni"
+	},
+	{
+		"lokacija" : "Stepojevac"
+	},
+	{
+		"lokacija" : "Leskovac"
+	},
+	{
+		"lokacija" : "Nadezde Petrovic"
+	},
+	{
+		"lokacija" : "Vladike Nikolaja Velimirovica"
+	},
+	{
+		"lokacija" : "Kosmajska"
+	},
+	{
+		"lokacija" : "Vladike Nikolaja Velimirovic"
+	},
+	{
+		"lokacija" : "Baljevac"
+	},
+	{
+		"lokacija" : "Krajinska"
+	},
+	{
+		"lokacija" : "Radio Far"
+	},
+	{
+		"lokacija" : "Triglavska "
+	},
+	{
+		"lokacija" : "Kralja Petra Prvog"
+	},
+	{
+		"lokacija" : "Brace Stupar"
+	},
+	{
+		"lokacija" : "Brace Zigic"
+	},
+	{
+		"lokacija" : "Jakovacki Kormadin"
+	},
+	{
+		"lokacija" : "Sremskih Partizana"
+	},
+	{
+		"lokacija" : "Brace Kovacevic"
+	},
+	{
+		"lokacija" : "Aluge"
+	},
+	{
+		"lokacija" : "Konatice"
+	},
+	{
+		"lokacija" : "Gornjopoljska"
+	},
+	{
+		"lokacija" : "Seljacke Bune"
+	},
+	{
+		"lokacija" : "Brace Novakovic"
+	},
+	{
+		"lokacija" : "Radjevska"
+	},
+	{
+		"lokacija" : "Pancevacki Put"
+	},
+	{
+		"lokacija" : "13. Oktobra"
+	},
+	{
+		"lokacija" : "Jezerska"
+	},
+	{
+		"lokacija" : "Lugovacka"
+	},
+	{
+		"lokacija" : "Dolovska"
+	},
+	{
+		"lokacija" : "Igora Vasiljeva"
+	},
+	{
+		"lokacija" : "Zage Malivuk"
+	},
+	{
+		"lokacija" : "Druga Partizanska"
+	},
+	{
+		"lokacija" : "Boska Desnice"
+	},
+	{
+		"lokacija" : "Idjoska"
+	},
+	{
+		"lokacija" : "Grge Andrijanovica Iv"
+	},
+	{
+		"lokacija" : "Partizanski Blok Ulica 1."
+	},
+	{
+		"lokacija" : "Sutjeska Vi"
+	},
+	{
+		"lokacija" : "Mladena Josica"
+	},
+	{
+		"lokacija" : "Sutjeska Ulica 2."
+	},
+	{
+		"lokacija" : "Partizanski Blok Ulica 2."
+	},
+	{
+		"lokacija" : "Ratka Jevtica"
+	},
+	{
+		"lokacija" : "Lisovic"
+	},
+	{
+		"lokacija" : "Ratka Jeftica"
+	},
+	{
+		"lokacija" : "Aleksandra Soljzenicina "
+	},
+	{
+		"lokacija" : "Lickih Brigada"
+	},
+	{
+		"lokacija" : "Miljakovacke Staze "
+	},
+	{
+		"lokacija" : "Ratka Sofijanica"
+	},
+	{
+		"lokacija" : "Blok Sutjeska"
+	},
+	{
+		"lokacija" : "Miljakovacke Staze"
+	},
+	{
+		"lokacija" : "Knezevacka"
+	},
+	{
+		"lokacija" : "Dimitrija Koturovica"
+	},
+	{
+		"lokacija" : "Miljakovacke Livade"
+	},
+	{
+		"lokacija" : "Suncani Breg"
+	},
+	{
+		"lokacija" : "Maricka"
+	},
+	{
+		"lokacija" : "Omladinsko Setaliste"
+	},
+	{
+		"lokacija" : "Nicifora Ninkovica"
+	},
+	{
+		"lokacija" : "Vodice"
+	},
+	{
+		"lokacija" : "Kakanjska Hitno"
+	},
+	{
+		"lokacija" : "Radovana Samardzica"
+	},
+	{
+		"lokacija" : "Milana Kapetanovica"
+	},
+	{
+		"lokacija" : "Rasinska"
+	},
+	{
+		"lokacija" : "Miljakovacke Sume"
+	},
+	{
+		"lokacija" : "Patrijarha Dimitrija"
+	},
+	{
+		"lokacija" : "Grambergova"
+	},
+	{
+		"lokacija" : "Matije Gupca"
+	},
+	{
+		"lokacija" : "Ljubomira Ivkovica Suce"
+	},
+	{
+		"lokacija" : "Miljakovacka"
+	},
+	{
+		"lokacija" : "Georgija Ostrogorskog"
+	},
+	{
+		"lokacija" : "Vareska"
+	},
+	{
+		"lokacija" : "Pete Kozarske"
+	},
+	{
+		"lokacija" : "Jagodinska"
+	},
+	{
+		"lokacija" : "Miska Kranjca"
+	},
+	{
+		"lokacija" : "Pere Velimirovica"
+	},
+	{
+		"lokacija" : "Koste Zivkovica"
+	},
+	{
+		"lokacija" : "Stari Kosutnjak"
+	},
+	{
+		"lokacija" : "Roze Luksemburg"
+	},
+	{
+		"lokacija" : "6. Licke Divizije"
+	},
+	{
+		"lokacija" : "Srzenticeva"
+	},
+	{
+		"lokacija" : "Sutjeska 8"
+	},
+	{
+		"lokacija" : "Andre Jovica"
+	},
+	{
+		"lokacija" : "Sutjeska Blok"
+	},
+	{
+		"lokacija" : "Veletinska"
+	},
+	{
+		"lokacija" : "Celebicka"
+	},
+	{
+		"lokacija" : "Cehotinska"
+	},
+	{
+		"lokacija" : "Godominska"
+	},
+	{
+		"lokacija" : "Vracar-Cerska"
+	},
+	{
+		"lokacija" : "Branka Zezelja"
+	},
+	{
+		"lokacija" : "Mali Prolaz"
+	},
+	{
+		"lokacija" : "Custendilska"
+	},
+	{
+		"lokacija" : "Busije"
+	},
+	{
+		"lokacija" : "Jasenak Sumadija"
+	},
+	{
+		"lokacija" : "Beljina"
+	},
+	{
+		"lokacija" : "Ravni Lug"
+	},
+	{
+		"lokacija" : "Jasenak"
+	},
+	{
+		"lokacija" : "Janka Sekulica"
+	},
+	{
+		"lokacija" : "Popovic"
+	},
+	{
+		"lokacija" : "7 Jula"
+	},
+	{
+		"lokacija" : "1. Sremskog Odreda"
+	},
+	{
+		"lokacija" : "Jovana Brankovica"
+	},
+	{
+		"lokacija" : "Sangajska Prvi Deo"
+	},
+	{
+		"lokacija" : "Sangajska"
+	},
+	{
+		"lokacija" : "Maksima Brankovica"
+	},
+	{
+		"lokacija" : "Save Grkinica"
+	},
+	{
+		"lokacija" : "Vojvode Nikole Stanjevica"
+	},
+	{
+		"lokacija" : "Despota Ivanisa"
+	},
+	{
+		"lokacija" : "Sangajska Sesti Deo"
+	},
+	{
+		"lokacija" : "Oficirska Kolonija 1"
+	},
+	{
+		"lokacija" : "Branka Zivkovica"
+	},
+	{
+		"lokacija" : "Male Medje 33. Nova"
+	},
+	{
+		"lokacija" : "Jasenovackih Mucenika"
+	},
+	{
+		"lokacija" : "Belarica Nova"
+	},
+	{
+		"lokacija" : "Marka Pericina Kamenjara"
+	},
+	{
+		"lokacija" : "Brace Mihajlovic Tripic"
+	},
+	{
+		"lokacija" : "Sevastokratora Dejana"
+	},
+	{
+		"lokacija" : "Dragutina Djordjevica"
+	},
+	{
+		"lokacija" : "Brace Smiljanic"
+	},
+	{
+		"lokacija" : "Male Medje Nova 33."
+	},
+	{
+		"lokacija" : "Drage Mihajlovica"
+	},
+	{
+		"lokacija" : "Velike Medje Nova 24."
+	},
+	{
+		"lokacija" : "Mladih Gorana"
+	},
+	{
+		"lokacija" : "Kralja Stefana Tomasa"
+	},
+	{
+		"lokacija" : "Sangaj"
+	},
+	{
+		"lokacija" : "Stanka Tisme"
+	},
+	{
+		"lokacija" : "Kralja Radoslava"
+	},
+	{
+		"lokacija" : "Velike Medje Nova 24"
+	},
+	{
+		"lokacija" : "Dimitrija Lazarova Rase"
+	},
+	{
+		"lokacija" : "Oficirska Kolonija"
+	},
+	{
+		"lokacija" : "Zabran Nova"
+	},
+	{
+		"lokacija" : "Kesara Vojihne"
+	},
+	{
+		"lokacija" : "Stefana Knezevica"
+	},
+	{
+		"lokacija" : "Nikole Zorica"
+	},
+	{
+		"lokacija" : "Zivka Stevanovica Zikice"
+	},
+	{
+		"lokacija" : "Vranic"
+	},
+	{
+		"lokacija" : "Tina Ujevica"
+	},
+	{
+		"lokacija" : "Alberta Ajnstajna"
+	},
+	{
+		"lokacija" : "114. Nova"
+	},
+	{
+		"lokacija" : "Mali Pozarevac"
+	},
+	{
+		"lokacija" : "Klesarska"
+	},
+	{
+		"lokacija" : "Prohorska"
+	},
+	{
+		"lokacija" : "Nikole Tesle"
+	},
+	{
+		"lokacija" : "Kovijan"
+	},
+	{
+		"lokacija" : "Dese Markovic"
+	},
+	{
+		"lokacija" : "Kneza Lazara"
+	},
+	{
+		"lokacija" : "Cede Pavlovica"
+	},
+	{
+		"lokacija" : "Sime Solaje"
+	},
+	{
+		"lokacija" : "Djordja Nesica"
+	},
+	{
+		"lokacija" : "Pjera Krizanica"
+	},
+	{
+		"lokacija" : "Pribojska"
+	},
+	{
+		"lokacija" : "Jastrebacka"
+	},
+	{
+		"lokacija" : "Hoze Martia"
+	},
+	{
+		"lokacija" : "Draginje Adamovic"
+	},
+	{
+		"lokacija" : "Ramadanska"
+	},
+	{
+		"lokacija" : "Nova 111."
+	},
+	{
+		"lokacija" : "Isaka Njutna"
+	},
+	{
+		"lokacija" : "Kornatska"
+	},
+	{
+		"lokacija" : "Mladenovac Centar"
+	},
+	{
+		"lokacija" : "Prelepac"
+	},
+	{
+		"lokacija" : "Doktora Rusa"
+	},
+	{
+		"lokacija" : "Mladenovac"
+	},
+	{
+		"lokacija" : "Majdanska"
+	},
+	{
+		"lokacija" : "Stojnik"
+	},
+	{
+		"lokacija" : "Put Za Crvenku"
+	},
+	{
+		"lokacija" : "Sumadijska "
+	},
+	{
+		"lokacija" : "Selo Mladenovac"
+	},
+	{
+		"lokacija" : "Drapsin"
+	},
+	{
+		"lokacija" : "Put Za Ovcu"
+	},
+	{
+		"lokacija" : "Mihaila Petrovica"
+	},
+	{
+		"lokacija" : "Popova Bara Nova 1402 4"
+	},
+	{
+		"lokacija" : "25 Maj"
+	},
+	{
+		"lokacija" : "Ilijaska"
+	},
+	{
+		"lokacija" : "Popova Bara Nova 1402."
+	},
+	{
+		"lokacija" : "Mihaila Solohova"
+	},
+	{
+		"lokacija" : "Batasevo"
+	},
+	{
+		"lokacija" : "Mitra Trifunovica"
+	},
+	{
+		"lokacija" : "Svetolika Rankovica"
+	},
+	{
+		"lokacija" : "Grgetecka"
+	},
+	{
+		"lokacija" : "Mirgorodska"
+	},
+	{
+		"lokacija" : "Popova Bara Nova 3."
+	},
+	{
+		"lokacija" : "1. Maja (Borca)"
+	},
+	{
+		"lokacija" : "Borcanskih Zrtava 1914."
+	},
+	{
+		"lokacija" : "Orlovatska"
+	},
+	{
+		"lokacija" : "Vase Pomorisca"
+	},
+	{
+		"lokacija" : "Voloska"
+	},
+	{
+		"lokacija" : "Lotosa"
+	},
+	{
+		"lokacija" : "Popova Bara"
+	},
+	{
+		"lokacija" : "Beocanska"
+	},
+	{
+		"lokacija" : "Zarka Zrenjanina (Borca)"
+	},
+	{
+		"lokacija" : "Majora Gavrilovica"
+	},
+	{
+		"lokacija" : "Dimitrija T. Leka"
+	},
+	{
+		"lokacija" : "Kninskog Kosova"
+	},
+	{
+		"lokacija" : "Dimitrija T Leka"
+	},
+	{
+		"lokacija" : "307 Nova"
+	},
+	{
+		"lokacija" : "Crnoluska"
+	},
+	{
+		"lokacija" : "Trstenicka"
+	},
+	{
+		"lokacija" : "Save Mrkalja"
+	},
+	{
+		"lokacija" : "Djordja Lazarevica"
+	},
+	{
+		"lokacija" : "Damjana Jugovica"
+	},
+	{
+		"lokacija" : "Trg Oslobodjenja"
+	},
+	{
+		"lokacija" : "Kvarnerska"
+	},
+	{
+		"lokacija" : "Koste Hristica"
+	},
+	{
+		"lokacija" : "Popova Bara Nova"
+	},
+	{
+		"lokacija" : "Dimitrija Ruvarca"
+	},
+	{
+		"lokacija" : "Toplicka"
+	},
+	{
+		"lokacija" : "Prelivacka"
+	},
+	{
+		"lokacija" : "Put Za Crvenku Ii"
+	},
+	{
+		"lokacija" : "Zrenjaninski Put"
+	},
+	{
+		"lokacija" : "Hopovska"
+	},
+	{
+		"lokacija" : "Borcanskih Zrtava 1914"
+	},
+	{
+		"lokacija" : "Narodne Omladine"
+	},
+	{
+		"lokacija" : "Dimitrije T. Leka"
+	},
+	{
+		"lokacija" : "Davidovicka"
+	},
+	{
+		"lokacija" : "Vladike Rada"
+	},
+	{
+		"lokacija" : "Sisatovacka"
+	},
+	{
+		"lokacija" : "Rajkovac"
+	},
+	{
+		"lokacija" : "Majakovskog"
+	},
+	{
+		"lokacija" : "Boljevci"
+	},
+	{
+		"lokacija" : "Becmen"
+	},
+	{
+		"lokacija" : "Ulica Mira"
+	},
+	{
+		"lokacija" : "Ive Andrica "
+	},
+	{
+		"lokacija" : "Arhimedova"
+	},
+	{
+		"lokacija" : "Karadjordjeva 9"
+	},
+	{
+		"lokacija" : "Taska Nacica"
+	},
+	{
+		"lokacija" : "Vozda Karadjordja"
+	},
+	{
+		"lokacija" : "Obreska"
+	},
+	{
+		"lokacija" : "Marka Raba"
+	},
+	{
+		"lokacija" : "Slovacka"
+	},
+	{
+		"lokacija" : "Moravska"
+	},
+	{
+		"lokacija" : "Stevana  Jovanovica"
+	},
+	{
+		"lokacija" : "Boljevacka"
+	},
+	{
+		"lokacija" : "Brace Jovanovic"
+	},
+	{
+		"lokacija" : "Mileve Maric"
+	},
+	{
+		"lokacija" : "Dusanova"
+	},
+	{
+		"lokacija" : "Zarka Samardzica"
+	},
+	{
+		"lokacija" : "Brace Uzelac"
+	},
+	{
+		"lokacija" : "15. Oktobra (Dobanovci)"
+	},
+	{
+		"lokacija" : "Milana Konjovica"
+	},
+	{
+		"lokacija" : "Tresnjina"
+	},
+	{
+		"lokacija" : "Steve Jovanovica"
+	},
+	{
+		"lokacija" : "Babe"
+	},
+	{
+		"lokacija" : "Mislodjinska"
+	},
+	{
+		"lokacija" : "Ucitelja Jovanovica"
+	},
+	{
+		"lokacija" : "Suvoborska"
+	},
+	{
+		"lokacija" : "Velimira Manica"
+	},
+	{
+		"lokacija" : "Kamendinska"
+	},
+	{
+		"lokacija" : "Mike Antica"
+	},
+	{
+		"lokacija" : "Kragujevacka"
+	},
+	{
+		"lokacija" : "Dragoljuba Spasica"
+	},
+	{
+		"lokacija" : "Selters Banja"
+	},
+	{
+		"lokacija" : "Dr. Zorke Marinkovic "
+	},
+	{
+		"lokacija" : "Pionirska"
+	},
+	{
+		"lokacija" : "Nemenikuce"
+	},
+	{
+		"lokacija" : "Partizanski Put"
+	},
+	{
+		"lokacija" : "Sipska"
+	},
+	{
+		"lokacija" : "Simiceva"
+	},
+	{
+		"lokacija" : "Dobrivoja Maksimovica"
+	},
+	{
+		"lokacija" : "Prahovska"
+	},
+	{
+		"lokacija" : "Siljakovac"
+	},
+	{
+		"lokacija" : "Filipa Jeremica "
+	},
+	{
+		"lokacija" : "Sime Lozanica"
+	},
+	{
+		"lokacija" : "Smetanina"
+	},
+	{
+		"lokacija" : "Generala Save Grujica"
+	},
+	{
+		"lokacija" : "Seljackih Buna"
+	},
+	{
+		"lokacija" : "Guberevac"
+	},
+	{
+		"lokacija" : "Granice"
+	},
+	{
+		"lokacija" : "Zive Borjanovica"
+	},
+	{
+		"lokacija" : "Jendecka"
+	},
+	{
+		"lokacija" : "Milinka Jelica"
+	},
+	{
+		"lokacija" : "Migela Anhela Asturijasa"
+	},
+	{
+		"lokacija" : "Darinke Jevric"
+	},
+	{
+		"lokacija" : "Mice Orlovica"
+	},
+	{
+		"lokacija" : "Jezdiceva"
+	},
+	{
+		"lokacija" : "Save Sumanovic"
+	},
+	{
+		"lokacija" : "Vile Ravijojle"
+	},
+	{
+		"lokacija" : "Dijane Borisavljevic"
+	},
+	{
+		"lokacija" : "Vajara Djoke"
+	},
+	{
+		"lokacija" : "Serdar Jola"
+	},
+	{
+		"lokacija" : "Majora Jagodica"
+	},
+	{
+		"lokacija" : "Koste Racina"
+	},
+	{
+		"lokacija" : "Majora Jagodica13"
+	},
+	{
+		"lokacija" : "Popova Bara Nova 1."
+	},
+	{
+		"lokacija" : "Radomira Stevica Rasa"
+	},
+	{
+		"lokacija" : "Jezerska Prolaz 4"
+	},
+	{
+		"lokacija" : "8 Sutjeska"
+	},
+	{
+		"lokacija" : "Zarka Zrenjanina"
+	},
+	{
+		"lokacija" : "Dejana Smiljkovica"
+	},
+	{
+		"lokacija" : "Tomasevacka"
+	},
+	{
+		"lokacija" : "Save Todorovica"
+	},
+	{
+		"lokacija" : "Velje Miljkovica"
+	},
+	{
+		"lokacija" : "Riste Odavica "
+	},
+	{
+		"lokacija" : "Nova 111"
+	},
+	{
+		"lokacija" : "Ljube Stojanovica"
+	},
+	{
+		"lokacija" : "Sibnicka Nova 3. Prolaz 1."
+	},
+	{
+		"lokacija" : "Migela Anhela Asturijasa (Nova 111.)"
+	},
+	{
+		"lokacija" : "Dunavac"
+	},
+	{
+		"lokacija" : "Stanka Paunovica"
+	},
+	{
+		"lokacija" : "Dragana Maksimovica"
+	},
+	{
+		"lokacija" : "Todora Manojlovica"
+	},
+	{
+		"lokacija" : "Milosa Crnjanskog"
+	},
+	{
+		"lokacija" : "111 Nova"
+	},
+	{
+		"lokacija" : "Lole Ribara (Ovca)"
+	},
+	{
+		"lokacija" : "Sestara Bukumirovica"
+	},
+	{
+		"lokacija" : "111. Nova"
+	},
+	{
+		"lokacija" : "Sebeska Reka "
+	},
+	{
+		"lokacija" : "Migela Anhela Asturijasa "
+	},
+	{
+		"lokacija" : "Todora Manojlovica 28"
+	},
+	{
+		"lokacija" : "Migel Anhel Asturias"
+	},
+	{
+		"lokacija" : "Anice Savic-Rebac"
+	},
+	{
+		"lokacija" : "Despotovacka"
+	},
+	{
+		"lokacija" : "Sokobanjska"
+	},
+	{
+		"lokacija" : "Paje Adamova"
+	},
+	{
+		"lokacija" : "Vojvode Tankosica"
+	},
+	{
+		"lokacija" : "Janka Veselinovica"
+	},
+	{
+		"lokacija" : "Vracar Centar Krunski Venac"
+	},
+	{
+		"lokacija" : "Lamrtinova "
+	},
+	{
+		"lokacija" : "Drinicka"
+	},
+	{
+		"lokacija" : "Sanje Zivanovic"
+	},
+	{
+		"lokacija" : "Bolnica Narodni Front"
+	},
+	{
+		"lokacija" : "Sarajevska "
+	},
+	{
+		"lokacija" : "Gornjacka"
+	},
+	{
+		"lokacija" : "Seher"
+	},
+	{
+		"lokacija" : "Kod Majdana"
+	},
+	{
+		"lokacija" : "Dusana Saneta Petrovica "
+	},
+	{
+		"lokacija" : "Buda Budisavljevica"
+	},
+	{
+		"lokacija" : "Gaudijeva"
+	},
+	{
+		"lokacija" : "60M Od Mihaila Avramovica"
+	},
+	{
+		"lokacija" : "Vuka Karadzica 83"
+	},
+	{
+		"lokacija" : "Stevana Markovica"
+	},
+	{
+		"lokacija" : "Ratari"
+	},
+	{
+		"lokacija" : "Veslarska"
+	},
+	{
+		"lokacija" : "Ikarbus 3.Nova"
+	},
+	{
+		"lokacija" : "10 Nova"
+	},
+	{
+		"lokacija" : "Slavka Golubovica"
+	},
+	{
+		"lokacija" : "Udarne Desetine"
+	},
+	{
+		"lokacija" : "Velibora Gligorica"
+	},
+	{
+		"lokacija" : "Sangajska 11. Deo"
+	},
+	{
+		"lokacija" : "Borivoja Stanojevica"
+	},
+	{
+		"lokacija" : "Bratstvo I Jedinstvo"
+	},
+	{
+		"lokacija" : "Obrada Lazica"
+	},
+	{
+		"lokacija" : "Talambaska"
+	},
+	{
+		"lokacija" : "Bogoljuba Petkovica"
+	},
+	{
+		"lokacija" : "Milosava Ivkovica"
+	},
+	{
+		"lokacija" : "Sremskih Kraljeva"
+	},
+	{
+		"lokacija" : "Meljak"
+	},
+	{
+		"lokacija" : "Obrada Pavlovica Guslara"
+	},
+	{
+		"lokacija" : "Duje Damnjanovica"
+	},
+	{
+		"lokacija" : "Ljubomira Zivkovica Spanca"
+	},
+	{
+		"lokacija" : "Ratka Jevica"
+	},
+	{
+		"lokacija" : "Ralja"
+	},
+	{
+		"lokacija" : "Ducina"
+	},
+	{
+		"lokacija" : "Rogaca"
+	},
+	{
+		"lokacija" : "Sopot Opstina"
+	},
+	{
+		"lokacija" : "Slatina"
+	},
+	{
+		"lokacija" : "Cane Marjanovic"
+	},
+	{
+		"lokacija" : "Put Za Plandiste"
+	},
+	{
+		"lokacija" : "Ljubivoja Gajica"
+	},
+	{
+		"lokacija" : "Trg Bratstva I Jedinstva"
+	},
+	{
+		"lokacija" : "Stepe Stepanovica"
+	},
+	{
+		"lokacija" : "Manastirska "
+	},
+	{
+		"lokacija" : "Grabovacka"
+	},
+	{
+		"lokacija" : "11500 Obrenovac"
+	},
+	{
+		"lokacija" : "Cede Todorovica"
+	},
+	{
+		"lokacija" : "Nema Ulice"
+	},
+	{
+		"lokacija" : "Kralja Aleksandra"
+	},
+	{
+		"lokacija" : "Vuka Karadzica "
+	},
+	{
+		"lokacija" : "Drazevacka"
+	},
+	{
+		"lokacija" : "Valjevski Put"
+	},
+	{
+		"lokacija" : "Ulica 20"
+	},
+	{
+		"lokacija" : "Medjuluzje"
+	},
+	{
+		"lokacija" : "Obrada Lazica "
+	},
+	{
+		"lokacija" : "Mike Curcica"
+	},
+	{
+		"lokacija" : "Dalmatinska (Meljak)"
+	},
+	{
+		"lokacija" : "Guncati"
+	},
+	{
+		"lokacija" : "Lugarska"
+	},
+	{
+		"lokacija" : "Slobodana Penezica Krcuna"
+	},
+	{
+		"lokacija" : "Vite Radovica"
+	},
+	{
+		"lokacija" : "Ustanicka 2. Deo"
+	},
+	{
+		"lokacija" : "Milorada Brkica Icinog"
+	},
+	{
+		"lokacija" : "Ibarski Pu"
+	},
+	{
+		"lokacija" : "Veljka Vlahovica"
+	},
+	{
+		"lokacija" : "Vladislava Nikolica"
+	},
+	{
+		"lokacija" : "Dragutina Karla Jovanovica"
+	},
+	{
+		"lokacija" : "Arnajevo"
+	},
+	{
+		"lokacija" : "Zarka Bokuna"
+	},
+	{
+		"lokacija" : "Mostanicka"
+	},
+	{
+		"lokacija" : "Obrenovacki Put"
+	},
+	{
+		"lokacija" : "Zvecka"
+	},
+	{
+		"lokacija" : "Baric"
+	},
+	{
+		"lokacija" : "Jadranski Kraj Gornji"
+	},
+	{
+		"lokacija" : "Veliko Polje"
+	},
+	{
+		"lokacija" : "Selo Loncanik Opstina Ub"
+	},
+	{
+		"lokacija" : "Duboko"
+	},
+	{
+		"lokacija" : "Dren"
+	},
+	{
+		"lokacija" : "Grabovac"
+	},
+	{
+		"lokacija" : "56 Rodoljuba"
+	},
+	{
+		"lokacija" : "Stubline"
+	},
+	{
+		"lokacija" : "Mislodjin"
+	},
+	{
+		"lokacija" : "Trstenica"
+	},
+	{
+		"lokacija" : "Usce"
+	},
+	{
+		"lokacija" : "Drazevac"
+	},
+	{
+		"lokacija" : "Zabrezje"
+	},
+	{
+		"lokacija" : "Belo Polje"
+	},
+	{
+		"lokacija" : "Orasac"
+	},
+	{
+		"lokacija" : "Urovci"
+	},
+	{
+		"lokacija" : "Palih Boraca Male Mostanice"
+	},
+	{
+		"lokacija" : "Gornji Kraj /A"
+	},
+	{
+		"lokacija" : "Rabrovac"
+	},
+	{
+		"lokacija" : "Koracica"
+	},
+	{
+		"lokacija" : "Beljevac"
+	},
+	{
+		"lokacija" : "Kosuticka"
+	},
+	{
+		"lokacija" : "Kosmaj"
+	},
+	{
+		"lokacija" : "Petkajska"
+	},
+	{
+		"lokacija" : "Mladenovac Opstina"
+	},
+	{
+		"lokacija" : "Vrbovno"
+	},
+	{
+		"lokacija" : "Srecka Maksimovica "
+	},
+	{
+		"lokacija" : "Kosmajski Put"
+	},
+	{
+		"lokacija" : "Joviska"
+	},
+	{
+		"lokacija" : "Srpsko-Grckog Prijateljstva "
+	},
+	{
+		"lokacija" : "Nova 19Ta"
+	},
+	{
+		"lokacija" : "Jadranski Kraj (Grabovacki Put)"
+	},
+	{
+		"lokacija" : "Dr Vladana Djordjevica"
+	},
+	{
+		"lokacija" : "Jovana Djaje"
+	},
+	{
+		"lokacija" : "Brace Ribnikar"
+	},
+	{
+		"lokacija" : "Medak Iii"
+	},
+	{
+		"lokacija" : "Krivosijska "
+	},
+	{
+		"lokacija" : "Zarija Vujosevica"
+	},
+	{
+		"lokacija" : "Majora Milana Malnarica"
+	},
+	{
+		"lokacija" : "Vasilija Djurovica Vaka"
+	},
+	{
+		"lokacija" : "Boce I Jakse"
+	},
+	{
+		"lokacija" : "Vajara Zivojina Lukica "
+	},
+	{
+		"lokacija" : "Losinjska Donja"
+	},
+	{
+		"lokacija" : "Surcinski Put"
+	},
+	{
+		"lokacija" : "Sadika Ramiza"
+	},
+	{
+		"lokacija" : "Novobeogradskih Graditelja"
+	},
+	{
+		"lokacija" : "Bore Stankovica"
+	},
+	{
+		"lokacija" : "Golubinacka"
+	},
+	{
+		"lokacija" : "Savskih Alasa"
+	},
+	{
+		"lokacija" : "Juvelirska"
+	},
+	{
+		"lokacija" : "Ticijanova"
+	},
+	{
+		"lokacija" : "Rubensova"
+	},
+	{
+		"lokacija" : "Vajarska"
+	},
+	{
+		"lokacija" : "Savski Nasip"
+	},
+	{
+		"lokacija" : "Velemajstora Bore Kostica"
+	},
+	{
+		"lokacija" : "Bezanijska Kosa 1"
+	},
+	{
+		"lokacija" : "Ilindenska"
+	},
+	{
+		"lokacija" : "Kraljice Marije "
+	},
+	{
+		"lokacija" : "Sekspirova"
+	},
+	{
+		"lokacija" : "Pol Gogena"
+	},
+	{
+		"lokacija" : "Loncarska"
+	},
+	{
+		"lokacija" : "Dobrivoja Jovanovica Iv Deo"
+	},
+	{
+		"lokacija" : "Svetonikolska"
+	},
+	{
+		"lokacija" : "Blok 15"
+	},
+	{
+		"lokacija" : "Milke Bosnic"
+	},
+	{
+		"lokacija" : "Ravan"
+	},
+	{
+		"lokacija" : "Marjanoviceva"
+	},
+	{
+		"lokacija" : "Kod Pijace I Skole Viktora Novaka"
+	},
+	{
+		"lokacija" : "Marine Velickovic"
+	},
+	{
+		"lokacija" : "Ilije Djuricica"
+	},
+	{
+		"lokacija" : "Branka Cvetkovica"
+	},
+	{
+		"lokacija" : "Crveno Barjace"
+	},
+	{
+		"lokacija" : "Trgovacka"
+	},
+	{
+		"lokacija" : "Milana Munjasa"
+	},
+	{
+		"lokacija" : "Vladimira Copica"
+	},
+	{
+		"lokacija" : "Vojislava Lubarde"
+	},
+	{
+		"lokacija" : "Palisadska 1. Deo"
+	},
+	{
+		"lokacija" : "Kraljevackih Zrtava"
+	},
+	{
+		"lokacija" : "Leposave Mihajlovic"
+	},
+	{
+		"lokacija" : "Rajka Ruzica"
+	},
+	{
+		"lokacija" : "Ratka Resanovica"
+	},
+	{
+		"lokacija" : "Galipoljska "
+	},
+	{
+		"lokacija" : "Cvecarska"
+	},
+	{
+		"lokacija" : "Jelenov Zleb"
+	},
+	{
+		"lokacija" : "Janka Misica"
+	},
+	{
+		"lokacija" : "Ace Joksimovica"
+	},
+	{
+		"lokacija" : "Savnicka"
+	},
+	{
+		"lokacija" : "Ace Joksimovic"
+	},
+	{
+		"lokacija" : "Repiska"
+	},
+	{
+		"lokacija" : "Spasenoviceva"
+	},
+	{
+		"lokacija" : "Nasticeva"
+	},
+	{
+		"lokacija" : "Sinise Stankovica"
+	},
+	{
+		"lokacija" : "Tome Maretica"
+	},
+	{
+		"lokacija" : "Petefijeva"
+	},
+	{
+		"lokacija" : "Steve Todorovica"
+	},
+	{
+		"lokacija" : "Breza"
+	},
+	{
+		"lokacija" : "Platana"
+	},
+	{
+		"lokacija" : "Frontovska"
+	},
+	{
+		"lokacija" : "Mladenovacka"
+	},
+	{
+		"lokacija" : "Aljehinova"
+	},
+	{
+		"lokacija" : "Lazara Kujundzica"
+	},
+	{
+		"lokacija" : "Nebojse Djukelica"
+	},
+	{
+		"lokacija" : "Petra Martinovica"
+	},
+	{
+		"lokacija" : "Banovo Brdo-B.Parovica"
+	},
+	{
+		"lokacija" : "Cede Minderovica"
+	},
+	{
+		"lokacija" : "Por. Spasica I Masere"
+	},
+	{
+		"lokacija" : "Spasovdanska"
+	},
+	{
+		"lokacija" : "Zarka Pucara"
+	},
+	{
+		"lokacija" : "Straska Pindzura"
+	},
+	{
+		"lokacija" : "Bore Markovica"
+	},
+	{
+		"lokacija" : "Visoka"
+	},
+	{
+		"lokacija" : "Rajka Od Rasine "
+	},
+	{
+		"lokacija" : "Lazarevacki Drum"
+	},
+	{
+		"lokacija" : "Stevana Brakusa"
+	},
+	{
+		"lokacija" : "Sumadijski Trg"
+	},
+	{
+		"lokacija" : "Kozacinskog"
+	},
+	{
+		"lokacija" : "Obalskih Radnika"
+	},
+	{
+		"lokacija" : "Turgenjevljeva"
+	},
+	{
+		"lokacija" : "Brdovita"
+	},
+	{
+		"lokacija" : "Golf Naselj Petra Martinovica"
+	},
+	{
+		"lokacija" : "Majdanska Cukarica"
+	},
+	{
+		"lokacija" : "Trebevicka"
+	},
+	{
+		"lokacija" : "Mirosavljeva "
+	},
+	{
+		"lokacija" : "Mirosavljeva"
+	},
+	{
+		"lokacija" : "Vase Stajica"
+	},
+	{
+		"lokacija" : "Kod Ada Moll-A"
+	},
+	{
+		"lokacija" : "Dostojevskog"
+	},
+	{
+		"lokacija" : "Banovo Brdo Pocetak"
+	},
+	{
+		"lokacija" : "Arhimandrita Gerasima Zelica"
+	},
+	{
+		"lokacija" : "Banovo B.-Golf"
+	},
+	{
+		"lokacija" : "Vladimira Radovanovica"
+	},
+	{
+		"lokacija" : "Kraljice Katarine "
+	},
+	{
+		"lokacija" : "Ilije Stojadinovica "
+	},
+	{
+		"lokacija" : "Arcibalda Raisa"
+	},
+	{
+		"lokacija" : "Banovo Brdo-Golf"
+	},
+	{
+		"lokacija" : "Zarkovo-Repiska"
+	},
+	{
+		"lokacija" : "Solunskih Boraca"
+	},
+	{
+		"lokacija" : "Cerski Venac"
+	},
+	{
+		"lokacija" : "Lazarevacki Drun"
+	},
+	{
+		"lokacija" : "Kestenova"
+	},
+	{
+		"lokacija" : "Crvenih Hrastova"
+	},
+	{
+		"lokacija" : "Kod Pozeske"
+	},
+	{
+		"lokacija" : "Ljubice Ivosevic-Dimitrov"
+	},
+	{
+		"lokacija" : "Zitomislicka"
+	},
+	{
+		"lokacija" : "Katarine Bogdanovic"
+	},
+	{
+		"lokacija" : "Drage Spasic"
+	},
+	{
+		"lokacija" : "Bulevar Vojvode Bojovica "
+	},
+	{
+		"lokacija" : "Milorada Gavrilovica"
+	},
+	{
+		"lokacija" : "Dorcol-Mike Alasa"
+	},
+	{
+		"lokacija" : "Porecka"
+	},
+	{
+		"lokacija" : "27. Marta "
+	},
+	{
+		"lokacija" : "Vanizelosova"
+	},
+	{
+		"lokacija" : "Kosmajski Prolaz"
+	},
+	{
+		"lokacija" : "Milana Kasanina "
+	},
+	{
+		"lokacija" : "Dr.Aleksandra Kostica"
+	},
+	{
+		"lokacija" : "Knez Miletina "
+	},
+	{
+		"lokacija" : "Bu"
+	},
+	{
+		"lokacija" : "Blizina Kalemegdana"
+	},
+	{
+		"lokacija" : "Ivan Begova"
+	},
+	{
+		"lokacija" : "Brace Jugpvica"
+	},
+	{
+		"lokacija" : "Dobrice Cosica"
+	},
+	{
+		"lokacija" : "Centar-Bajlonijeva Pijaca"
+	},
+	{
+		"lokacija" : "Zmaj Od Nocaja"
+	},
+	{
+		"lokacija" : "Bulevar Vojvode Bojovica"
+	},
+	{
+		"lokacija" : "Kosovska "
+	},
+	{
+		"lokacija" : "Uskocka"
+	},
+	{
+		"lokacija" : "Strahinjica Bana "
+	},
+	{
+		"lokacija" : "Reljina"
+	},
+	{
+		"lokacija" : "Kod Bajlonijeve Pijace"
+	},
+	{
+		"lokacija" : "Emilijana Josimovica"
+	},
+	{
+		"lokacija" : "Rajiceva"
+	},
+	{
+		"lokacija" : "Centar-Palmoticeva"
+	},
+	{
+		"lokacija" : "Generala Lesjanina"
+	},
+	{
+		"lokacija" : "Hercega Stjepana"
+	},
+	{
+		"lokacija" : "Draze Pavlovic"
+	},
+	{
+		"lokacija" : "Venizelisova"
+	},
+	{
+		"lokacija" : "Vanizelisova"
+	},
+	{
+		"lokacija" : "Dzordza  Vasingtona"
+	},
+	{
+		"lokacija" : "Dusana Milosevica"
+	},
+	{
+		"lokacija" : "Karaburma Ii"
+	},
+	{
+		"lokacija" : "Dr. Dragoslava Popovica"
+	},
+	{
+		"lokacija" : "Kovilovo"
+	},
+	{
+		"lokacija" : "Milorada Dimitrijevica"
+	},
+	{
+		"lokacija" : "Levskoga"
+	},
+	{
+		"lokacija" : "Miloja Vasica"
+	},
+	{
+		"lokacija" : "Rackoga"
+	},
+	{
+		"lokacija" : "Kovilovska"
+	},
+	{
+		"lokacija" : "Aleksandra Fleminga"
+	},
+	{
+		"lokacija" : "Velbuska"
+	},
+	{
+		"lokacija" : "Stanoja Glavasa "
+	},
+	{
+		"lokacija" : "Dalmatinska "
+	},
+	{
+		"lokacija" : "Bul. Kralja Aleksandra"
+	},
+	{
+		"lokacija" : "Starine Novaka"
+	},
+	{
+		"lokacija" : "Vojvode Vuka"
+	},
+	{
+		"lokacija" : "Salvadora Aljendea"
+	},
+	{
+		"lokacija" : "Mirijevsko Brdo"
+	},
+	{
+		"lokacija" : "Jure Kerosevica"
+	},
+	{
+		"lokacija" : "Uralska"
+	},
+	{
+		"lokacija" : "Vlasicka"
+	},
+	{
+		"lokacija" : "Levskog"
+	},
+	{
+		"lokacija" : "Garsija Lorke"
+	},
+	{
+		"lokacija" : "Roda"
+	},
+	{
+		"lokacija" : "Vojvode Micka"
+	},
+	{
+		"lokacija" : "Dr Nika Miljanica"
+	},
+	{
+		"lokacija" : "Stojana Stoleta Arandjelovica"
+	},
+	{
+		"lokacija" : "Mirka Milojkovica"
+	},
+	{
+		"lokacija" : "Dunavski Breg"
+	},
+	{
+		"lokacija" : "Batocinska"
+	},
+	{
+		"lokacija" : "110 Nova"
+	},
+	{
+		"lokacija" : "Despotovacka "
+	},
+	{
+		"lokacija" : "Branislava Stankovica"
+	},
+	{
+		"lokacija" : "Dr. Nika Miljanica"
+	},
+	{
+		"lokacija" : "Juhorska"
+	},
+	{
+		"lokacija" : "Mihaila Vujica"
+	},
+	{
+		"lokacija" : "Garsije Lorke"
+	},
+	{
+		"lokacija" : "Mrijevski Bulevar"
+	},
+	{
+		"lokacija" : "Pera Cetkovica"
+	},
+	{
+		"lokacija" : "Majora Ilica"
+	},
+	{
+		"lokacija" : "Pana Djukica"
+	},
+	{
+		"lokacija" : "Drage Ljocic"
+	},
+	{
+		"lokacija" : "Srpskog Husarskog Puka"
+	},
+	{
+		"lokacija" : "27.Marta"
+	},
+	{
+		"lokacija" : "Stara Okretnica"
+	},
+	{
+		"lokacija" : "Pere Cetkovic"
+	},
+	{
+		"lokacija" : "Garsije Lorke "
+	},
+	{
+		"lokacija" : "Husinskih Rudara"
+	},
+	{
+		"lokacija" : "Jasterbacka"
+	},
+	{
+		"lokacija" : "Salvadora Alljendea"
+	},
+	{
+		"lokacija" : "Mije Kovacevica"
+	},
+	{
+		"lokacija" : "Ane Frank"
+	},
+	{
+		"lokacija" : "Enrika Josifa"
+	},
+	{
+		"lokacija" : "Zanatska"
+	},
+	{
+		"lokacija" : "Pljesevicka"
+	},
+	{
+		"lokacija" : "Carlija Caplina"
+	},
+	{
+		"lokacija" : "Mraovica Sokace"
+	},
+	{
+		"lokacija" : "Bore Vukmirovica"
+	},
+	{
+		"lokacija" : "Jahorinska"
+	},
+	{
+		"lokacija" : "Stevana Hristica"
+	},
+	{
+		"lokacija" : "Dragoslava Srejovica 2"
+	},
+	{
+		"lokacija" : "Bore Vukumirovica"
+	},
+	{
+		"lokacija" : "Lesnovska"
+	},
+	{
+		"lokacija" : "Slogina"
+	},
+	{
+		"lokacija" : "Bore Vukomirovica"
+	},
+	{
+		"lokacija" : "Drgagoslava Srejovica"
+	},
+	{
+		"lokacija" : "Bele Bartoka"
+	},
+	{
+		"lokacija" : "Severina Bijelica"
+	},
+	{
+		"lokacija" : "Sonje Marinkovic"
+	},
+	{
+		"lokacija" : "Drinske Divizije"
+	},
+	{
+		"lokacija" : "Kosovopoljska"
+	},
+	{
+		"lokacija" : "Save Malesevica"
+	},
+	{
+		"lokacija" : "Dragovicka"
+	},
+	{
+		"lokacija" : "Milana Ajvaza"
+	},
+	{
+		"lokacija" : "Vojislava Ivetica"
+	},
+	{
+		"lokacija" : "Licka"
+	},
+	{
+		"lokacija" : "Jna"
+	},
+	{
+		"lokacija" : "Miladina Zarica"
+	},
+	{
+		"lokacija" : "Moravske Divizije"
+	},
+	{
+		"lokacija" : "Mite Stajica"
+	},
+	{
+		"lokacija" : "Karinska"
+	},
+	{
+		"lokacija" : "Ljube Nenadovica"
+	},
+	{
+		"lokacija" : "Ivana Milutinovica"
+	},
+	{
+		"lokacija" : "Dusana Maksina"
+	},
+	{
+		"lokacija" : "Borca Iv I V"
+	},
+	{
+		"lokacija" : "Privrednikovih Pitomaca"
+	},
+	{
+		"lokacija" : "Kikindska"
+	},
+	{
+		"lokacija" : "Milana Toplice"
+	},
+	{
+		"lokacija" : "Gavrila Mijakica"
+	},
+	{
+		"lokacija" : "Metalska"
+	},
+	{
+		"lokacija" : "Jastrebacka "
+	},
+	{
+		"lokacija" : "Besni Fok 41"
+	},
+	{
+		"lokacija" : "Sutjeska Ulica 1"
+	},
+	{
+		"lokacija" : "Boska Buhe"
+	},
+	{
+		"lokacija" : "Bitke Na Neretvi"
+	},
+	{
+		"lokacija" : "Partizanski Blok Ulica 2"
+	},
+	{
+		"lokacija" : "Partizanski Blok Ulica1"
+	},
+	{
+		"lokacija" : "Grge Andrijanovica 2. Deo"
+	},
+	{
+		"lokacija" : "Slavka Kolara"
+	},
+	{
+		"lokacija" : "Sator Planine"
+	},
+	{
+		"lokacija" : "Postojnska"
+	},
+	{
+		"lokacija" : "Kalovita"
+	},
+	{
+		"lokacija" : "Peke Tepavcevica"
+	},
+	{
+		"lokacija" : "Teodora Cesljara"
+	},
+	{
+		"lokacija" : "Zivinarska Farma Siroka Greda"
+	},
+	{
+		"lokacija" : "Peka Tepavcevica"
+	},
+	{
+		"lokacija" : "Jovice Vasiljevica"
+	},
+	{
+		"lokacija" : "Partizanski Blok"
+	},
+	{
+		"lokacija" : "Sutjeska Ulica 1."
+	},
+	{
+		"lokacija" : "Koste Josipovica"
+	},
+	{
+		"lokacija" : "Bruska"
+	},
+	{
+		"lokacija" : "Grge Andrijanovica Ulica 6."
+	},
+	{
+		"lokacija" : "Hrvatska"
+	},
+	{
+		"lokacija" : "Sutjeska Ulica 7"
+	},
+	{
+		"lokacija" : "Sutjeska 2"
+	},
+	{
+		"lokacija" : "Sutjeska Ulica 1. Br. 1 U"
+	},
+	{
+		"lokacija" : "Dr Dragise Misovica"
+	},
+	{
+		"lokacija" : "Konjuh Planine"
+	},
+	{
+		"lokacija" : "Ljevoska"
+	},
+	{
+		"lokacija" : "Meda Pucica"
+	},
+	{
+		"lokacija" : "Tjentiste"
+	},
+	{
+		"lokacija" : "Anke Matic"
+	},
+	{
+		"lokacija" : "Olge Jovicic"
+	},
+	{
+		"lokacija" : "Milana Zecara"
+	},
+	{
+		"lokacija" : "Glinskih Zrtava 1941"
+	},
+	{
+		"lokacija" : "Save Kovacevica Ulica 1."
+	},
+	{
+		"lokacija" : "Grge Andrijanivica"
+	},
+	{
+		"lokacija" : "Janka Katica"
+	},
+	{
+		"lokacija" : "Glogonjski Rit"
+	},
+	{
+		"lokacija" : "Vrbovski"
+	},
+	{
+		"lokacija" : "Grge Andrijanovica Ulica 7."
+	},
+	{
+		"lokacija" : "Dejana S!Iljkovica"
+	},
+	{
+		"lokacija" : "Jabucki Rit "
+	},
+	{
+		"lokacija" : "Vrbovsko"
+	},
+	{
+		"lokacija" : "Toviliste"
+	},
+	{
+		"lokacija" : "Vrbovski "
+	},
+	{
+		"lokacija" : "Mihajla Vujica"
+	},
+	{
+		"lokacija" : "Besni Fok"
+	},
+	{
+		"lokacija" : "Borca Greda"
+	},
+	{
+		"lokacija" : "Popovacka"
+	},
+	{
+		"lokacija" : " Drinciceva"
+	},
+	{
+		"lokacija" : "Safarikova "
+	},
+	{
+		"lokacija" : "Atelje 212"
+	},
+	{
+		"lokacija" : "Visikog Stevana"
+	},
+	{
+		"lokacija" : "Ciglarska"
+	},
+	{
+		"lokacija" : "Srebrenicka"
+	},
+	{
+		"lokacija" : "Vasina"
+	},
+	{
+		"lokacija" : "Ljubicica"
+	},
+	{
+		"lokacija" : "8. Marta"
+	},
+	{
+		"lokacija" : "Ivana Gorana Kovacica"
+	},
+	{
+		"lokacija" : "Darinke Radovic"
+	},
+	{
+		"lokacija" : "Radnih Akcija"
+	},
+	{
+		"lokacija" : "Gospicka"
+	},
+	{
+		"lokacija" : "Stanislava Sremcevica"
+	},
+	{
+		"lokacija" : "Svetomira Nikolajevica"
+	},
+	{
+		"lokacija" : "Milosa Savkovica"
+	},
+	{
+		"lokacija" : "Radojke Lakic"
+	},
+	{
+		"lokacija" : "Batutova"
+	},
+	{
+		"lokacija" : "Oliverina"
+	},
+	{
+		"lokacija" : "Prespanska"
+	},
+	{
+		"lokacija" : "Jovana Cirilova "
+	},
+	{
+		"lokacija" : "Zahunska"
+	},
+	{
+		"lokacija" : "Onisima Popovica"
+	},
+	{
+		"lokacija" : "Dragise Lapcevica"
+	},
+	{
+		"lokacija" : "Ledinacka"
+	},
+	{
+		"lokacija" : "Majke Angeline"
+	},
+	{
+		"lokacija" : "Jelene Mioc"
+	},
+	{
+		"lokacija" : "Kovaceva"
+	},
+	{
+		"lokacija" : "Paje Jovanovica "
+	},
+	{
+		"lokacija" : "Miodraga Protica  (Sejkina)"
+	},
+	{
+		"lokacija" : "Karla Lukaca"
+	},
+	{
+		"lokacija" : "Carobne Frule"
+	},
+	{
+		"lokacija" : "Terzija"
+	},
+	{
+		"lokacija" : "Ulofa Palmea"
+	},
+	{
+		"lokacija" : "Kapetana Milosa Zunjica "
+	},
+	{
+		"lokacija" : "Vtezovi Karadordeve Zvezde"
+	},
+	{
+		"lokacija" : "Mirijevski Bulevar/Sejkina"
+	},
+	{
+		"lokacija" : "Glamocka"
+	},
+	{
+		"lokacija" : "Rudi Cajaveca"
+	},
+	{
+		"lokacija" : "Olge Alkalaj"
+	},
+	{
+		"lokacija" : "Marije Crnobori"
+	},
+	{
+		"lokacija" : "Ljube Tadica (Zagradje)"
+	},
+	{
+		"lokacija" : "Petra Kralja"
+	},
+	{
+		"lokacija" : "Viteza Karadjordjeve Zvezde"
+	},
+	{
+		"lokacija" : "Klanicka Stara"
+	},
+	{
+		"lokacija" : "Jelisavete Andrejevic"
+	},
+	{
+		"lokacija" : "Danilova"
+	},
+	{
+		"lokacija" : "Milica Od Macve"
+	},
+	{
+		"lokacija" : "Miodraga Protica"
+	},
+	{
+		"lokacija" : "Djordja Pavlovica"
+	},
+	{
+		"lokacija" : "Vlastimira Djuze Stojiljkovica"
+	},
+	{
+		"lokacija" : "Sevarice"
+	},
+	{
+		"lokacija" : "Rase Plaovica"
+	},
+	{
+		"lokacija" : "15. Februara"
+	},
+	{
+		"lokacija" : "Petrarkina"
+	},
+	{
+		"lokacija" : "16. Oktobra"
+	},
+	{
+		"lokacija" : "Vlastimira Djuze Stojiljkovic"
+	},
+	{
+		"lokacija" : "Miroslava Jovanovica"
+	},
+	{
+		"lokacija" : "Samjuela Beketa"
+	},
+	{
+		"lokacija" : "Vitezovi Karadjordjeve Zvezde"
+	},
+	{
+		"lokacija" : "Dr Velimirovica"
+	},
+	{
+		"lokacija" : "Steve Vargasa"
+	},
+	{
+		"lokacija" : "Dolacka"
+	},
+	{
+		"lokacija" : "Zikina"
+	},
+	{
+		"lokacija" : "Ignjata Stanimirovica"
+	},
+	{
+		"lokacija" : "Predraga Tomica"
+	},
+	{
+		"lokacija" : "Vizantijska"
+	},
+	{
+		"lokacija" : "Vladimira Dvornikovica"
+	},
+	{
+		"lokacija" : "Ristin Potok"
+	},
+	{
+		"lokacija" : "Koste Nadja"
+	},
+	{
+		"lokacija" : "Milana Gligorijevica 1. Prilaz"
+	},
+	{
+		"lokacija" : "Srdjana Knezevica"
+	},
+	{
+		"lokacija" : "Generala Bozidara Jankovica"
+	},
+	{
+		"lokacija" : "Radoslava Boksica"
+	},
+	{
+		"lokacija" : "Padina"
+	},
+	{
+		"lokacija" : "Ariljska"
+	},
+	{
+		"lokacija" : "Lazara Trifunovica"
+	},
+	{
+		"lokacija" : "Ljube Tadica"
+	},
+	{
+		"lokacija" : "Rudjera Boskovica"
+	},
+	{
+		"lokacija" : "Madridska"
+	},
+	{
+		"lokacija" : "Radivoja Markovica"
+	},
+	{
+		"lokacija" : "Semjuela Beketa"
+	},
+	{
+		"lokacija" : "Nade Puric"
+	},
+	{
+		"lokacija" : "Milivoja Perovica"
+	},
+	{
+		"lokacija" : "Focanska"
+	},
+	{
+		"lokacija" : "Zorana Radmilovica"
+	},
+	{
+		"lokacija" : "Vojina Djurasinovica-Kostje"
+	},
+	{
+		"lokacija" : "16 Oktobar"
+	},
+	{
+		"lokacija" : "Virpazarska"
+	},
+	{
+		"lokacija" : "Duvanjska"
+	},
+	{
+		"lokacija" : "Z Davidovica"
+	},
+	{
+		"lokacija" : " Ariljska"
+	},
+	{
+		"lokacija" : "Ruzice Sokic"
+	},
+	{
+		"lokacija" : "Grge Jankesa"
+	},
+	{
+		"lokacija" : "Davorina Jenka 65M2+12M2"
+	},
+	{
+		"lokacija" : "Ksenije Atanasijevic"
+	},
+	{
+		"lokacija" : "Mis Irbijeva"
+	},
+	{
+		"lokacija" : "Deset Avijaticara"
+	},
+	{
+		"lokacija" : "Dr Zore Ilic Obradovic"
+	},
+	{
+		"lokacija" : "Marka Todorovica"
+	},
+	{
+		"lokacija" : "Vitezovi Karadordeve Zvezde"
+	},
+	{
+		"lokacija" : "Vitezovi Karadjordeve Zvezde"
+	},
+	{
+		"lokacija" : "Knjazevacka"
+	},
+	{
+		"lokacija" : "Mileta Jaksica"
+	},
+	{
+		"lokacija" : "Kamenorezacka"
+	},
+	{
+		"lokacija" : "Vojina Djurasinovica Kostje"
+	},
+	{
+		"lokacija" : " Presevska"
+	},
+	{
+		"lokacija" : "Koste Hakmana"
+	},
+	{
+		"lokacija" : "Generala Zaha"
+	},
+	{
+		"lokacija" : "Save Kovacevic"
+	},
+	{
+		"lokacija" : "16. Oktobar"
+	},
+	{
+		"lokacija" : "Plejvaljska"
+	},
+	{
+		"lokacija" : "Velikomoravska"
+	},
+	{
+		"lokacija" : "Sare Bernar"
+	},
+	{
+		"lokacija" : "Zelengorska"
+	},
+	{
+		"lokacija" : "Porodice Tanic"
+	},
+	{
+		"lokacija" : "Goricka (Sremcica)"
+	},
+	{
+		"lokacija" : "Porodice Milosevic"
+	},
+	{
+		"lokacija" : "Brsjacka"
+	},
+	{
+		"lokacija" : "Djordja Stojkovica"
+	},
+	{
+		"lokacija" : "Stjepana Supanca"
+	},
+	{
+		"lokacija" : "Belopalanacka"
+	},
+	{
+		"lokacija" : "Udarnih Brigada"
+	},
+	{
+		"lokacija" : "Milana Jovanovica"
+	},
+	{
+		"lokacija" : "Kalnicka"
+	},
+	{
+		"lokacija" : "Rimska"
+	},
+	{
+		"lokacija" : "Vojvode Djurovica"
+	},
+	{
+		"lokacija" : "Splitska"
+	},
+	{
+		"lokacija" : "Esad Pasina"
+	},
+	{
+		"lokacija" : "Ignjata Joba"
+	},
+	{
+		"lokacija" : "Ljube Nedica"
+	},
+	{
+		"lokacija" : "Leskovacka"
+	},
+	{
+		"lokacija" : "Emanuila Jankovica"
+	},
+	{
+		"lokacija" : "Sundeciceva"
+	},
+	{
+		"lokacija" : "Medakoviceva 77"
+	},
+	{
+		"lokacija" : "Finzgarova"
+	},
+	{
+		"lokacija" : "Tvrtka Velikog"
+	},
+	{
+		"lokacija" : "Nikole Besevica"
+	},
+	{
+		"lokacija" : "Mickijeviceva"
+	},
+	{
+		"lokacija" : "Mitrovo Brdo"
+	},
+	{
+		"lokacija" : "Skendera Kulenovica"
+	},
+	{
+		"lokacija" : "Bulevar Peka Dapcevica (Okolina)"
+	},
+	{
+		"lokacija" : "Kolonija"
+	},
+	{
+		"lokacija" : "Marije Mircetic"
+	},
+	{
+		"lokacija" : "Radomira Markovica"
+	},
+	{
+		"lokacija" : "Jakova Galusa"
+	},
+	{
+		"lokacija" : "Zlatka Snajdera"
+	},
+	{
+		"lokacija" : "Nenada Parente"
+	},
+	{
+		"lokacija" : "Zmaja Ognjenog Vuka"
+	},
+	{
+		"lokacija" : "Bul.Jna"
+	},
+	{
+		"lokacija" : "Zorice Bozovic"
+	},
+	{
+		"lokacija" : "Avalskog Venca"
+	},
+	{
+		"lokacija" : "Dr Nenada Parente"
+	},
+	{
+		"lokacija" : "Kukuruzova"
+	},
+	{
+		"lokacija" : "Dobrivoja Isailovica 12"
+	},
+	{
+		"lokacija" : "Paunov Breg"
+	},
+	{
+		"lokacija" : "Bul. Oslobodjenja"
+	},
+	{
+		"lokacija" : "Potok"
+	},
+	{
+		"lokacija" : "Srednja"
+	},
+	{
+		"lokacija" : "Listopadna"
+	},
+	{
+		"lokacija" : "Ljubicice"
+	},
+	{
+		"lokacija" : "Bulevar Peka Dapcevica"
+	},
+	{
+		"lokacija" : "Bulevar Peke Dapcevic"
+	},
+	{
+		"lokacija" : "Nikole Nikolica"
+	},
+	{
+		"lokacija" : "Decembarska"
+	},
+	{
+		"lokacija" : "Milorada Miskovica"
+	},
+	{
+		"lokacija" : "Mirca Aceva"
+	},
+	{
+		"lokacija" : "Rade Vranjesevic"
+	},
+	{
+		"lokacija" : "Jovana Bjelica"
+	},
+	{
+		"lokacija" : "Vladimira Mitrovica"
+	},
+	{
+		"lokacija" : "Darvinova"
+	},
+	{
+		"lokacija" : "Tc Stadion"
+	},
+	{
+		"lokacija" : "Milosa Svetica"
+	},
+	{
+		"lokacija" : "Kod Zaplanjske"
+	},
+	{
+		"lokacija" : "Druge Srpske Armije"
+	},
+	{
+		"lokacija" : "Donji Vozdovac"
+	},
+	{
+		"lokacija" : "Novakova"
+	},
+	{
+		"lokacija" : "Vojislava  Ilica"
+	},
+	{
+		"lokacija" : "Ljube Sercera"
+	},
+	{
+		"lokacija" : "Zvecanskka"
+	},
+	{
+		"lokacija" : "Davida Pajica"
+	},
+	{
+		"lokacija" : "Stevana Ilica"
+	},
+	{
+		"lokacija" : "Belicka"
+	},
+	{
+		"lokacija" : "Miska Jovanovica"
+	},
+	{
+		"lokacija" : "Ibarska"
+	},
+	{
+		"lokacija" : "Moravicka"
+	},
+	{
+		"lokacija" : "Cankareva"
+	},
+	{
+		"lokacija" : "Dragacevska"
+	},
+	{
+		"lokacija" : "Belimarkoviceva"
+	},
+	{
+		"lokacija" : "Sundaciceva"
+	},
+	{
+		"lokacija" : " Vidska"
+	},
+	{
+		"lokacija" : "Veselina Maslese "
+	},
+	{
+		"lokacija" : "Kralja Bodina"
+	},
+	{
+		"lokacija" : "Ljube Nedica "
+	},
+	{
+		"lokacija" : "Borivoja Stevanovica"
+	},
+	{
+		"lokacija" : "Gostivarska "
+	},
+	{
+		"lokacija" : "Morinjska"
+	},
+	{
+		"lokacija" : "Jove Ilica "
+	},
+	{
+		"lokacija" : "Sicevacka"
+	},
+	{
+		"lokacija" : "Vojvode Steoe"
+	},
+	{
+		"lokacija" : "Milana Raspopovica"
+	},
+	{
+		"lokacija" : "Timocke Divizije"
+	},
+	{
+		"lokacija" : "Generala Vladimira Kondica "
+	},
+	{
+		"lokacija" : "Kaplara Momcila Gavrica"
+	},
+	{
+		"lokacija" : "Teodosijeva"
+	},
+	{
+		"lokacija" : "Makis"
+	},
+	{
+		"lokacija" : "Paunova 82"
+	},
+	{
+		"lokacija" : "Svete Milutinovica 22"
+	},
+	{
+		"lokacija" : "Sava Centar"
+	},
+	{
+		"lokacija" : "Bul. Mihajla Pupina"
+	},
+	{
+		"lokacija" : "Milutina Milankovca"
+	},
+	{
+		"lokacija" : "Srdjana Aleksica"
+	},
+	{
+		"lokacija" : "Pariske Komune "
+	},
+	{
+		"lokacija" : "Vidikovac-Kod Panorame"
+	},
+	{
+		"lokacija" : "Viktora Novaka"
+	},
+	{
+		"lokacija" : "Danice Kojic"
+	},
+	{
+		"lokacija" : "Pohorska"
+	},
+	{
+		"lokacija" : "Timocka"
+	},
+	{
+		"lokacija" : "Vojvode Dragomira"
+	},
+	{
+		"lokacija" : "Petra Jovovica"
+	},
+	{
+		"lokacija" : "Kapetana Radica Petrovica"
+	},
+	{
+		"lokacija" : "Sava Burica"
+	},
+	{
+		"lokacija" : "Mozerova"
+	},
+	{
+		"lokacija" : "Marka Nikolica"
+	},
+	{
+		"lokacija" : "Marka Milanovica"
+	},
+	{
+		"lokacija" : "Ugrinovacki Put 25. Deo"
+	},
+	{
+		"lokacija" : "Aleksandra Petrovica"
+	},
+	{
+		"lokacija" : "Laze Jovanovica Porcija"
+	},
+	{
+		"lokacija" : "Nova Galenika"
+	},
+	{
+		"lokacija" : "Ugrinovacki Put 26. Deo"
+	},
+	{
+		"lokacija" : "Konstantina Jovanovica"
+	},
+	{
+		"lokacija" : "Milenka Verkica"
+	},
+	{
+		"lokacija" : "Ugrinovacki Put 32. Deo"
+	},
+	{
+		"lokacija" : "Ugrinovacki Put 32 Deo"
+	},
+	{
+		"lokacija" : "Jovana Stojsavljevica"
+	},
+	{
+		"lokacija" : "Svetozara Papica"
+	},
+	{
+		"lokacija" : "Dr. Petra Markovica"
+	},
+	{
+		"lokacija" : "Vere Dimitrijevic"
+	},
+	{
+		"lokacija" : "Milice Suvakovic"
+	},
+	{
+		"lokacija" : "Jovana Stojisavljevica"
+	},
+	{
+		"lokacija" : "Pogranicne Cete"
+	},
+	{
+		"lokacija" : "Skopljanska"
+	},
+	{
+		"lokacija" : "Gospodska"
+	},
+	{
+		"lokacija" : "Preka"
+	},
+	{
+		"lokacija" : "22.Oktobra"
+	},
+	{
+		"lokacija" : "Laze Jovanovica-Porcija"
+	},
+	{
+		"lokacija" : "Masarikov Trg"
+	},
+	{
+		"lokacija" : "Mornarska"
+	},
+	{
+		"lokacija" : "Ostoje Zivkovica"
+	},
+	{
+		"lokacija" : "Ugrinovacki Put 19. Deo"
+	},
+	{
+		"lokacija" : "Jasmine Jovanovic"
+	},
+	{
+		"lokacija" : "Jovana Raskovica"
+	},
+	{
+		"lokacija" : "Slavise Vajnera"
+	},
+	{
+		"lokacija" : "Sremskih Boraca"
+	},
+	{
+		"lokacija" : "Blagoja Jovovica"
+	},
+	{
+		"lokacija" : "Episkopa Nikolaja"
+	},
+	{
+		"lokacija" : "Burgerovih"
+	},
+	{
+		"lokacija" : "Partizanskih Ucitelja"
+	},
+	{
+		"lokacija" : "Vijetnamska"
+	},
+	{
+		"lokacija" : "Ugrinovacki Put  Deo"
+	},
+	{
+		"lokacija" : "Brace Micic"
+	},
+	{
+		"lokacija" : "Tomice Popovica"
+	},
+	{
+		"lokacija" : "Banijicka"
+	},
+	{
+		"lokacija" : "Ugrinovacki Put 32.Deo"
+	},
+	{
+		"lokacija" : "Gordane Kosanovic"
+	},
+	{
+		"lokacija" : "Slobodana Glumca"
+	},
+	{
+		"lokacija" : "Emila Zatopeka "
+	},
+	{
+		"lokacija" : "Ugrinovacki Put 27. Deo"
+	},
+	{
+		"lokacija" : "Zivojina Culuma"
+	},
+	{
+		"lokacija" : "Zeleznicka Kolonija Zemun"
+	},
+	{
+		"lokacija" : "Pere Kosorica"
+	},
+	{
+		"lokacija" : "Jovana Miodragovica"
+	},
+	{
+		"lokacija" : "Elija Fincija 20"
+	},
+	{
+		"lokacija" : "Andrije Habusa 1/4 (56+50M2)"
+	},
+	{
+		"lokacija" : "Dusana Madjarcica Korcagina"
+	},
+	{
+		"lokacija" : "Franje Krca"
+	},
+	{
+		"lokacija" : "Olge Petrov"
+	},
+	{
+		"lokacija" : "Bertranda Rasela"
+	},
+	{
+		"lokacija" : "Djordja Pantelica"
+	},
+	{
+		"lokacija" : "Kod Save Kovacevic"
+	},
+	{
+		"lokacija" : "Zemun-Save Kovacevica"
+	},
+	{
+		"lokacija" : "Magistratski Trg"
+	},
+	{
+		"lokacija" : "Zivka Petrovica"
+	},
+	{
+		"lokacija" : "Strosmajerova"
+	},
+	{
+		"lokacija" : "Miroslava Tirsa"
+	},
+	{
+		"lokacija" : "Laze Jovanovica"
+	},
+	{
+		"lokacija" : "Tedora Hercla"
+	},
+	{
+		"lokacija" : "Jovana Subotica"
+	},
+	{
+		"lokacija" : "Milosa Bandica"
+	},
+	{
+		"lokacija" : "Ugrinovacki Put 27.Deo"
+	},
+	{
+		"lokacija" : "Dvadeset Drugog Oktobra"
+	},
+	{
+		"lokacija" : "Milana Stepanovica Matroza"
+	},
+	{
+		"lokacija" : "Djordja Cutukovica"
+	},
+	{
+		"lokacija" : "Borcanska"
+	},
+	{
+		"lokacija" : "Karamatina"
+	},
+	{
+		"lokacija" : "Martina Lutera Kinga"
+	},
+	{
+		"lokacija" : "Dobrovoljacka"
+	},
+	{
+		"lokacija" : "Davidoviceva"
+	},
+	{
+		"lokacija" : "Djure Gajica"
+	},
+	{
+		"lokacija" : "Bertranda Rasela "
+	},
+	{
+		"lokacija" : "Musickog"
+	},
+	{
+		"lokacija" : "Kosmajskog Odreda"
+	},
+	{
+		"lokacija" : "Kralja Petra I"
+	},
+	{
+		"lokacija" : "Kralja Petra Prvog "
+	},
+	{
+		"lokacija" : "Tozino Voce"
+	},
+	{
+		"lokacija" : "Kralja Petra I "
+	},
+	{
+		"lokacija" : "Nikolaja Berdjajeva"
+	},
+	{
+		"lokacija" : "Bukovacka"
+	},
+	{
+		"lokacija" : "Mihaila Bogicevica"
+	},
+	{
+		"lokacija" : "Doktora Aleksandra Kostica"
+	},
+	{
+		"lokacija" : "Gavrila Principa "
+	},
+	{
+		"lokacija" : "Rudnicka"
+	},
+	{
+		"lokacija" : " Nebojsina"
+	},
+	{
+		"lokacija" : "Lazara Socice"
+	},
+	{
+		"lokacija" : "Bulevar Vojvode Misica"
+	},
+	{
+		"lokacija" : "Kursumlijska"
+	},
+	{
+		"lokacija" : "Palackova"
+	},
+	{
+		"lokacija" : "Aleksandra Stamboliskog"
+	},
+	{
+		"lokacija" : "Mihajla Avramovica"
+	},
+	{
+		"lokacija" : "Milana Tepica"
+	},
+	{
+		"lokacija" : "Dr. Vojislava Stojanovica"
+	},
+	{
+		"lokacija" : "Djordja Radojlovica"
+	},
+	{
+		"lokacija" : "Kod Serdar Jola"
+	},
+	{
+		"lokacija" : "Astana"
+	},
+	{
+		"lokacija" : "Kod Sime Lozanica"
+	},
+	{
+		"lokacija" : "Baja Pivljanina"
+	},
+	{
+		"lokacija" : "Mihajla Avramovica "
+	},
+	{
+		"lokacija" : "Ovcarska"
+	},
+	{
+		"lokacija" : "Koste Glavinica"
+	},
+	{
+		"lokacija" : "Valtazara Bogisica"
+	},
+	{
+		"lokacija" : "Kraljevic Marka"
+	},
+	{
+		"lokacija" : "Hajduk Veljkov Venac"
+	},
+	{
+		"lokacija" : "Bul. Marsala Tolbuhina"
+	},
+	{
+		"lokacija" : "Adama Bogosavljevica"
+	},
+	{
+		"lokacija" : "Sterijina"
+	},
+	{
+		"lokacija" : "Beracka"
+	},
+	{
+		"lokacija" : "Aleksinackih Rudara "
+	},
+	{
+		"lokacija" : "Bulevar Nikoletesle"
+	},
+	{
+		"lokacija" : "Dr.Agostina Neta"
+	},
+	{
+		"lokacija" : "Bezanijski Blokovi"
+	},
+	{
+		"lokacija" : "Dr. Ivana Ribara"
+	},
+	{
+		"lokacija" : "Omaladinskih Brigada"
+	},
+	{
+		"lokacija" : "Dr. Agostina Neta"
+	},
+	{
+		"lokacija" : "Sole 1305"
+	},
+	{
+		"lokacija" : "Durmitorska Kod Tehnomanije"
+	},
+	{
+		"lokacija" : "Scala 1 103"
+	},
+	{
+		"lokacija" : "Scala 1 104"
+	},
+	{
+		"lokacija" : "Metropolitan B103"
+	},
+	{
+		"lokacija" : "Quartet A 104"
+	},
+	{
+		"lokacija" : "Bw Aqua 1207"
+	},
+	{
+		"lokacija" : "Belgrade Waterfront - Aria"
+	},
+	{
+		"lokacija" : "Quartet B 516"
+	},
+	{
+		"lokacija" : "Quartet A 501"
+	},
+	{
+		"lokacija" : "Quartet A 602"
+	},
+	{
+		"lokacija" : "Aurora 1105"
+	},
+	{
+		"lokacija" : "Aurora 2005"
+	},
+	{
+		"lokacija" : "Aurora 1805"
+	},
+	{
+		"lokacija" : "Aurora 1406"
+	},
+	{
+		"lokacija" : "Aria 606"
+	},
+	{
+		"lokacija" : "Terra 702"
+	},
+	{
+		"lokacija" : "Quartet 2 A 310"
+	},
+	{
+		"lokacija" : "Quartet A 115"
+	},
+	{
+		"lokacija" : "Quartet A 101"
+	},
+	{
+		"lokacija" : "Terra 1302"
+	},
+	{
+		"lokacija" : "Quartet 2 A 511"
+	},
+	{
+		"lokacija" : "Verde 108"
+	},
+	{
+		"lokacija" : "Libera 312"
+	},
+	{
+		"lokacija" : "Terraces"
+	},
+	{
+		"lokacija" : "Hercegovacka (Vista)"
+	},
+	{
+		"lokacija" : "Libera 501"
+	},
+	{
+		"lokacija" : "Scala"
+	},
+	{
+		"lokacija" : "Bw Verde 1804"
+	},
+	{
+		"lokacija" : "Bw Verde 2205"
+	},
+	{
+		"lokacija" : "Quartet A 316"
+	},
+	{
+		"lokacija" : "Quartet A 202"
+	},
+	{
+		"lokacija" : "Metropolitan"
+	},
+	{
+		"lokacija" : "Sole 208"
+	},
+	{
+		"lokacija" : "Bw Verde 2004"
+	},
+	{
+		"lokacija" : "Aqua 2310"
+	},
+	{
+		"lokacija" : "Terraces 1301"
+	},
+	{
+		"lokacija" : "Aurora"
+	},
+	{
+		"lokacija" : "Aqua 2301"
+	},
+	{
+		"lokacija" : "Bw Aqua 2301"
+	},
+	{
+		"lokacija" : "Bw Aurora 103"
+	},
+	{
+		"lokacija" : "Bw Aurora 2301"
+	},
+	{
+		"lokacija" : "Bw Aqua 1801"
+	},
+	{
+		"lokacija" : "Bw Aqua 1401"
+	},
+	{
+		"lokacija" : "Vudroa Vilsona"
+	},
+	{
+		"lokacija" : "Simfonija 1"
+	},
+	{
+		"lokacija" : "Verde"
+	},
+	{
+		"lokacija" : "St. Regis"
+	},
+	{
+		"lokacija" : "Kula 3204"
+	},
+	{
+		"lokacija" : "Kula 2904"
+	},
+	{
+		"lokacija" : "Kula 3004"
+	},
+	{
+		"lokacija" : "Bw Arcadia"
+	},
+	{
+		"lokacija" : "Bw Aqua"
+	},
+	{
+		"lokacija" : "Aqua"
+	},
+	{
+		"lokacija" : "Kula 2505"
+	},
+	{
+		"lokacija" : "Simfonija 2"
+	},
+	{
+		"lokacija" : "Kula 3006"
+	},
+	{
+		"lokacija" : "Aurora 103"
+	},
+	{
+		"lokacija" : "Simfonija 2 307"
+	},
+	{
+		"lokacija" : "Simfonija 2 206"
+	},
+	{
+		"lokacija" : "Belgrade Waterfront - Simfonija 2"
+	},
+	{
+		"lokacija" : "Belgrade Waterfront - Aurora"
+	},
+	{
+		"lokacija" : "Quartet A 214"
+	},
+	{
+		"lokacija" : "Quartet A 408"
+	},
+	{
+		"lokacija" : "Quartet B 611"
+	},
+	{
+		"lokacija" : "Quartet A 505"
+	},
+	{
+		"lokacija" : "Verde 2205"
+	},
+	{
+		"lokacija" : "Verde 2005"
+	},
+	{
+		"lokacija" : "Verde 2204"
+	},
+	{
+		"lokacija" : "Bw Simfonija 2 - 105"
+	},
+	{
+		"lokacija" : "Bw Quartet1 - A612"
+	},
+	{
+		"lokacija" : "Bw Scala"
+	},
+	{
+		"lokacija" : "Bw Simfonija 2 - 404"
+	},
+	{
+		"lokacija" : "Simfonija 2 107"
+	},
+	{
+		"lokacija" : "Bw Quartet1 - B110"
+	},
+	{
+		"lokacija" : "Simfonija 2 105"
+	},
+	{
+		"lokacija" : "Simfonija 2 110"
+	},
+	{
+		"lokacija" : "Simfonija 2 404"
+	},
+	{
+		"lokacija" : "Quartet"
+	},
+	{
+		"lokacija" : "Belgrade Waterfront - Quartet"
+	},
+	{
+		"lokacija" : "Bw Kula"
+	},
+	{
+		"lokacija" : "Libera 209"
+	},
+	{
+		"lokacija" : "Verde 1804"
+	},
+	{
+		"lokacija" : "Simfonija 1406"
+	},
+	{
+		"lokacija" : "Bw Sole"
+	},
+	{
+		"lokacija" : "Libera 206"
+	},
+	{
+		"lokacija" : "Libera 210"
+	},
+	{
+		"lokacija" : "Simfonija 1106"
+	},
+	{
+		"lokacija" : "Simfonija 1306"
+	},
+	{
+		"lokacija" : "Simfonija 1206"
+	},
+	{
+		"lokacija" : "Bw Quartet1 - A408"
+	},
+	{
+		"lokacija" : "Aqua 2009"
+	},
+	{
+		"lokacija" : "Bw Quartet1 - A307"
+	},
+	{
+		"lokacija" : "Aqua 1409"
+	},
+	{
+		"lokacija" : "Aqua 1801"
+	},
+	{
+		"lokacija" : "Belgrade Waterfront - Libera"
+	},
+	{
+		"lokacija" : "Aqua 2101"
+	},
+	{
+		"lokacija" : "Aria"
+	},
+	{
+		"lokacija" : "Quartet A 613"
+	},
+	{
+		"lokacija" : "Quartet B 102"
+	},
+	{
+		"lokacija" : "Quartet B 606"
+	},
+	{
+		"lokacija" : "Quartet A 415"
+	},
+	{
+		"lokacija" : "Quartet 2 A 311"
+	},
+	{
+		"lokacija" : "Quartet 2 A 210"
+	},
+	{
+		"lokacija" : "Terra"
+	},
+	{
+		"lokacija" : "Aqua 502"
+	},
+	{
+		"lokacija" : "Belgrade Waterfront - Metropolitan"
+	},
+	{
+		"lokacija" : "Terraces 501"
+	},
+	{
+		"lokacija" : "Aqua 1903"
+	},
+	{
+		"lokacija" : "Arcadia 111"
+	},
+	{
+		"lokacija" : "Simfonija"
+	},
+	{
+		"lokacija" : "Kula 2807"
+	},
+	{
+		"lokacija" : "Aurora 2008"
+	},
+	{
+		"lokacija" : "Kula 3407"
+	},
+	{
+		"lokacija" : "Bw Quartet 1"
+	},
+	{
+		"lokacija" : "Terraces 1501"
+	},
+	{
+		"lokacija" : "Metropolitan A205"
+	},
+	{
+		"lokacija" : "Belgrade Waterfront - Arcadia"
+	},
+	{
+		"lokacija" : "Belgrade Waterfront - St.Regis"
+	},
+	{
+		"lokacija" : "Aurora 1608"
+	},
+	{
+		"lokacija" : "Aurora 1708"
+	},
+	{
+		"lokacija" : "Terraces 201"
+	},
+	{
+		"lokacija" : "Arcadia 2003"
+	},
+	{
+		"lokacija" : "Metropolitan A505"
+	},
+	{
+		"lokacija" : "Aurora 406"
+	},
+	{
+		"lokacija" : "Aurora 207"
+	},
+	{
+		"lokacija" : "Metropolitan A405"
+	},
+	{
+		"lokacija" : "Metropolitan A305"
+	},
+	{
+		"lokacija" : "Metropolitan A110"
+	},
+	{
+		"lokacija" : "Metropolitan A103"
+	},
+	{
+		"lokacija" : "Metropolitan A101"
+	},
+	{
+		"lokacija" : "Metropolitan A210"
+	},
+	{
+		"lokacija" : "Metropolitan B1602"
+	},
+	{
+		"lokacija" : "Verde 1206"
+	},
+	{
+		"lokacija" : "Kula 2510"
+	},
+	{
+		"lokacija" : "Metropolitan B602"
+	},
+	{
+		"lokacija" : "Kula 2507"
+	},
+	{
+		"lokacija" : "Kula 3207"
+	},
+	{
+		"lokacija" : "Terraces 801"
+	},
+	{
+		"lokacija" : "Belgrade Waterfront - Aqua"
+	},
+	{
+		"lokacija" : "Libera 607"
+	},
+	{
+		"lokacija" : "Libera 1008"
+	},
+	{
+		"lokacija" : "Libera 1303"
+	},
+	{
+		"lokacija" : "Libera 906"
+	},
+	{
+		"lokacija" : "Libera 1005"
+	},
+	{
+		"lokacija" : "Libera 1205"
+	},
+	{
+		"lokacija" : "Aria 1404"
+	},
+	{
+		"lokacija" : "Aria 1604"
+	},
+	{
+		"lokacija" : "Aria 206"
+	},
+	{
+		"lokacija" : "Quartet 2"
+	},
+	{
+		"lokacija" : "Metropolitan A1203"
+	},
+	{
+		"lokacija" : "Metropolitan B307"
+	},
+	{
+		"lokacija" : "Libera 208"
+	},
+	{
+		"lokacija" : "Beograd Na Vodi Savski Venac"
+	},
+	{
+		"lokacija" : "Admirla Geprata"
+	},
+	{
+		"lokacija" : "Nikolaja Kravcova"
+	},
+	{
+		"lokacija" : "Bw Arcadia 2003"
+	},
+	{
+		"lokacija" : "Aurora 1906"
+	},
+	{
+		"lokacija" : "Bw Arcadia 2309"
+	},
+	{
+		"lokacija" : "Kula 1405"
+	},
+	{
+		"lokacija" : "Belgrade Waterfront - Magnolia"
+	},
+	{
+		"lokacija" : "Kula 1401"
+	},
+	{
+		"lokacija" : "Belgrade Waterfront -  Aurora"
+	},
+	{
+		"lokacija" : "Kula 1402"
+	},
+	{
+		"lokacija" : "Kula 1406"
+	},
+	{
+		"lokacija" : "Kula 1604"
+	},
+	{
+		"lokacija" : "Aurora 1706"
+	},
+	{
+		"lokacija" : "Quartet B 414"
+	},
+	{
+		"lokacija" : "Terra 1001"
+	},
+	{
+		"lokacija" : "Bw Aurora 1105"
+	},
+	{
+		"lokacija" : "Aurora 1705"
+	},
+	{
+		"lokacija" : "Bw Aqua 1505"
+	},
+	{
+		"lokacija" : "Metropolitan A1501"
+	},
+	{
+		"lokacija" : "Bw Aqua 1507"
+	},
+	{
+		"lokacija" : "Bw Aurora 2306"
+	},
+	{
+		"lokacija" : "Sole"
+	},
+	{
+		"lokacija" : "Bw Aurora 2008"
+	},
+	{
+		"lokacija" : "Libera 710"
+	},
+	{
+		"lokacija" : "Libera 1204"
+	},
+	{
+		"lokacija" : "Libera 1004"
+	},
+	{
+		"lokacija" : "Libera 611"
+	},
+	{
+		"lokacija" : "Libera 510"
+	},
+	{
+		"lokacija" : "Libera 711"
+	},
+	{
+		"lokacija" : "Libera 1109"
+	},
+	{
+		"lokacija" : "Bw Terraces"
+	},
+	{
+		"lokacija" : "Libera 1402"
+	},
+	{
+		"lokacija" : "Bw Quartet1 - A115"
+	},
+	{
+		"lokacija" : "Bw Quartet1 - B610"
+	},
+	{
+		"lokacija" : "Bw Simfonija 1 - Duplex 1505"
+	},
+	{
+		"lokacija" : "Bw Simfonija 2 - 111"
+	},
+	{
+		"lokacija" : "Bw Simfonija 2 - 411"
+	},
+	{
+		"lokacija" : "Belgrade Waterfront - Terraces"
+	},
+	{
+		"lokacija" : "Bw Aqua 502"
+	},
+	{
+		"lokacija" : "Bw Terraces 1301"
+	},
+	{
+		"lokacija" : "Bw Aqua 203"
+	},
+	{
+		"lokacija" : "Bw Aqua 2209"
+	},
+	{
+		"lokacija" : "Bw Simfonija 2 - 1003"
+	},
+	{
+		"lokacija" : "Bw Terraces 201"
+	},
+	{
+		"lokacija" : "Bw Terraces 801"
+	},
+	{
+		"lokacija" : "Bw Aurora 606"
+	},
+	{
+		"lokacija" : "Metropolitan A1608"
+	},
+	{
+		"lokacija" : "Metropolitan A1304"
+	},
+	{
+		"lokacija" : "Bw Aurora 207"
+	},
+	{
+		"lokacija" : "Bw Aurora 1308"
+	},
+	{
+		"lokacija" : "Bw Aurora 710"
+	},
+	{
+		"lokacija" : "Bw Aurora 110"
+	},
+	{
+		"lokacija" : "Bw Aurora 406"
+	},
+	{
+		"lokacija" : "Bw Aurora 809"
+	},
+	{
+		"lokacija" : "Bw Arcadia 2109"
+	},
+	{
+		"lokacija" : "Bw Arcadia 111"
+	},
+	{
+		"lokacija" : "Bw Aqua 2008"
+	},
+	{
+		"lokacija" : "Bw Quartet1 - B117"
+	},
+	{
+		"lokacija" : "Libera 1403"
+	},
+	{
+		"lokacija" : "Bw Quartet1 - A211"
+	},
+	{
+		"lokacija" : "Bw Quartet2 - A201"
+	},
+	{
+		"lokacija" : "Bw Terra 702"
+	},
+	{
+		"lokacija" : "Bw Quartet1 - B509"
+	},
+	{
+		"lokacija" : "Libera 1305"
+	},
+	{
+		"lokacija" : "Bw Terra 603"
+	},
+	{
+		"lokacija" : "Bw Quartet2 - A511"
+	},
+	{
+		"lokacija" : "Bw Terra 106"
+	},
+	{
+		"lokacija" : "Bw Verde"
+	},
+	{
+		"lokacija" : "Bw Quartet1 - A310"
+	},
+	{
+		"lokacija" : "Quartet A 211"
+	},
+	{
+		"lokacija" : "Bw Quartet2 - A505"
+	},
+	{
+		"lokacija" : "Bw Quartet2 - A401"
+	},
+	{
+		"lokacija" : "Verde 1803"
+	},
+	{
+		"lokacija" : "Quartet 2 A 401"
+	},
+	{
+		"lokacija" : "Quartet B 208"
+	},
+	{
+		"lokacija" : "Bw Verde 109"
+	},
+	{
+		"lokacija" : "Sole 509"
+	},
+	{
+		"lokacija" : "Sole 215"
+	},
+	{
+		"lokacija" : "Sole 303"
+	},
+	{
+		"lokacija" : "Bw Verde 1902"
+	},
+	{
+		"lokacija" : "Bw Aria 908"
+	},
+	{
+		"lokacija" : "Sole 411"
+	},
+	{
+		"lokacija" : "Sole 710"
+	},
+	{
+		"lokacija" : "Bw Metropolitan"
+	},
+	{
+		"lokacija" : "Sole 1004"
+	},
+	{
+		"lokacija" : "Bw Verde 2002"
+	},
+	{
+		"lokacija" : "Sole 903"
+	},
+	{
+		"lokacija" : "Sole 1303"
+	},
+	{
+		"lokacija" : "Bw Aria 113"
+	},
+	{
+		"lokacija" : "Bw Aria 1005"
+	},
+	{
+		"lokacija" : "Bw Terraces 605"
+	},
+	{
+		"lokacija" : "Bw Verde 508"
+	},
+	{
+		"lokacija" : "Bw Simfonija 1 - 1001"
+	},
+	{
+		"lokacija" : "Bw Simfonija1 - 901"
+	},
+	{
+		"lokacija" : "Bw Terraces 405"
+	},
+	{
+		"lokacija" : "Bw Quartet1 - B414"
+	},
+	{
+		"lokacija" : "Bw Terra 1601"
+	},
+	{
+		"lokacija" : "Bw Simfonija 2 - 1504"
+	},
+	{
+		"lokacija" : "Bw Simfonija 1 - Duplex 1503"
+	},
+	{
+		"lokacija" : "Bw Simfonija 2 - 1205"
+	},
+	{
+		"lokacija" : "Bw Quartet1 - B615"
+	},
+	{
+		"lokacija" : "Bw Quartet1 - A104"
+	},
+	{
+		"lokacija" : "Bw Terra 1401"
+	},
+	{
+		"lokacija" : "Bw Terra 609"
+	},
+	{
+		"lokacija" : "Terra 609"
+	},
+	{
+		"lokacija" : "Aria 1609"
+	},
+	{
+		"lokacija" : "Simfonija 2 1305"
+	},
+	{
+		"lokacija" : "Aqua 1207"
+	},
+	{
+		"lokacija" : "Terraces 405"
+	},
+	{
+		"lokacija" : "Simfonija 2 1205"
+	},
+	{
+		"lokacija" : "Aqua 1507"
+	},
+	{
+		"lokacija" : "Libera"
+	},
+	{
+		"lokacija" : "Bw Aria 1009"
+	},
+	{
+		"lokacija" : "Bw Aria 1705"
+	},
+	{
+		"lokacija" : "Bw Aria 709"
+	},
+	{
+		"lokacija" : "Quartet B 615"
+	},
+	{
+		"lokacija" : "Bw Aria 1409"
+	},
+	{
+		"lokacija" : "Aria 701"
+	},
+	{
+		"lokacija" : "Aria 1001"
+	},
+	{
+		"lokacija" : "Bw Aria 1701"
+	},
+	{
+		"lokacija" : "Sole 513"
+	},
+	{
+		"lokacija" : "Sole 502"
+	},
+	{
+		"lokacija" : "Sole 512"
+	},
+	{
+		"lokacija" : "Bw Aria"
+	},
+	{
+		"lokacija" : "Scala 1 212"
+	},
+	{
+		"lokacija" : "Scala 1 209"
+	},
+	{
+		"lokacija" : "Scala 1 108"
+	},
+	{
+		"lokacija" : "Bw Quarter 2"
+	},
+	{
+		"lokacija" : "Bw Terra"
+	},
+	{
+		"lokacija" : "Bw W"
+	},
+	{
+		"lokacija" : "Bw Simfonija 1"
+	},
+	{
+		"lokacija" : "Aria 1707"
+	},
+	{
+		"lokacija" : "Aria 1804"
+	},
+	{
+		"lokacija" : "Sole 612"
+	},
+	{
+		"lokacija" : "Aria 1701"
+	},
+	{
+		"lokacija" : "Partizanske Avijacije "
+	},
+	{
+		"lokacija" : "Stanka Paunovica Veljka"
+	},
+	{
+		"lokacija" : "Generala Zdanova"
+	},
+	{
+		"lokacija" : "Bubanjska"
+	},
+	{
+		"lokacija" : "Solunskih Ratnika"
+	},
+	{
+		"lokacija" : "Jovana Cvijica"
+	},
+	{
+		"lokacija" : "Bulevar Revolucije"
+	},
+	{
+		"lokacija" : "Dusana Petrovica Saneta"
+	},
+	{
+		"lokacija" : "Loncarevo"
+	},
+	{
+		"lokacija" : "Dusana Petrovica - Saneta"
+	},
+	{
+		"lokacija" : "Sutjeska"
+	},
+	{
+		"lokacija" : "Zeljka Milivojevica"
+	},
+	{
+		"lokacija" : "Vucka Milicevica"
+	},
+	{
+		"lokacija" : "Aleksandra Ace Simovica"
+	},
+	{
+		"lokacija" : "Posavinskih Norvezana"
+	},
+	{
+		"lokacija" : "Bubanjska "
+	},
+	{
+		"lokacija" : "Ruzina"
+	},
+	{
+		"lokacija" : "Radisava Ignjatovica"
+	},
+	{
+		"lokacija" : "Livada"
+	},
+	{
+		"lokacija" : "Steps Stepanovica"
+	},
+	{
+		"lokacija" : "Malo Polje "
+	},
+	{
+		"lokacija" : "Zabranska"
+	},
+	{
+		"lokacija" : "Vinogradi"
+	},
+	{
+		"lokacija" : "Livade"
+	},
+	{
+		"lokacija" : "Rojkovac"
+	},
+	{
+		"lokacija" : "Generala Zgonjanina"
+	},
+	{
+		"lokacija" : "Petra Konjovica"
+	},
+	{
+		"lokacija" : "Slavoljuba Vuksanovica"
+	},
+	{
+		"lokacija" : "Nikole Dobrovica"
+	},
+	{
+		"lokacija" : "Kapablankina"
+	},
+	{
+		"lokacija" : "Danila Lekica-Spanca"
+	},
+	{
+		"lokacija" : "Majora Branka Vukosavljevica "
+	},
+	{
+		"lokacija" : "Bul. Arsenija Carnojevica"
+	},
+	{
+		"lokacija" : "Bul Arsenija Carnojevica"
+	},
+	{
+		"lokacija" : "Mome Stanojlovica"
+	},
+	{
+		"lokacija" : "Pilota Ratka Jovanovica"
+	},
+	{
+		"lokacija" : "Nikole Dobrovica "
+	},
+	{
+		"lokacija" : "Patrijarha Joanikija"
+	},
+	{
+		"lokacija" : "Pilota Mihajla Petrovica"
+	},
+	{
+		"lokacija" : "Blaza Popivode"
+	},
+	{
+		"lokacija" : "Bezanijska Kosa 2"
+	},
+	{
+		"lokacija" : "Katarine Holecev"
+	},
+	{
+		"lokacija" : "Marka Ristica"
+	},
+	{
+		"lokacija" : "Humski Put"
+	},
+	{
+		"lokacija" : "17 Oktobra"
+	},
+	{
+		"lokacija" : "11. Krajiske Divizije"
+	},
+	{
+		"lokacija" : "Mrakovicka"
+	},
+	{
+		"lokacija" : "Xi Krajiske Divizije"
+	},
+	{
+		"lokacija" : "Pavla Vujevica"
+	},
+	{
+		"lokacija" : "Jedanaeste Krajiske Divizije"
+	},
+	{
+		"lokacija" : "Serdar Janka Vukotica"
+	},
+	{
+		"lokacija" : "Djuje I Dragoljuba"
+	},
+	{
+		"lokacija" : "Serdara Janka Vukotica"
+	},
+	{
+		"lokacija" : "Bezanijska Kosa 3"
+	},
+	{
+		"lokacija" : "Prve Sumadijske Brigade"
+	},
+	{
+		"lokacija" : "Dragise Brasovana"
+	},
+	{
+		"lokacija" : "Ivana Micurina"
+	},
+	{
+		"lokacija" : "20. Oktobra"
+	},
+	{
+		"lokacija" : "Gaj"
+	},
+	{
+		"lokacija" : "Dvadesetog Oktobra"
+	},
+	{
+		"lokacija" : "20 Oktobra"
+	},
+	{
+		"lokacija" : "Cara  Lazara"
+	},
+	{
+		"lokacija" : "Srpskih Udarnih Brigada"
+	},
+	{
+		"lokacija" : "Sumatovacka "
+	},
+	{
+		"lokacija" : " Resavska"
+	},
+	{
+		"lokacija" : "Cuburski Park"
+	},
+	{
+		"lokacija" : "Kod Beogradskog Dramskog Pozorista"
+	},
+	{
+		"lokacija" : "Kod Milesevske "
+	},
+	{
+		"lokacija" : "Metohijska "
+	},
+	{
+		"lokacija" : "Kod Vojislava Ilica"
+	},
+	{
+		"lokacija" : "Bogdana Zerajica"
+	},
+	{
+		"lokacija" : "Stevana Opacica"
+	},
+	{
+		"lokacija" : "Dobrivoja Petkovica"
+	},
+	{
+		"lokacija" : "Mile Dimic "
+	},
+	{
+		"lokacija" : "Tunelska"
+	},
+	{
+		"lokacija" : "Velizara Stankovica"
+	},
+	{
+		"lokacija" : "Crnojevica"
+	},
+	{
+		"lokacija" : "Jankovic Stojana"
+	},
+	{
+		"lokacija" : "Milorada Draskovica"
+	},
+	{
+		"lokacija" : "Rakovicka"
+	},
+	{
+		"lokacija" : "Else Ignes"
+	},
+	{
+		"lokacija" : "Seste Licke"
+	},
+	{
+		"lokacija" : "Politova"
+	},
+	{
+		"lokacija" : "Mlatisumina"
+	},
+	{
+		"lokacija" : "Vele Nigrinove"
+	},
+	{
+		"lokacija" : "Tuzlanska"
+	},
+	{
+		"lokacija" : "Dimitrija Vucenova"
+	},
+	{
+		"lokacija" : "Petra Jovanovica"
+	},
+	{
+		"lokacija" : "Cernisevkog"
+	},
+	{
+		"lokacija" : "Anastasa Jovanovica"
+	},
+	{
+		"lokacija" : "Nove Nikolica"
+	},
+	{
+		"lokacija" : "Ritska"
+	},
+	{
+		"lokacija" : "Benkovacka"
+	},
+	{
+		"lokacija" : "Trg Zorana Djindjica"
+	},
+	{
+		"lokacija" : " Bulevar Arsenija Carnojevica"
+	},
+	{
+		"lokacija" : "Paviljoni"
+	},
+	{
+		"lokacija" : "Krunska "
+	},
+	{
+		"lokacija" : "Kralja Aleksandra Prvog"
+	},
+	{
+		"lokacija" : "Vojvode Putnika"
+	},
+	{
+		"lokacija" : "Vojvode Misic"
+	},
+	{
+		"lokacija" : "25.Maj"
+	},
+	{
+		"lokacija" : "Svetosavska Centar"
+	},
+	{
+		"lokacija" : "Mihaila Milovanovica "
+	},
+	{
+		"lokacija" : "Kralja Aleksandra Obrenovica"
+	},
+	{
+		"lokacija" : "Anastasa Jovanovica "
+	},
+	{
+		"lokacija" : "Vladimira Corovica "
+	},
+	{
+		"lokacija" : "Milakovacke Staze"
+	},
+	{
+		"lokacija" : "Mihaila Milovanovica"
+	},
+	{
+		"lokacija" : "Kralja Aleksandra Obrenovic"
+	},
+	{
+		"lokacija" : "Mihaila Milovanovic"
+	},
+	{
+		"lokacija" : "Elze Ignes"
+	},
+	{
+		"lokacija" : "Elze Ignis"
+	},
+	{
+		"lokacija" : "Dr. Andrejke"
+	},
+	{
+		"lokacija" : "Vucedolska"
+	},
+	{
+		"lokacija" : "Dobanovacki Put Ii Deo"
+	},
+	{
+		"lokacija" : "Vojvodjanskih Brigada"
+	},
+	{
+		"lokacija" : "Belegiska 3. Deo"
+	},
+	{
+		"lokacija" : "Bihacka"
+	},
+	{
+		"lokacija" : "Brace Savic"
+	},
+	{
+		"lokacija" : "Prvog Sremskog Odreda"
+	},
+	{
+		"lokacija" : "Mihaljevacka"
+	},
+	{
+		"lokacija" : "Ivana Senkovica"
+	},
+	{
+		"lokacija" : "Bojcinska"
+	},
+	{
+		"lokacija" : "Novaka Atanackovica"
+	},
+	{
+		"lokacija" : "Kneza Paskaca"
+	},
+	{
+		"lokacija" : "Majora Zorana Radosavljevica 73"
+	},
+	{
+		"lokacija" : "Ivana Delnegra Engleza"
+	},
+	{
+		"lokacija" : "Vasilija Rankovica Bace"
+	},
+	{
+		"lokacija" : "Pilotska"
+	},
+	{
+		"lokacija" : "Sevastokratora Branka"
+	},
+	{
+		"lokacija" : "Katarine Holcev"
+	},
+	{
+		"lokacija" : "Petra Velimirovica"
+	},
+	{
+		"lokacija" : "Kraljice Jelene"
+	},
+	{
+		"lokacija" : "Kakanjska"
+	},
+	{
+		"lokacija" : "Milutina Garasanina"
+	},
+	{
+		"lokacija" : "Snezane Hrepevnik"
+	},
+	{
+		"lokacija" : "Katarine Holcner"
+	},
+	{
+		"lokacija" : "Dr Selimira Djordjevica"
+	},
+	{
+		"lokacija" : "Romanijska"
+	},
+	{
+		"lokacija" : "Milana Uzelca "
+	},
+	{
+		"lokacija" : "Rembrantova"
+	},
+	{
+		"lokacija" : "Blok 60"
+	},
+	{
+		"lokacija" : "Pekarska"
+	},
+	{
+		"lokacija" : "Maglicka"
+	},
+	{
+		"lokacija" : "Vi Licke Divizije"
+	},
+	{
+		"lokacija" : "Nicifora Ninkovica "
+	},
+	{
+		"lokacija" : "Ulica 21 Knezevac"
+	},
+	{
+		"lokacija" : "Orlovica Pavla"
+	},
+	{
+		"lokacija" : "Kneginje Zorke/Svetog Save"
+	},
+	{
+		"lokacija" : "Kneginje  Zorke"
+	},
+	{
+		"lokacija" : "New Minel"
+	},
+	{
+		"lokacija" : "Beogradska "
+	},
+	{
+		"lokacija" : "Velimira Teodorovica"
+	},
+	{
+		"lokacija" : "Hadzi - Djerina"
+	},
+	{
+		"lokacija" : "Bjelanoviceva "
+	},
+	{
+		"lokacija" : "Istocni Vracar"
+	},
+	{
+		"lokacija" : "Kneza Od Semberije"
+	},
+	{
+		"lokacija" : "Brane Crncevica (Ohridska)"
+	},
+	{
+		"lokacija" : "Vojisalava Ilica"
+	},
+	{
+		"lokacija" : "Petrogradska"
+	},
+	{
+		"lokacija" : "Milorada Mitrovica"
+	},
+	{
+		"lokacija" : "Ljubostinjska"
+	},
+	{
+		"lokacija" : "Bw Libera"
+	},
+	{
+		"lokacija" : "Nebojsina "
+	},
+	{
+		"lokacija" : "Arsenija Carnojevica"
+	},
+	{
+		"lokacija" : "Sazanova"
+	},
+	{
+		"lokacija" : "Antifasticke Borbe"
+	},
+	{
+		"lokacija" : "Antifaisticke Borbe X"
+	},
+	{
+		"lokacija" : "Bulevar Dr. Zorana Djindjica"
+	},
+	{
+		"lokacija" : "Studenska"
+	},
+	{
+		"lokacija" : "Vojvode Bogdana "
+	},
+	{
+		"lokacija" : "Djevdjelijska "
+	},
+	{
+		"lokacija" : "Pekarksa"
+	},
+	{
+		"lokacija" : "Zvezdara Opstina"
+	},
+	{
+		"lokacija" : "Ilije Bosilja"
+	},
+	{
+		"lokacija" : "Blizu Kluza"
+	},
+	{
+		"lokacija" : "Mese Selimovica"
+	},
+	{
+		"lokacija" : "Zahumska "
+	},
+	{
+		"lokacija" : "Bul. Ars. Carnojevica"
+	},
+	{
+		"lokacija" : "Mine Vukomanovic"
+	},
+	{
+		"lokacija" : "Atanasija Pulje"
+	},
+	{
+		"lokacija" : "Magelanova"
+	},
+	{
+		"lokacija" : "Ismeta Mujazinovica"
+	},
+	{
+		"lokacija" : "Sime Igumanova "
+	},
+	{
+		"lokacija" : "Mome Kapora - Macvanska"
+	},
+	{
+		"lokacija" : "Blok 20 - Hajat"
+	},
+	{
+		"lokacija" : "Bul. Mihaila Pupina"
+	},
+	{
+		"lokacija" : "Sajmiste"
+	},
+	{
+		"lokacija" : "Blok 26"
+	},
+	{
+		"lokacija" : "Bulevar Crvene Armij"
+	},
+	{
+		"lokacija" : "Nikole Vujacica"
+	},
+	{
+		"lokacija" : "Obrada Radivojevica"
+	},
+	{
+		"lokacija" : "Dula Karaklajica"
+	},
+	{
+		"lokacija" : "Sase Filipovica"
+	},
+	{
+		"lokacija" : "Edvarda Griga"
+	},
+	{
+		"lokacija" : "Jelezovacka"
+	},
+	{
+		"lokacija" : "Blok 43"
+	},
+	{
+		"lokacija" : "Urosevacka"
+	},
+	{
+		"lokacija" : "Goli Breg"
+	},
+	{
+		"lokacija" : "Dr Acima Medovica"
+	},
+	{
+		"lokacija" : "Pere Erjaveca"
+	},
+	{
+		"lokacija" : "Belville"
+	},
+	{
+		"lokacija" : "Konstantina Lekica"
+	},
+	{
+		"lokacija" : "Tresnjin Cvet"
+	},
+	{
+		"lokacija" : "Trg Branka Radicevica"
+	},
+	{
+		"lokacija" : "Georgija Ostrogovskog"
+	},
+	{
+		"lokacija" : "Boze Baucala"
+	},
+	{
+		"lokacija" : "Odlicna Pozicija Gandijeva "
+	},
+	{
+		"lokacija" : "Gandijeva  Kod Skole"
+	},
+	{
+		"lokacija" : "Oslobodjenja I Deo"
+	},
+	{
+		"lokacija" : "Bulevar Arsenij Carnojevica"
+	},
+	{
+		"lokacija" : "Tosin Bunar Savada 3"
+	},
+	{
+		"lokacija" : "Milana Vujaklije"
+	},
+	{
+		"lokacija" : "Bulevar Kralja Aleksandra Kod Crkve Sv. Marka"
+	},
+	{
+		"lokacija" : "Andrije Habusa"
+	},
+	{
+		"lokacija" : "Dorjanska"
+	},
+	{
+		"lokacija" : "Cica Ilijina"
+	},
+	{
+		"lokacija" : "Cica-Ilijina"
+	},
+	{
+		"lokacija" : "Vovjode Bogdana"
+	},
+	{
+		"lokacija" : "Sabacka"
+	},
+	{
+		"lokacija" : "Djakovacka "
+	},
+	{
+		"lokacija" : " Djevdjelijska"
+	}
+]
