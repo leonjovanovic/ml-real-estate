@@ -5,8 +5,7 @@ Osobine:
 3 tip nekretnine (stan 0 ili kuća 1)
 4 tip ponude (prodaja 0 ili iznajmljivanje 1)
 5 lokacija1 - grad 
-6 lokacija2 - deo grada gde se lokacija nalazi
-
+6 lokacija2 - deo grada gde se lokacija nalazi 
 7 kvadratura nekretnine - Površina
 8 godina izgradnje - Godina izgradnje
 9 površina zemljišta (samo za kuće) - Plac
@@ -18,3 +17,7 @@ Osobine:
 15 podaci o parkingu (da/ne) - Parking
 16 da li ima lift u zgradi - Lift
 17 da li ima terasu/lođu/balkon - Infrastruktura regeks
+
+1 - DROP COLUMN ukupna_spratnost, broj_kupatila
+2 - parking if None -> 0
+3 - Videti za uknjizenost i tip_grejanja
