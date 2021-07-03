@@ -54,7 +54,6 @@ def train_main():
     # I Splitting data k-fold on train and test set
     k = HYPERPARAMETERS['outer_cv_fold']
     l = HYPERPARAMETERS['inner_cv_fold']
-    '''
     J_total = np.array([], dtype=np.int64).reshape(0, len(HYPERPARAMETERS['learning_rate']) * len(
         HYPERPARAMETERS['mini_batch_size']))
     for i in range(k):
@@ -99,9 +98,8 @@ def train_main():
         J_total = np.vstack([J_total, temp])
         print("Hyperparameter index for iteration " + str(J_total.shape[0]) + "/10 is " + str(temp.index(min(temp))))
     temp = list(np.mean(J_total, axis=0))
-    print(temp)
     print("Hyperparameter index is " + str(temp.index(min(temp))))
-    best_hparam_index = temp.index(min(temp))'''
+    # best_hparam_index = temp.index(min(temp))
     best_hparam_index = 14
     best_hyperparams = [HYPERPARAMETERS['learning_rate'][best_hparam_index // len(HYPERPARAMETERS['learning_rate'])],
                         HYPERPARAMETERS['mini_batch_size'][best_hparam_index % len(HYPERPARAMETERS['mini_batch_size'])]]
