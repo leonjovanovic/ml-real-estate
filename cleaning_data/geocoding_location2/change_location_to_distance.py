@@ -1,5 +1,6 @@
 import json
 from geopy.distance import geodesic
+#print(round(geodesic((44.77064370511346, 20.551312396301267), (44.8125449, 20.4612299)).km, 5))
 import mysql.connector
 
 cnx = mysql.connector.connect(user='root', password='root', host='127.0.0.1', database='ml_real_estate')

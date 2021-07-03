@@ -2460,16 +2460,6 @@
 		"cena" : 120000
 	},
 	{
-		"lokacija2" : 4.55358,
-		"kvadratura" : 31,
-		"sprat" : 0,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 1400
-	},
-	{
 		"lokacija2" : 8.33278,
 		"kvadratura" : 30,
 		"sprat" : 4,
@@ -2488,16 +2478,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 95000
-	},
-	{
-		"lokacija2" : 4.55358,
-		"kvadratura" : 66,
-		"sprat" : 0,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 1400
 	},
 	{
 		"lokacija2" : 2.93805,
@@ -3530,26 +3510,6 @@
 		"cena" : 33000
 	},
 	{
-		"lokacija2" : 6.89724,
-		"kvadratura" : 59,
-		"sprat" : 2,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1650
-	},
-	{
-		"lokacija2" : 6.89724,
-		"kvadratura" : 49,
-		"sprat" : 1,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2100
-	},
-	{
 		"lokacija2" : 2.06858,
 		"kvadratura" : 95,
 		"sprat" : 2,
@@ -3560,16 +3520,6 @@
 		"cena" : 228000
 	},
 	{
-		"lokacija2" : 2.70379,
-		"kvadratura" : 71,
-		"sprat" : 5,
-		"broj_soba" : 0,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1955
-	},
-	{
 		"lokacija2" : 2.06858,
 		"kvadratura" : 100,
 		"sprat" : 5,
@@ -3578,16 +3528,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 240000
-	},
-	{
-		"lokacija2" : 6.89724,
-		"kvadratura" : 94,
-		"sprat" : 3,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 1700
 	},
 	{
 		"lokacija2" : 6.28083,
@@ -18480,16 +18420,6 @@
 		"cena" : 182329
 	},
 	{
-		"lokacija2" : 2.06858,
-		"kvadratura" : 40,
-		"sprat" : 0,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2500
-	},
-	{
 		"lokacija2" : 1.52912,
 		"kvadratura" : 39,
 		"sprat" : 8,
@@ -25530,16 +25460,6 @@
 		"cena" : 85000
 	},
 	{
-		"lokacija2" : 7.38829,
-		"kvadratura" : 0,
-		"sprat" : 5,
-		"broj_soba" : 1,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 43900
-	},
-	{
 		"lokacija2" : 7.12174,
 		"kvadratura" : 25,
 		"sprat" : 0,
@@ -27568,36 +27488,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 90000
-	},
-	{
-		"lokacija2" : 9.38657,
-		"kvadratura" : 36,
-		"sprat" : 1,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1300
-	},
-	{
-		"lokacija2" : 2.70379,
-		"kvadratura" : 38,
-		"sprat" : 1,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2100
-	},
-	{
-		"lokacija2" : 1.34658,
-		"kvadratura" : 35,
-		"sprat" : 5,
-		"broj_soba" : 1,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 1
 	},
 	{
 		"lokacija2" : 3.92202,
@@ -34300,26 +34190,6 @@
 		"cena" : 107460
 	},
 	{
-		"lokacija2" : 3.4629,
-		"kvadratura" : 78,
-		"sprat" : 3,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2200
-	},
-	{
-		"lokacija2" : 4.23096,
-		"kvadratura" : 78,
-		"sprat" : 0,
-		"broj_soba" : 3,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1750
-	},
-	{
 		"lokacija2" : 3.8586,
 		"kvadratura" : 52,
 		"sprat" : 2,
@@ -34710,16 +34580,6 @@
 		"cena" : 122000
 	},
 	{
-		"lokacija2" : 4.23096,
-		"kvadratura" : 119,
-		"sprat" : 0,
-		"broj_soba" : 4,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 1850
-	},
-	{
 		"lokacija2" : 5.14346,
 		"kvadratura" : 126,
 		"sprat" : 3,
@@ -34838,46 +34698,6 @@
 		"lift" : 1,
 		"terasa" : 0,
 		"cena" : 135000
-	},
-	{
-		"lokacija2" : 2.06858,
-		"kvadratura" : 78,
-		"sprat" : 2,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2200
-	},
-	{
-		"lokacija2" : 1.72232,
-		"kvadratura" : 90,
-		"sprat" : 3,
-		"broj_soba" : 3,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2300
-	},
-	{
-		"lokacija2" : 0.70141,
-		"kvadratura" : 221,
-		"sprat" : 0,
-		"broj_soba" : 9,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 3600
-	},
-	{
-		"lokacija2" : 2.70379,
-		"kvadratura" : 105,
-		"sprat" : 5,
-		"broj_soba" : 4,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1955
 	},
 	{
 		"lokacija2" : 2.55305,
@@ -39138,16 +38958,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 160000
-	},
-	{
-		"lokacija2" : 5.60919,
-		"kvadratura" : 55,
-		"sprat" : 1,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1980
 	},
 	{
 		"lokacija2" : 4.86171,
@@ -53720,36 +53530,6 @@
 		"cena" : 196000
 	},
 	{
-		"lokacija2" : 0.8379,
-		"kvadratura" : 162,
-		"sprat" : 4,
-		"broj_soba" : 5,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 2750
-	},
-	{
-		"lokacija2" : 0.8379,
-		"kvadratura" : 82,
-		"sprat" : 1,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 2860
-	},
-	{
-		"lokacija2" : 0.8379,
-		"kvadratura" : 86,
-		"sprat" : 2,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 2860
-	},
-	{
 		"lokacija2" : 0.75072,
 		"kvadratura" : 68,
 		"sprat" : 1,
@@ -54060,26 +53840,6 @@
 		"cena" : 220888
 	},
 	{
-		"lokacija2" : 2.28401,
-		"kvadratura" : 73,
-		"sprat" : 2,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2500
-	},
-	{
-		"lokacija2" : 2.28401,
-		"kvadratura" : 76,
-		"sprat" : 3,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2500
-	},
-	{
 		"lokacija2" : 3.92202,
 		"kvadratura" : 132,
 		"sprat" : 1,
@@ -54308,16 +54068,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 66500
-	},
-	{
-		"lokacija2" : 2.28401,
-		"kvadratura" : 69,
-		"sprat" : 0,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 0,
-		"cena" : 2500
 	},
 	{
 		"lokacija2" : 9.83685,
@@ -54728,16 +54478,6 @@
 		"lift" : 0,
 		"terasa" : 1,
 		"cena" : 134888
-	},
-	{
-		"lokacija2" : 2.28401,
-		"kvadratura" : 83,
-		"sprat" : 4,
-		"broj_soba" : 4,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2500
 	},
 	{
 		"lokacija2" : 3.72703,
@@ -55540,46 +55280,6 @@
 		"cena" : 135000
 	},
 	{
-		"lokacija2" : 6.44034,
-		"kvadratura" : 74,
-		"sprat" : 1,
-		"broj_soba" : 3,
-		"parking" : 1,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 2000
-	},
-	{
-		"lokacija2" : 3.26163,
-		"kvadratura" : 65,
-		"sprat" : 3,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2100
-	},
-	{
-		"lokacija2" : 3.26163,
-		"kvadratura" : 79,
-		"sprat" : 2,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2100
-	},
-	{
-		"lokacija2" : 3.26163,
-		"kvadratura" : 121,
-		"sprat" : 4,
-		"broj_soba" : 4,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2100
-	},
-	{
 		"lokacija2" : 2.82883,
 		"kvadratura" : 44,
 		"sprat" : 14,
@@ -55588,46 +55288,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 85000
-	},
-	{
-		"lokacija2" : 3.4629,
-		"kvadratura" : 132,
-		"sprat" : 1,
-		"broj_soba" : 4,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2100
-	},
-	{
-		"lokacija2" : 3.26163,
-		"kvadratura" : 61,
-		"sprat" : 3,
-		"broj_soba" : 0,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2100
-	},
-	{
-		"lokacija2" : 3.26163,
-		"kvadratura" : 72,
-		"sprat" : 2,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2100
-	},
-	{
-		"lokacija2" : 3.26163,
-		"kvadratura" : 76,
-		"sprat" : 2,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2100
 	},
 	{
 		"lokacija2" : 1.34658,
@@ -55678,16 +55338,6 @@
 		"lift" : 0,
 		"terasa" : 1,
 		"cena" : 145600
-	},
-	{
-		"lokacija2" : 2.70379,
-		"kvadratura" : 55,
-		"sprat" : 4,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2000
 	},
 	{
 		"lokacija2" : 0.75072,
@@ -55960,16 +55610,6 @@
 		"cena" : 137000
 	},
 	{
-		"lokacija2" : 2.70379,
-		"kvadratura" : 60,
-		"sprat" : 4,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2000
-	},
-	{
 		"lokacija2" : 3.50483,
 		"kvadratura" : 80,
 		"sprat" : 5,
@@ -56100,26 +55740,6 @@
 		"cena" : 137000
 	},
 	{
-		"lokacija2" : 6.44034,
-		"kvadratura" : 91,
-		"sprat" : 1,
-		"broj_soba" : 3,
-		"parking" : 1,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 2000
-	},
-	{
-		"lokacija2" : 2.82883,
-		"kvadratura" : 50,
-		"sprat" : 3,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1990
-	},
-	{
 		"lokacija2" : 0.70141,
 		"kvadratura" : 69,
 		"sprat" : 2,
@@ -56138,16 +55758,6 @@
 		"lift" : 1,
 		"terasa" : 0,
 		"cena" : 89500
-	},
-	{
-		"lokacija2" : 4.23096,
-		"kvadratura" : 126,
-		"sprat" : 2,
-		"broj_soba" : 4,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2000
 	},
 	{
 		"lokacija2" : 0.70141,
@@ -57030,16 +56640,6 @@
 		"cena" : 110000
 	},
 	{
-		"lokacija2" : 3.72306,
-		"kvadratura" : 82,
-		"sprat" : 0,
-		"broj_soba" : 4,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1700
-	},
-	{
 		"lokacija2" : 0.52143,
 		"kvadratura" : 67,
 		"sprat" : 2,
@@ -57348,16 +56948,6 @@
 		"lift" : 0,
 		"terasa" : 0,
 		"cena" : 92000
-	},
-	{
-		"lokacija2" : 6.89724,
-		"kvadratura" : 84,
-		"sprat" : 4,
-		"broj_soba" : 3,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1650
 	},
 	{
 		"lokacija2" : 6.89724,
@@ -57878,16 +57468,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 145000
-	},
-	{
-		"lokacija2" : 5.98597,
-		"kvadratura" : 75,
-		"sprat" : 1,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 1600
 	},
 	{
 		"lokacija2" : 3.50483,
@@ -62030,16 +61610,6 @@
 		"cena" : 193000
 	},
 	{
-		"lokacija2" : 6.89724,
-		"kvadratura" : 83,
-		"sprat" : 2,
-		"broj_soba" : 3,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1400
-	},
-	{
 		"lokacija2" : 7.29636,
 		"kvadratura" : 96,
 		"sprat" : 17,
@@ -62678,16 +62248,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 190000
-	},
-	{
-		"lokacija2" : 6.89724,
-		"kvadratura" : 86,
-		"sprat" : 2,
-		"broj_soba" : 3,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1400
 	},
 	{
 		"lokacija2" : 5.29349,
@@ -63980,26 +63540,6 @@
 		"cena" : 80000
 	},
 	{
-		"lokacija2" : 5.90221,
-		"kvadratura" : 67,
-		"sprat" : 0,
-		"broj_soba" : 3,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1290
-	},
-	{
-		"lokacija2" : 7.3162,
-		"kvadratura" : 39,
-		"sprat" : 0,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 0,
-		"cena" : 1250
-	},
-	{
 		"lokacija2" : 4.3084,
 		"kvadratura" : 53,
 		"sprat" : 2,
@@ -64258,16 +63798,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 168000
-	},
-	{
-		"lokacija2" : 3.72306,
-		"kvadratura" : 72,
-		"sprat" : 0,
-		"broj_soba" : 3,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1750
 	},
 	{
 		"lokacija2" : 3.8586,
@@ -65498,56 +65028,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 182000
-	},
-	{
-		"lokacija2" : 2.82883,
-		"kvadratura" : 50,
-		"sprat" : 6,
-		"broj_soba" : 3,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1990
-	},
-	{
-		"lokacija2" : 2.82883,
-		"kvadratura" : 86,
-		"sprat" : 5,
-		"broj_soba" : 4,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1850
-	},
-	{
-		"lokacija2" : 2.82883,
-		"kvadratura" : 86,
-		"sprat" : 1,
-		"broj_soba" : 4,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1850
-	},
-	{
-		"lokacija2" : 2.82883,
-		"kvadratura" : 96,
-		"sprat" : 0,
-		"broj_soba" : 6,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1790
-	},
-	{
-		"lokacija2" : 2.82883,
-		"kvadratura" : 86,
-		"sprat" : 6,
-		"broj_soba" : 4,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1850
 	},
 	{
 		"lokacija2" : 4.20186,
@@ -85370,16 +84850,6 @@
 		"cena" : 178000
 	},
 	{
-		"lokacija2" : 2.70379,
-		"kvadratura" : 80,
-		"sprat" : 3,
-		"broj_soba" : 4,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1955
-	},
-	{
 		"lokacija2" : 0.70141,
 		"kvadratura" : 65,
 		"sprat" : 7,
@@ -94220,16 +93690,6 @@
 		"cena" : 67100
 	},
 	{
-		"lokacija2" : 2.06858,
-		"kvadratura" : 350,
-		"sprat" : 2,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2450
-	},
-	{
 		"lokacija2" : 5.08924,
 		"kvadratura" : 57,
 		"sprat" : 5,
@@ -99388,16 +98848,6 @@
 		"lift" : 0,
 		"terasa" : 1,
 		"cena" : 175000
-	},
-	{
-		"lokacija2" : 5.97639,
-		"kvadratura" : 1,
-		"sprat" : 1,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1000
 	},
 	{
 		"lokacija2" : 0.70141,
@@ -107640,16 +107090,6 @@
 		"cena" : 165000
 	},
 	{
-		"lokacija2" : 2.50798,
-		"kvadratura" : 82,
-		"sprat" : 2,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2500
-	},
-	{
 		"lokacija2" : 1.34658,
 		"kvadratura" : 90,
 		"sprat" : 1,
@@ -109970,16 +109410,6 @@
 		"cena" : 115500
 	},
 	{
-		"lokacija2" : 3.72306,
-		"kvadratura" : 110,
-		"sprat" : 0,
-		"broj_soba" : 4,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1890
-	},
-	{
 		"lokacija2" : 7.33142,
 		"kvadratura" : 88,
 		"sprat" : 5,
@@ -111090,16 +110520,6 @@
 		"cena" : 305000
 	},
 	{
-		"lokacija2" : 3.72306,
-		"kvadratura" : 130,
-		"sprat" : 0,
-		"broj_soba" : 5,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1700
-	},
-	{
 		"lokacija2" : 2.06858,
 		"kvadratura" : 94,
 		"sprat" : 1,
@@ -111108,16 +110528,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 300800
-	},
-	{
-		"lokacija2" : 3.72306,
-		"kvadratura" : 72,
-		"sprat" : 0,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 1700
 	},
 	{
 		"lokacija2" : 1.34658,
@@ -119540,16 +118950,6 @@
 		"cena" : 240000
 	},
 	{
-		"lokacija2" : 1.34658,
-		"kvadratura" : 54,
-		"sprat" : 3,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1
-	},
-	{
 		"lokacija2" : 5.63327,
 		"kvadratura" : 43,
 		"sprat" : 0,
@@ -120308,16 +119708,6 @@
 		"lift" : 0,
 		"terasa" : 1,
 		"cena" : 40100
-	},
-	{
-		"lokacija2" : 1.34658,
-		"kvadratura" : 72,
-		"sprat" : 3,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1
 	},
 	{
 		"lokacija2" : 0.37596,
@@ -121970,16 +121360,6 @@
 		"cena" : 61200
 	},
 	{
-		"lokacija2" : 1.79241,
-		"kvadratura" : 46,
-		"sprat" : 1,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 1500
-	},
-	{
 		"lokacija2" : 5.37218,
 		"kvadratura" : 135,
 		"sprat" : 4,
@@ -122340,16 +121720,6 @@
 		"cena" : 45000
 	},
 	{
-		"lokacija2" : 2.6219,
-		"kvadratura" : 49,
-		"sprat" : 2,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 2500
-	},
-	{
 		"lokacija2" : 1.1971,
 		"kvadratura" : 210,
 		"sprat" : 4,
@@ -122538,16 +121908,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 122000
-	},
-	{
-		"lokacija2" : 3.8586,
-		"kvadratura" : 47,
-		"sprat" : 1,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1490
 	},
 	{
 		"lokacija2" : 5.90221,
@@ -145840,16 +145200,6 @@
 		"cena" : 177000
 	},
 	{
-		"lokacija2" : 1.43729,
-		"kvadratura" : 86,
-		"sprat" : 2,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2860
-	},
-	{
 		"lokacija2" : 1.16876,
 		"kvadratura" : 34,
 		"sprat" : 0,
@@ -145858,16 +145208,6 @@
 		"lift" : 0,
 		"terasa" : 0,
 		"cena" : 43000
-	},
-	{
-		"lokacija2" : 1.43729,
-		"kvadratura" : 82,
-		"sprat" : 1,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2860
 	},
 	{
 		"lokacija2" : 0.9961,
@@ -147000,16 +146340,6 @@
 		"cena" : 108000
 	},
 	{
-		"lokacija2" : 5.37831,
-		"kvadratura" : 47,
-		"sprat" : 1,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 1490
-	},
-	{
 		"lokacija2" : 3.08184,
 		"kvadratura" : 65,
 		"sprat" : 5,
@@ -147678,16 +147008,6 @@
 		"lift" : 0,
 		"terasa" : 0,
 		"cena" : 88000
-	},
-	{
-		"lokacija2" : 1.43729,
-		"kvadratura" : 162,
-		"sprat" : 4,
-		"broj_soba" : 5,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2750
 	},
 	{
 		"lokacija2" : 1.54552,
@@ -155050,16 +154370,6 @@
 		"cena" : 68000
 	},
 	{
-		"lokacija2" : 5.97639,
-		"kvadratura" : 27,
-		"sprat" : 2,
-		"broj_soba" : 1,
-		"parking" : 1,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 200
-	},
-	{
 		"lokacija2" : 5.15548,
 		"kvadratura" : 117,
 		"sprat" : 1,
@@ -159341,16 +158651,6 @@
 	},
 	{
 		"lokacija2" : 3.26163,
-		"kvadratura" : 72,
-		"sprat" : 2,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2100
-	},
-	{
-		"lokacija2" : 3.26163,
 		"kvadratura" : 76,
 		"sprat" : 2,
 		"broj_soba" : 3,
@@ -159398,16 +158698,6 @@
 		"lift" : 0,
 		"terasa" : 0,
 		"cena" : 107000
-	},
-	{
-		"lokacija2" : 3.26163,
-		"kvadratura" : 79,
-		"sprat" : 2,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2100
 	},
 	{
 		"lokacija2" : 1.92591,
@@ -161880,16 +161170,6 @@
 		"cena" : 75000
 	},
 	{
-		"lokacija2" : 5.85661,
-		"kvadratura" : 49,
-		"sprat" : 0,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 1150
-	},
-	{
 		"lokacija2" : 5.66318,
 		"kvadratura" : 56,
 		"sprat" : 0,
@@ -162738,16 +162018,6 @@
 		"lift" : 0,
 		"terasa" : 0,
 		"cena" : 79900
-	},
-	{
-		"lokacija2" : 6.89258,
-		"kvadratura" : 60,
-		"sprat" : 0,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 1000
 	},
 	{
 		"lokacija2" : 7.3162,
@@ -171670,26 +170940,6 @@
 		"cena" : 500000
 	},
 	{
-		"lokacija2" : 4.04188,
-		"kvadratura" : 119,
-		"sprat" : 0,
-		"broj_soba" : 4,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 1850
-	},
-	{
-		"lokacija2" : 2.50798,
-		"kvadratura" : 78,
-		"sprat" : 3,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 2200
-	},
-	{
 		"lokacija2" : 6.02686,
 		"kvadratura" : 75,
 		"sprat" : 4,
@@ -172048,16 +171298,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 248000
-	},
-	{
-		"lokacija2" : 2.50798,
-		"kvadratura" : 132,
-		"sprat" : 1,
-		"broj_soba" : 4,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 2100
 	},
 	{
 		"lokacija2" : 3.17627,
@@ -177310,16 +176550,6 @@
 		"cena" : 96911
 	},
 	{
-		"lokacija2" : 4.23096,
-		"kvadratura" : 182,
-		"sprat" : 1,
-		"broj_soba" : 5,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2100
-	},
-	{
 		"lokacija2" : 5.16465,
 		"kvadratura" : 226,
 		"sprat" : 3,
@@ -177378,16 +176608,6 @@
 		"lift" : 1,
 		"terasa" : 0,
 		"cena" : 165000
-	},
-	{
-		"lokacija2" : 4.23096,
-		"kvadratura" : 78,
-		"sprat" : 0,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 1750
 	},
 	{
 		"lokacija2" : 3.78241,
@@ -182330,16 +181550,6 @@
 		"cena" : 212500
 	},
 	{
-		"lokacija2" : 3.17627,
-		"kvadratura" : 82,
-		"sprat" : 2,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 2500
-	},
-	{
 		"lokacija2" : 0.89367,
 		"kvadratura" : 50,
 		"sprat" : 0,
@@ -184230,16 +183440,6 @@
 		"cena" : 185000
 	},
 	{
-		"lokacija2" : 6.02686,
-		"kvadratura" : 61,
-		"sprat" : 2,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2000
-	},
-	{
 		"lokacija2" : 4.09064,
 		"kvadratura" : 78,
 		"sprat" : 2,
@@ -185068,16 +184268,6 @@
 		"lift" : 0,
 		"terasa" : 1,
 		"cena" : 108000
-	},
-	{
-		"lokacija2" : 4.23096,
-		"kvadratura" : 26,
-		"sprat" : 2,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 390
 	},
 	{
 		"lokacija2" : 4.04188,
@@ -206550,16 +205740,6 @@
 		"cena" : 85000
 	},
 	{
-		"lokacija2" : 5.50949,
-		"kvadratura" : 61,
-		"sprat" : 3,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 2120
-	},
-	{
 		"lokacija2" : 5.10944,
 		"kvadratura" : 85,
 		"sprat" : 3,
@@ -206608,16 +205788,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 179500
-	},
-	{
-		"lokacija2" : 5.23375,
-		"kvadratura" : 44,
-		"sprat" : 4,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 2120
 	},
 	{
 		"lokacija2" : 4.68409,
@@ -209918,16 +209088,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 108000
-	},
-	{
-		"lokacija2" : 5.50949,
-		"kvadratura" : 74,
-		"sprat" : 3,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 2120
 	},
 	{
 		"lokacija2" : 6.07538,
@@ -218741,16 +217901,6 @@
 	},
 	{
 		"lokacija2" : 5.09226,
-		"kvadratura" : 39,
-		"sprat" : 3,
-		"broj_soba" : 0,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 1750
-	},
-	{
-		"lokacija2" : 5.09226,
 		"kvadratura" : 67,
 		"sprat" : 1,
 		"broj_soba" : 2,
@@ -218798,16 +217948,6 @@
 		"lift" : 0,
 		"terasa" : 0,
 		"cena" : 215000
-	},
-	{
-		"lokacija2" : 5.09226,
-		"kvadratura" : 53,
-		"sprat" : 5,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 1750
 	},
 	{
 		"lokacija2" : 1.04527,
@@ -221261,16 +220401,6 @@
 	},
 	{
 		"lokacija2" : 35.89168,
-		"kvadratura" : 112,
-		"sprat" : 0,
-		"broj_soba" : 4,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 1
-	},
-	{
-		"lokacija2" : 35.89168,
 		"kvadratura" : 79,
 		"sprat" : 0,
 		"broj_soba" : 2,
@@ -222030,16 +221160,6 @@
 		"cena" : 37820
 	},
 	{
-		"lokacija2" : 12.83233,
-		"kvadratura" : 63,
-		"sprat" : 2,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 1050
-	},
-	{
 		"lokacija2" : 4.53623,
 		"kvadratura" : 47,
 		"sprat" : 0,
@@ -222048,16 +221168,6 @@
 		"lift" : 0,
 		"terasa" : 1,
 		"cena" : 43000
-	},
-	{
-		"lokacija2" : 12.83233,
-		"kvadratura" : 45,
-		"sprat" : 2,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 1100
 	},
 	{
 		"lokacija2" : 9.45274,
@@ -226700,7 +225810,7 @@
 		"cena" : 133000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 43,
 		"sprat" : 0,
 		"broj_soba" : 2,
@@ -226720,7 +225830,7 @@
 		"cena" : 29000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 63,
 		"sprat" : 5,
 		"broj_soba" : 2,
@@ -226730,7 +225840,7 @@
 		"cena" : 33000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 84,
 		"sprat" : 5,
 		"broj_soba" : 3,
@@ -226770,7 +225880,7 @@
 		"cena" : 33500
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 60,
 		"sprat" : 4,
 		"broj_soba" : 2,
@@ -226820,7 +225930,7 @@
 		"cena" : 82000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 62,
 		"sprat" : 5,
 		"broj_soba" : 2,
@@ -226830,7 +225940,7 @@
 		"cena" : 33000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 84,
 		"sprat" : 5,
 		"broj_soba" : 2,
@@ -226840,7 +225950,7 @@
 		"cena" : 40000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 64,
 		"sprat" : 5,
 		"broj_soba" : 2,
@@ -226850,7 +225960,7 @@
 		"cena" : 33000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 65,
 		"sprat" : 1,
 		"broj_soba" : 3,
@@ -226860,7 +225970,7 @@
 		"cena" : 38000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 44,
 		"sprat" : 0,
 		"broj_soba" : 1,
@@ -226870,7 +225980,7 @@
 		"cena" : 15000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 103,
 		"sprat" : 6,
 		"broj_soba" : 4,
@@ -226890,7 +226000,7 @@
 		"cena" : 40000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 60,
 		"sprat" : 4,
 		"broj_soba" : 3,
@@ -226900,7 +226010,7 @@
 		"cena" : 38000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 63,
 		"sprat" : 5,
 		"broj_soba" : 2,
@@ -226910,7 +226020,7 @@
 		"cena" : 33000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 84,
 		"sprat" : 5,
 		"broj_soba" : 3,
@@ -226940,7 +226050,7 @@
 		"cena" : 29500
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 84,
 		"sprat" : 5,
 		"broj_soba" : 3,
@@ -226960,7 +226070,7 @@
 		"cena" : 25000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 62,
 		"sprat" : 4,
 		"broj_soba" : 3,
@@ -226970,7 +226080,7 @@
 		"cena" : 33000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 63,
 		"sprat" : 5,
 		"broj_soba" : 2,
@@ -226980,7 +226090,7 @@
 		"cena" : 33000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 77,
 		"sprat" : 2,
 		"broj_soba" : 3,
@@ -226990,7 +226100,7 @@
 		"cena" : 34900
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 84,
 		"sprat" : 4,
 		"broj_soba" : 3,
@@ -227010,7 +226120,7 @@
 		"cena" : 28000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 84,
 		"sprat" : 5,
 		"broj_soba" : 3,
@@ -227040,7 +226150,7 @@
 		"cena" : 49900
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 62,
 		"sprat" : 5,
 		"broj_soba" : 2,
@@ -227050,7 +226160,7 @@
 		"cena" : 33000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 60,
 		"sprat" : 4,
 		"broj_soba" : 2,
@@ -227070,7 +226180,7 @@
 		"cena" : 35000
 	},
 	{
-		"lokacija2" : 0.83376,
+		"lokacija2" : 26.60729,
 		"kvadratura" : 84,
 		"sprat" : 5,
 		"broj_soba" : 3,
@@ -227528,16 +226638,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 282450
-	},
-	{
-		"lokacija2" : 1.10692,
-		"kvadratura" : 218,
-		"sprat" : 5,
-		"broj_soba" : 4,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 3500
 	},
 	{
 		"lokacija2" : 1.28636,
@@ -229948,16 +229048,6 @@
 		"lift" : 1,
 		"terasa" : 1,
 		"cena" : 330000
-	},
-	{
-		"lokacija2" : 2.44154,
-		"kvadratura" : 83,
-		"sprat" : 4,
-		"broj_soba" : 4,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2500
 	},
 	{
 		"lokacija2" : 2.58359,
@@ -236870,16 +235960,6 @@
 		"cena" : 360000
 	},
 	{
-		"lokacija2" : 0.89367,
-		"kvadratura" : 33,
-		"sprat" : 3,
-		"broj_soba" : 0,
-		"parking" : 1,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 1
-	},
-	{
 		"lokacija2" : 0.71852,
 		"kvadratura" : 75,
 		"sprat" : 3,
@@ -238110,16 +237190,6 @@
 		"cena" : 140000
 	},
 	{
-		"lokacija2" : 3.33346,
-		"kvadratura" : 78,
-		"sprat" : 2,
-		"broj_soba" : 2,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 2200
-	},
-	{
 		"lokacija2" : 1.72232,
 		"kvadratura" : 56,
 		"sprat" : 3,
@@ -238588,16 +237658,6 @@
 		"lift" : 1,
 		"terasa" : 0,
 		"cena" : 87000
-	},
-	{
-		"lokacija2" : 2.73238,
-		"kvadratura" : 49,
-		"sprat" : 2,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 2500
 	},
 	{
 		"lokacija2" : 2.5517,
@@ -242050,16 +241110,6 @@
 		"cena" : 82000
 	},
 	{
-		"lokacija2" : 9.38657,
-		"kvadratura" : 70,
-		"sprat" : 0,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 1200
-	},
-	{
 		"lokacija2" : 9.16402,
 		"kvadratura" : 77,
 		"sprat" : 0,
@@ -244100,26 +243150,6 @@
 		"cena" : 136000
 	},
 	{
-		"lokacija2" : 2.44154,
-		"kvadratura" : 69,
-		"sprat" : 0,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 0,
-		"cena" : 2500
-	},
-	{
-		"lokacija2" : 2.44154,
-		"kvadratura" : 76,
-		"sprat" : 3,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2500
-	},
-	{
 		"lokacija2" : 2.40743,
 		"kvadratura" : 91,
 		"sprat" : 1,
@@ -244128,16 +243158,6 @@
 		"lift" : 0,
 		"terasa" : 0,
 		"cena" : 155000
-	},
-	{
-		"lokacija2" : 2.44154,
-		"kvadratura" : 73,
-		"sprat" : 2,
-		"broj_soba" : 3,
-		"parking" : 0,
-		"lift" : 1,
-		"terasa" : 1,
-		"cena" : 2500
 	},
 	{
 		"lokacija2" : 2.40425,
@@ -249690,16 +248710,6 @@
 		"cena" : 154900
 	},
 	{
-		"lokacija2" : 1.5784,
-		"kvadratura" : 46,
-		"sprat" : 1,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 0,
-		"terasa" : 0,
-		"cena" : 1500
-	},
-	{
 		"lokacija2" : 1.31883,
 		"kvadratura" : 90,
 		"sprat" : 0,
@@ -253840,16 +252850,6 @@
 		"cena" : 119900
 	},
 	{
-		"lokacija2" : 5.31821,
-		"kvadratura" : 84,
-		"sprat" : 4,
-		"broj_soba" : 4,
-		"parking" : 1,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 1650
-	},
-	{
 		"lokacija2" : 4.73533,
 		"kvadratura" : 36,
 		"sprat" : 5,
@@ -255040,16 +254040,6 @@
 		"cena" : 123750
 	},
 	{
-		"lokacija2" : 5.31821,
-		"kvadratura" : 56,
-		"sprat" : 3,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 1650
-	},
-	{
 		"lokacija2" : 6.68006,
 		"kvadratura" : 134,
 		"sprat" : 4,
@@ -255228,16 +254218,6 @@
 		"lift" : 0,
 		"terasa" : 1,
 		"cena" : 89000
-	},
-	{
-		"lokacija2" : 5.31821,
-		"kvadratura" : 59,
-		"sprat" : 2,
-		"broj_soba" : 2,
-		"parking" : 1,
-		"lift" : 0,
-		"terasa" : 1,
-		"cena" : 1650
 	},
 	{
 		"lokacija2" : 6.04649,
