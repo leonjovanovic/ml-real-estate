@@ -1,0 +1,9 @@
+1) Odabir osobina
+S obzirom na to da su neke osobine (ukupno 13) imale veliki broj null vrednosti, bilo je potrebno izbaciti nekretnine sa null vrednostima za neke osobine, dok osobine koje imaju previse null vrednosti su izbacene. Na primer osobine godina izgradnje na sajtu Nekretnine.rs prakticno nije bilo ni na jednom oglasu dok je na sajtu 4zida.rs bila prisutna polovicno. Sto znaci da bi bila koriscena bilo je potrebno smanjiti broj stanova za prodaju u Beogradu sa 40k na 10k, sto je previse.
+Osobine koje su ostale su: distanca, kvadratura, sprat, broj soba, parking, lift, terasa.
+2) Arhitektura
+Iako je broj hiperparametara mali (2) da ih ne bi odabirao na osnovu rezultata test seta bilo je potrebno uraditi ugnjezdenu unakrsnu validaciju da bi odabir hiperparametara zavisio od rezultata nad validacionim setom.
+3) Parametri
+Na kraju ucenja, dobijeni parametri se cuvaju u json fajlu koji se poziva u prediction.py koji sluzi kao aplikacija za predikciju cena za nove nekretnine.
+
+*Distananca radjena kao razdaljina izmedju Terazija i uze lokacije u Beogradu pomocu Google Maps APIja, na ulazu je potrebno dati koordinate nove nekretnine. Drugo potencijalno resenje je bilo da se unese string koji ce se proslediti Google Maps-u ali zbog tajnosti API kljuca i potrebe za internet konekcijom, resenje sa koordinatama je ostalo. Do koordinata se lako dolazi kada se ode na Google Maps i na lokaciju desni klik pa na koordinate sto ce ih kopirati na clipboard.

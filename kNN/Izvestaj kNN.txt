@@ -1,0 +1,12 @@
+1) Odabir osobina (ista kao za linearnu regresiju)
+S obzirom na to da su neke osobine (ukupno 13) imale veliki broj null vrednosti, bilo je potrebno izbaciti nekretnine sa null vrednostima za neke osobine, dok osobine koje imaju previse null vrednosti su izbacene. Na primer osobina godina izgradnje na sajtu Nekretnine.rs prakticno nije bilo ni na jednom oglasu dok je na sajtu 4zida.rs bila prisutna polovicno. Sto znaci da bi bila koriscena bilo je potrebno smanjiti broj stanova za prodaju u Beogradu sa 40k na 10k, sto je previse.
+Osobine koje su ostale su: distanca, kvadratura, sprat, broj soba, parking, lift, terasa.
+2) Arhitektura
+Normalizacija je stavljena kao hiperparametar jer normalizacija ne rezultuje uvek u boljim rezultatima zbog nacina ucenja u kNN-u. U ovom slucaju sa normalizacijom je uspesnost od 60% dok bez normalizacije je uspesnost od 64%.
+Hiperparametar K se moze odrediti automatski (koren od broja podataka) ili uneti manuelno. Taj odabir je ostavljen korisniku aplikacije.
+3) Parametri
+kNN_prediction.py je aplikacija koja kada na konzoli dobije podatke nove nekretnine poziva kNN.py da bi se naslo K najblizih suseda po Euklidskoj i Menhetn razdaljini. kNN.py vraca opseg cena koji je pobedio vecinskom razlikom koji se ispisuje kao opseg cene nove nekretnine.
+
+*Distanca radjena kao razdaljina izmedju Terazija i uze lokacije u Beogradu pomocu Google Maps APIja, na ulazu je potrebno dati koordinate nove nekretnine. Drugo potencijalno resenje je bilo da se unese string koji ce se proslediti Google Maps-u ali zbog tajnosti API kljuca i potrebe za internet konekcijom, resenje sa koordinatama je ostalo. Do koordinata se lako dolazi kada se ode na Google Maps i na lokaciju desni klik pa na koordinate sto ce ih kopirati na clipboard.
+
+**Za razliku od linearne regresije skripta za nove predikcije mora da koristi numpy paket pa je velicina foldera sa exe programom velicine preko 150MB (postoji kompresovana verzija od 26MB)
