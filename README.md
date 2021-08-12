@@ -9,6 +9,7 @@
 
 ---
 ### Web crawler & scraper
+
 &nbsp;&nbsp;&nbsp;&nbsp;The data was scraped from two websites (4zida.rs and nekretnine.rs) using Scrapy framework written in Python.
 ---
 ### Preprocessing data
