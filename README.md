@@ -13,6 +13,7 @@
 ## Preprocessing data
 &nbsp;&nbsp;&nbsp;&nbsp;First step in preprocessing data was merging all data we got from different website into single json file. After that it was necessary to convert all characters and strings to integers or floats. Some ads were written in cyrillic and they had to be converted to latin. There were 5 special cases where user wrongly inserted information that was hard coded. Numerous real estates were deleted because of feature value error (very low/high price, very high number of rooms etc.).
 Goal of this project is to predict prices of flats for sale in Belgrade, therefore separate json was created with real estates belonging to that category.
+
 ---
 Address was separately converted to number because of its complexity. Because location is often key factor in predicting price of real estate, Google Maps API was used to convert addresses to coordinates. After that Geopy library was used to calculate distance between center of Belgrade and given coordinate.
 
