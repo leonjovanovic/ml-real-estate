@@ -11,6 +11,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;To get more general sense of real estates, six graphs were created.
 - Top 10 most popular districts in Belgrade by number of real estates
 
+## Visualization
+&nbsp;&nbsp;&nbsp;&nbsp;To get more general sense of real estates, six graphs were created.
+- Top 10 most popular districts in Belgrade by number of real estates
+
 - Flats by number of square footage
 
 - Real estates by year of construction
