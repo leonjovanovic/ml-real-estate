@@ -8,7 +8,7 @@
   * Finally, we used Python to create linear regression and kNN and generate prediction.
 
 ---
-## Web crawler & scraper
+### Web crawler & scraper
 &nbsp;&nbsp;&nbsp;&nbsp;The data was scrapped from two websites (4zida.rs and nekretnine.rs) using Scrapy framework written in Python. Data, which was scrapped, has a total of over 100,000 different real estates over whole country. For each real eastate following features were scraped: price, type, city, address, square footage, year built, land area (for houses), floor, registration, heating type, number of rooms, number of bathrooms, parking, elevator, terrace. Since each real estate ad is manually added by user, many features were often missing. Output for each website was json file where each element had one real estate and its features.
 ---
 ## Preprocessing data
