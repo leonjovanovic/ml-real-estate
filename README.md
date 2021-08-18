@@ -20,12 +20,19 @@ Address was separately converted to number because of its complexity. Because lo
 ## Visualization
 &nbsp;&nbsp;&nbsp;&nbsp;To get more general sense of real estates, six graphs were created.
 - Top 10 most popular districts in Belgrade by number of real estates
+
 ![Plot1](visualisation/a/izgradjene_nekretnine.png)
+
 - Flats by number of square footage
+
 ![Plot2](visualisation/b/stanovi_po_kvadraturi.png)
+
 - Real estates by year of construction
+
 ![Plot3](visualisation/c/izgradjene_nekretnine.png)
+
 - For sale/rent by city
+
 ![Plot4](visualisation/d/prodaja_iznajmljivanje.png)
 - Price of real estates divided in six groups
 ![Plot5](visualisation/e/cene_po_opsegu.png)
