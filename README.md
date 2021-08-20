@@ -30,11 +30,12 @@ Address was separately converted to number because of its complexity. Because lo
 - [Real estate with/without parking in Belgrade](visualisation/f/izgradjene_nekretnine.png)
 
 ## Linear regression
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; Since not every real estate has every feature, we had to remove some features that had very high amount of real estates ad with empty field. Remaining features which were chosen for linear regression features were address, square footage, floor, number of rooms, parking, elevator and terrace. Before learning data had to be normalized and shuffled. Learning was done by nested 10-fold cross validation with train and dev set so we can find best hyperparameters. There are two hyperparameters: learning rate and mini-batch size.
+---
+After finding best hyperparameters, 10-fold cross validation was done on test and train (now train set is equal to train and dev set from previous step) set. This was first time evaluation is done on test set. Performanse was calculated with average root mean squared error and average mean absolute error. Next step was training linear regression on whole data using chosen hyperparameters to get best parameters which were exported to [JSON file](\linear_regression\model_parameters.json) for future use.
 
 ## kNN
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;&nbsp;Since kNN is lazy learner, it does not have learning part but there was normalization as hyperparameter to find out does normalization helps in this case or not. K can be manually imputed or automatically calculated as square root of number of real estates. Distance from imputed real estate was calculated with two different methods. First was Euclidean distance, where distance between two points is calculated using the Pythagorean theorem. Second method was Manhatten distance where distance between two points is the sum of the absolute differences of their Cartesian coordinates. kNN does not have any parameters but for algorithm to predicts it needs to run throughout every real estate in data each time.
 ## Results
 &nbsp;&nbsp;&nbsp;&nbsp;
 
