@@ -19,7 +19,7 @@ Address was separately converted to number because of its complexity. Because lo
 
 ## Visualization
 &nbsp;&nbsp;&nbsp;&nbsp;To get more general sense of real estates, six graphs were created.
-- Top 10 most popular districts in Belgrade by number of real estates
+- Top 10 most popular districts in Belgrade by number of avaliable real estates
 
 ![Plot1](visualisation/a/izgradjene_nekretnine.png)
 
